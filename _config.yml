@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Girke Lab
 tagline:             'Home Page'
-description:         'Hidden Toolbar'
+description:         'Thomas Girke'
 url:                 http://tgirke.github.io
 baseurl:             ''
 paginate:            5
