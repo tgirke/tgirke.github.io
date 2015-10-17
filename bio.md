@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-header: About
+title: Biography
+header: Biography
 group: navigation
 ---
 <br/>
