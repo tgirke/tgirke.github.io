@@ -596,3 +596,8 @@ a.pagination-item:hover {
 }
 /* [END] Profile Picture */
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
