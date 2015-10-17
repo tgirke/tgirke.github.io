@@ -35,6 +35,10 @@ Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est 
 
 Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
 
+{% highlight r %}
+x <- 1:12
+{% endhighlight %}
+
 {% highlight js %}
 // Example can be run directly in your JavaScript console
 
