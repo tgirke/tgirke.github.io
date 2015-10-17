@@ -4,6 +4,7 @@ title : Contact
 header : Contact
 group: navigation
 ---
+<br/>
 
 __Thomas Girke__, Ph.D. <br/>
 Professor of Bioinformatics <br/>

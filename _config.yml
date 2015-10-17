@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Girke Lab
-tagline:             'Home Page'
-description:         'Thomas Girke'
+tagline:             'Site'
+description:         'Girke Lab Site'
 url:                 http://tgirke.github.io
 baseurl:             ''
 paginate:            5
