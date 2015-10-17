@@ -20,9 +20,6 @@ Useful Pages:
 * [Check YAML formatting](http://www.yamllint.com/)
 
 
-## Usage
-To navigate this site, toggle the hidden side bar by clicking the **☰** symbol in the top left corner.
-
 ## Useful commands 
 
 Generate new Jekyll site directory from scratch
