@@ -1,12 +1,12 @@
 ---
 layout: page
-title : Contact
-header : Contact
+title: Contact
+header: Contact
 group: navigation
 ---
 <br/>
 
-__Thomas Girke__, Ph.D. <br/>
+**Thomas Girke**, Ph.D. <br/>
 Professor of Bioinformatics <br/>
 Institute for Integrative Genome Biology (IIGB) <br/>
 Department of Botany and Plant Sciences <br/>
