@@ -119,10 +119,6 @@ $ jekyll serve --drafts
 
 ## Code chunks and syntax highlighting
 
-More detailed information on this topic can be found here: 
-
-* [Improve cody highligthing in Jekyll pages](http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html){:target="_blank"}
-
 To create code boxes, use the code tags with syntax highlighting for your programming 
 language (here ruby): <br/> 
 <code>{% raw %} {% highlight ruby linenos %}...{% endhighlight %} {% endraw %}</code> <br/>
@@ -157,8 +153,12 @@ appendCounter(x, sep="_")
 {% endhighlight %}
 
 Code hosted on GitHub Gist can be directly included in a page simply by providing the 
-corresponding identifier of the Gist entry in the Markdown source following this syntax: <br/>
+corresponding identifier of the Gist entry in the Markdown source following this syntax: 
 <code>{% raw %} {% gist c26daac0f647f1732a58 %} {% endraw %}</code>
 
 {% gist c26daac0f647f1732a58 %}
+
+More detailed information on this topic can be found here: 
+
+* [Improve cody highligthing in Jekyll pages](http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html){:target="_blank"}
 
