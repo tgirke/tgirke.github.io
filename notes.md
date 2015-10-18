@@ -160,5 +160,5 @@ corresponding identifier of the Gist entry in the Markdown source following this
 
 More detailed information on this topic can be found here: 
 
-* [Improve cody highligthing in Jekyll pages](http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html){:target="_blank"}
+* [Improve code highligthing in Jekyll pages](http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html){:target="_blank"}
 
