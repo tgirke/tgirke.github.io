@@ -117,10 +117,17 @@ $ jekyll serve --drafts
 {% endhighlight %}
 
 
-
 ## Code chunks and syntax highlighting
 
-{% highlight ruby %}
+* [Improve cody highligthing in Jekyll pages](http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html){:target="_blank"}
+
+To create code boxes, use the code tags with syntax highlighting for your programming 
+language (here ruby): <br/> 
+<code>{% raw %} {% highlight ruby %}...{% endhighlight %} {% endraw %}</code>
+
+Here is an example:
+
+{% highlight r %}
 ############################
 ## appendCounter Function ##
 ############################
@@ -132,7 +139,8 @@ $ jekyll serve --drafts
 ## original data are in the same order in the data slot
 ## and the counting result in the name slot.
 appendCounter <- function(x, sep="_") {
-    names(x) <- sprintf(paste0("%0", as.character(nchar(length(x))+1), "d"), seq_along(x))
+    names(x) <- sprintf(paste0("%0", as.character(nchar(length(x))+1), 
+                        "d"), seq_along(x))
     tmp <- sort(x)
     f <- table(tmp)
     tmp2 <- unlist(sapply(names(f), function(z) paste(z, 1:f[z], 
@@ -145,6 +153,10 @@ appendCounter <- function(x, sep="_") {
 x <-  c("a", "b", "c", "b", "h", "c")                                            
 appendCounter(x, sep="_")
 {% endhighlight %}
+
+Code from GitHub Gist can be included simply by providing the corresponding identifier of
+the corresponding Gist entry using the syntax: <br/>
+<code>{% raw %} {% gist c26daac0f647f1732a58 %} {% endraw %}</code>
 
 {% gist c26daac0f647f1732a58 %}
 
