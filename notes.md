@@ -125,11 +125,11 @@ More detailed information on this topic can be found here:
 
 To create code boxes, use the code tags with syntax highlighting for your programming 
 language (here ruby): <br/> 
-<code>{% raw %} {% highlight ruby %}...{% endhighlight %} {% endraw %}</code>
+<code>{% raw %} {% highlight ruby linenos %}...{% endhighlight %} {% endraw %}</code> <br/>
+Dropping `linenos` will eliminate the line numbering. Here is an example
+for some R code:
 
-Here is an example:
-
-{% highlight r %}
+{% highlight r linenos %}
 ############################
 ## appendCounter Function ##
 ############################
@@ -141,8 +141,8 @@ Here is an example:
 ## original data are in the same order in the data slot
 ## and the counting result in the name slot.
 appendCounter <- function(x, sep="_") {
-    names(x) <- sprintf(paste0("%0", as.character(nchar(length(x))+1), 
-                        "d"), seq_along(x))
+    names(x) <- sprintf(paste0("%0", as.character(nchar(
+                        length(x))+1), "d"), seq_along(x))
     tmp <- sort(x)
     f <- table(tmp)
     tmp2 <- unlist(sapply(names(f), function(z) paste(z, 1:f[z], 
