@@ -154,8 +154,8 @@ x <-  c("a", "b", "c", "b", "h", "c")
 appendCounter(x, sep="_")
 {% endhighlight %}
 
-Code from GitHub Gist can be included simply by providing the corresponding identifier of
-the corresponding Gist entry using the syntax: <br/>
+Code hosted on GitHub Gist can be directly included in a page simply by providing the 
+corresponding identifier of the Gist entry in the Markdown source following this syntax: <br/>
 <code>{% raw %} {% gist c26daac0f647f1732a58 %} {% endraw %}</code>
 
 {% gist c26daac0f647f1732a58 %}
