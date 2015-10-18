@@ -43,6 +43,40 @@ group: navigation
 * Jack Cui (cui[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=qWiY06L5W242s04jUOZZdW6Hc9v877t9RuZkM45YQFk= "Reveal this e-mail address")@hotmail.com), systems admin, C&C, UCR
 * Hua Tran (hua_[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=I1J4Moyv8f-REjvMa7ISU74gC7ELCMStN1qX2AdZEY0= "Reveal this e-mail address")@uclink.berkeley.edu), graduate student, UC Berkeley
 
+<br/>
 
+## Open Positions
+
+#### Postdoctoral position in comparative genomics - [ filled ]
+
+This position requires several years of experience in computational biology,
+statistics, database design and data mining with strong publications records in
+several of these areas. The candidate should be proficient in at least one of
+the common programming languages that are used in bioinformatics: C, Python,
+Java, Perl or R. Experience with web and database programming is also
+beneficial. To apply for this position, please email your CV and a statement of
+research interests to thomas.girke@ucr.edu.  
+
+#### Postdoctoral position in cheminformatics - [ filled ]
+
+This position requires experience in computational chemistry, drug-informatics,
+QSAR/phramacophore modeling and data mining with strong publications records in
+several of these areas. The candidate should be proficient in at least one of
+the common programming languages that are used in cheminformatics: C, Python,
+Java, Perl or R. Experience with web and database programming is also
+beneficial. To apply for this position, please email your CV and a statement of
+research interests to thomas.girke@ucr.edu.  
+
+#### Undergraduate research positions - [ filled ] 
+
+Several postions are available for undergraduate students who are interested in
+participating in challenging database and software development projects for
+various research projects in bioinformatics and cheminformatics. The required
+skills are experience with open-source databases (MySQL/PostgreSQL),
+application and web programming with Python, Perl and/or Java. The minimum time
+commitment is 15-20h per week for a period of at least 18 months. Full-time
+employment during the summer break is possible. To apply for these positions,
+please email your CV with a detailed outline of your computational skills to
+thomas.girke@ucr.edu.  
 
 
