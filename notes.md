@@ -119,6 +119,8 @@ $ jekyll serve --drafts
 
 ## Code chunks and syntax highlighting
 
+More detailed information on this topic can be found here: 
+
 * [Improve cody highligthing in Jekyll pages](http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html){:target="_blank"}
 
 To create code boxes, use the code tags with syntax highlighting for your programming 
