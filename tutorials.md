@@ -5,4 +5,4 @@ header: Tutorials
 group: navigation
 ---
 
-Events are listed [here](http://manuals.bioinformatics.ucr.edu/workshops){:target="_blank"}
+Workshop and tutorial events are listed [here](http://manuals.bioinformatics.ucr.edu/workshops){:target="_blank"}
