@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Thomas Girke
-tagline:             'Research and Teaching Page'
+title:               Girke Lab
+tagline:             'Research and Teaching'
 description:         'Thomas Girke'
 url:                 http://tgirke.github.io
 baseurl:             ''
