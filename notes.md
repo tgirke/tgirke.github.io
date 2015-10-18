@@ -13,7 +13,7 @@ group: navigation
 * [Using Jekyll with Github pages](https://help.github.com/articles/using-jekyll-with-pages/)
 * [Jekyll-Bootstrap quickstart](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 * [Configure Jekyll for your project](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/)
-* [Tab icon](http://modernweb.com/2013/10/28/building-a-blog-with-jekyll/)
+* [Tab icon design](http://modernweb.com/2013/10/28/building-a-blog-with-jekyll/)
 * [Custom Domain setup](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages-2/)
 * [Check YAML formatting](http://www.yamllint.com/)
 

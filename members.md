@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Members
+title: Members
 header: Members
 group: navigation
 ---
