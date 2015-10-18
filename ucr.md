@@ -15,6 +15,10 @@ group: navigation
 * [Computer Science and Engineering Department](http://www.cs.ucr.edu/){:target="_blank"}
 * [Engineering Departments](http://www.engr.ucr.edu/academics/faculty.shtml){:target="_blank"}
 
+## Bioinformatics Sites
+
+* [Bioinformatics Labs](http://labs.bioinformatics.ucr.edu/){:target="_blank"}
+* [Bioinformatics Facility Site](http://facility.bioinformatics.ucr.edu/){:target="_blank"}
 
 ## Graduate Programs
 
