@@ -8,7 +8,7 @@ group: navigation
 
 **Thomas Girke**, Ph.D. <br/>
 Professor of Bioinformatics <br/>
-Institute for Integrative Genome Biology (IIGB) <br/>
+Institute for Integrative Genome Biology ([IIGB](http://genomics.ucr.edu/){:target="_blank"}) <br/>
 Department of Botany and Plant Sciences <br/>
 1207F Genomics Building <br/>
 University of California, Riverside, CA 92521 <br/>
