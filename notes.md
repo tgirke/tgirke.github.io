@@ -14,7 +14,7 @@ group: navigation
 * [Jekyll-Bootstrap quickstart](http://jekyllbootstrap.com/usage/jekyll-quick-start.html){:target="_blank"}
 * [Configure Jekyll for your project](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/){:target="_blank"}
 * [Tab icon design](http://modernweb.com/2013/10/28/building-a-blog-with-jekyll/){:target="_blank"}
-* [Custom Domain setup](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages-2/){:target="_blank"}
+* [Configure CNAME](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider/){:target="_blank"}
 * [Check YAML formatting](http://www.yamllint.com/){:target="_blank"}
 
 ### Sample pages
@@ -120,7 +120,7 @@ $ jekyll serve --drafts
 
 ## Code chunks and syntax highlighting
 
-{% highlight r %}
+{% highlight ruby %}
 ############################
 ## appendCounter Function ##
 ############################
@@ -132,8 +132,7 @@ $ jekyll serve --drafts
 ## original data are in the same order in the data slot
 ## and the counting result in the name slot.
 appendCounter <- function(x, sep="_") {
-    names(x) <- sprintf(paste0("%0", as.character(nchar(length(x))+1), 
-                        "d"), seq_along(x))
+    names(x) <- sprintf(paste0("%0", as.character(nchar(length(x))+1), "d"), seq_along(x))
     tmp <- sort(x)
     f <- table(tmp)
     tmp2 <- unlist(sapply(names(f), function(z) paste(z, 1:f[z], 
@@ -146,4 +145,6 @@ appendCounter <- function(x, sep="_") {
 x <-  c("a", "b", "c", "b", "h", "c")                                            
 appendCounter(x, sep="_")
 {% endhighlight %}
+
+{% gist c26daac0f647f1732a58 %}
 
