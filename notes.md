@@ -9,37 +9,37 @@ group: navigation
 
 ### General help 
 
-* [Jekyll main page](http://jekyllrb.com/)
-* [Using Jekyll with Github pages](https://help.github.com/articles/using-jekyll-with-pages/)
-* [Jekyll-Bootstrap quickstart](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-* [Configure Jekyll for your project](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/)
-* [Tab icon design](http://modernweb.com/2013/10/28/building-a-blog-with-jekyll/)
-* [Custom Domain setup](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages-2/)
-* [Check YAML formatting](http://www.yamllint.com/)
+* [Jekyll main page](http://jekyllrb.com/){:target="_blank"}
+* [Using Jekyll with Github pages](https://help.github.com/articles/using-jekyll-with-pages/){:target="_blank"}
+* [Jekyll-Bootstrap quickstart](http://jekyllbootstrap.com/usage/jekyll-quick-start.html){:target="_blank"}
+* [Configure Jekyll for your project](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/){:target="_blank"}
+* [Tab icon design](http://modernweb.com/2013/10/28/building-a-blog-with-jekyll/){:target="_blank"}
+* [Custom Domain setup](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages-2/){:target="_blank"}
+* [Check YAML formatting](http://www.yamllint.com/){:target="_blank"}
 
 ### Sample pages
 
-* [Steven Miller's academic site](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/)
-* [Lanyon sample by Anand Sankar](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages/)
-* [Karl Broman's academic site](http://kbroman.org/pages/about.html)
+* [Steven Miller's academic site](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/){:target="_blank"}
+* [Lanyon sample by Anand Sankar](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages/){:target="_blank"}
+* [Karl Broman's academic site](http://kbroman.org/pages/about.html){:target="_blank"}
 
 ### R Markdown and Jekyll
 
-* [Jekyll-Bootstrap for R blogging](http://lcolladotor.github.io/2013/11/09/new-Fellgernon-Bit-setup-in-Github/#.ViMHLmerSkD)
-* [Blog with Knitr and Jekyll](http://jfisher-usgs.github.io/)
+* [Jekyll-Bootstrap for R blogging](http://lcolladotor.github.io/2013/11/09/new-Fellgernon-Bit-setup-in-Github/#.ViMHLmerSkD){:target="_blank"}
+* [Blog with Knitr and Jekyll](http://jfisher-usgs.github.io/){:target="_blank"}
 
 ### Lanyon theme
 
 Lanyon is a Jekyll Bootstrap theme that is based on Poole.
 
-* [Lanyon download](https://github.com/poole/lanyon)
-* [Lanyon usage](http://lanyon.getpoole.com/)
-* [Lanyon layout setup](https://github.com/poole/lanyon)
+* [Lanyon download](https://github.com/poole/lanyon){:target="_blank"}
+* [Lanyon usage](http://lanyon.getpoole.com/){:target="_blank"}
+* [Lanyon layout setup](https://github.com/poole/lanyon){:target="_blank"}
 
 ### Markdown and Kramdown Syntax
 
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [kramdown](http://kramdown.gettalong.org/quickref.html)
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
+* [kramdown](http://kramdown.gettalong.org/quickref.html){:target="_blank"}
 
 ## Quickstart with Jekyll 
 
@@ -57,8 +57,8 @@ $ cd tgirke.github.io
 $ git remote set-url origin git@github.com:tgirke/tgirke.github.io.git
 $ git push origin master
 {% endhighlight %}
-Now you should see your web repos here: [https://github.com/tgirke/tgirke.github.io](https://github.com/tgirke/tgirke.github.io).
-Your web site's URL is this: [http://tgirke.github.io](http://tgirke.github.io). 
+Now you should see your web repos here: [https://github.com/tgirke/tgirke.github.io](https://github.com/tgirke/tgirke.github.io){:target="_blank"}.
+Your web site's URL is this: [http://tgirke.github.io](http://tgirke.github.io){:target="_blank"}. 
 
 ### Basic structure of Jekyll site
 When the below directory structure is built using Jekyll, the output is a
@@ -84,14 +84,14 @@ under <code>_site</code>.
 |       |-- ...
 {% endhighlight %}
 
-Render Jekyll site locally, <code>cd</code> into site directory (<code>tgirke.github.io</code>) 
+Render Jekyll site locally, `cd` into site directory `tgirke.github.io` 
 and run following command. 
 
 {% highlight bash%}
 $ jekyll serve -w
 {% endhighlight %}
 
-Then direct your browser to: <code>localhost:4000</code>
+Then direct your browser to: `localhost:4000`
 
 ### Commit changes to github
 {% highlight bash%}
@@ -100,7 +100,7 @@ $ git add -A .; git commit -am "some edits"; git push -u origin master
 
 ### Draft pages
 To maintain drafts of pages that should be hidden on the life page, you can do
-this in a <code>_drafts</code> folder at the root level. Jekyll ignores the posts in the
+this in a `_drafts` folder at the root level. Jekyll ignores the posts in the
 drafts folder when building the site, but at the same time provides a
 convenient command-line argument to include them in the build on your local
 system. 
