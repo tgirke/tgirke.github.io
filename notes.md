@@ -27,6 +27,7 @@ group: navigation
 
 * [Jekyll-Bootstrap for R blogging](http://lcolladotor.github.io/2013/11/09/new-Fellgernon-Bit-setup-in-Github/#.ViMHLmerSkD){:target="_blank"}
 * [Blog with Knitr and Jekyll](http://jfisher-usgs.github.io/){:target="_blank"}
+* [Jekyll/Lanyon R Shiny Integration](http://ragupappu.com/){:target="_blank"}
 
 ### Lanyon theme
 
@@ -68,18 +69,24 @@ kept in the project's root directory or under <code>_posts</code>. Never edit an
 under <code>_site</code>.
 
 {% highlight bash%}
+project root
+|
 |-- _config.yml
 |-- index.html
+|
 |-- _includes
 |       |-- head.html
 |       |-- ...
+|
 |-- _layouts
 |       |-- page.html
 |       |-- post.html
 |       |-- ...
+|
 |-- _posts
 |       |-- 2014-01-01-blog.md
 |       |-- ...
+|
 |-- _site
 |       |-- ...
 {% endhighlight %}
