@@ -9,7 +9,7 @@ group: navigation
 ## Degrees  
 
 Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
-Postdoctorate in Genomics and Bioinformatics, Michigan State University  
+Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI  
 
 <br/>
 
