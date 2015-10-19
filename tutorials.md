@@ -9,7 +9,9 @@ Workshop and tutorial events are listed [here](http://manuals.bioinformatics.ucr
 
 <br/>
 
-# Archive of Past Events
+## Archive of Past Events
+
+<br/>
 
 <table border="1" valign="top">
 <tbody>
@@ -31,17 +33,17 @@ Workshop and tutorial events are listed [here](http://manuals.bioinformatics.ucr
 <th style="width:528px;height:16px">Title and Description</th>
     </tr>
 <tr>
-<td><span style="font-size:13.3333px;line-height:21.3333px">July 22, 2015</span></td>
-<td><span style="font-size:13.3333px;line-height:21.3333px">1:00pm - 3:45pm</span></td>
-<td><a href="https://www.fredhutch.org/en/contact-us.html" style="font-size:13.3333px;line-height:21.3333px">Fred Hutchinson Cancer Research Center - Seattle, WA</a></td>
-<td>Thomas Girke</td>
-<td>UCR</td>
-<td>
-<div><span style="font-size:13.3333px;line-height:21.3333px"><b>Automated NGS workflows with systemPipeR </b>&nbsp;(<a href="http://www.bioconductor.org/help/course-materials/2015/BioC2015/">Annual Bioconductor Converence 2015</a>)</span></div>
-<div style="font-size:13.3333px;line-height:21.3333px"><u>Title:</u>&nbsp;Automated NGS workflows with systemPipeR running on clusters or single machines, with a focus on VAR-seq</div>
-<div style="font-size:13.3333px;line-height:21.3333px"><u>Description:</u>&nbsp;<span style="line-height:1.6;font-size:10pt;background-color:transparent">This tutorial introduces systemPipeR, an R package designed for building end-to-end analysis pipelines with automated report generation for next generation sequence (NGS) applications. The package also provides support for running command-line software, such as NGS aligners and variant callers, on both single machines and compute clusters. The first part of the tutorial introduces the basic design of the package, and the second part gives an overview of a typical VAR-Seq analysis workflow including read QC/preprocessing, variant aware read alignments, variant calling, and annotations of SNPs and indels with genomic context information.&nbsp;</span></div>
-<div style="font-size:13.3333px;line-height:21.3333px">Teaching Material:&nbsp;<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/tgirke/systemPipeR/master/inst/extdata/slides/systemPipeRslides.html">Slides</a>&nbsp; &nbsp;<a href="https://htmlpreview.github.io/?https://github.com/tgirke/systemPipeR/blob/master/vignettes/systemPipeR.html">Manual</a></div>
-<div><span style="font-size:13.3333px;line-height:21.3333px">Maximum number of participants: 35</span></div>
+<td valign="top"><span>July 22, 2015</span></td>
+<td valign="top"><span>1:00pm - 3:45pm</span></td>
+<td valign="top"><a href="https://www.fredhutch.org/en/contact-us.html">Fred Hutchinson Cancer Research Center - Seattle, WA</a></td>
+<td valign="top">Thomas Girke</td>
+<td valign="top">UCR</td>
+<td valign="top">
+<div><span><b>Automated NGS workflows with systemPipeR </b>&nbsp;(<a href="http://www.bioconductor.org/help/course-materials/2015/BioC2015/">Annual Bioconductor Conference 2015</a>)</span></div>
+<div><u>Title:</u>&nbsp;Automated NGS workflows with systemPipeR running on clusters or single machines, with a focus on VAR-seq</div>
+<div><u>Description:</u>&nbsp;<span>This tutorial introduces systemPipeR, an R package designed for building end-to-end analysis pipelines with automated report generation for next generation sequence (NGS) applications. The package also provides support for running command-line software, such as NGS aligners and variant callers, on both single machines and compute clusters. The first part of the tutorial introduces the basic design of the package, and the second part gives an overview of a typical VAR-Seq analysis workflow including read QC/preprocessing, variant aware read alignments, variant calling, and annotations of SNPs and indels with genomic context information.&nbsp;</span></div>
+<div>Teaching Material:&nbsp;<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/tgirke/systemPipeR/master/inst/extdata/slides/systemPipeRslides.html">Slides</a>&nbsp; &nbsp;<a href="https://htmlpreview.github.io/?https://github.com/tgirke/systemPipeR/blob/master/vignettes/systemPipeR.html">Manual</a></div>
+<div>Maximum number of participants: 35</span></div>
 </td>
 </tr>
 <tr>
@@ -50,22 +52,22 @@ Workshop and tutorial events are listed [here](http://manuals.bioinformatics.ucr
 <td>&nbsp;MCBIOS-2015 Workshop</td>
 <td>Thomas Girke</td>
 <td>Marriott Conference Center, Little Rock, AR</td>
-<td><span style="font-size:13.3333px;line-height:17.0667px"><b>NGS Data Analysis with R/Bioconductor</b><br>
-<u>Description:</u></span><span style="font-size:13.3333px;line-height:17.0667px">&nbsp;Introduction to R/Bioconductor; Basics on Analyzing Next Generation Sequencing Data (Part I); Basics on Analyzing Next Generation Sequencing Data (Part II), and Analysis of RNA-Seq Data.<br>
+<td><span><b>NGS Data Analysis with R/Bioconductor</b><br>
+<u>Description:</u></span><span>&nbsp;Introduction to R/Bioconductor; Basics on Analyzing Next Generation Sequencing Data (Part I); Basics on Analyzing Next Generation Sequencing Data (Part II), and Analysis of RNA-Seq Data.<br>
 <a href="http://manuals.bioinformatics.ucr.edu/workshops/mcbios">Schedule and Teaching Material</a><br>
-</span><span style="font-size:13.3333px;line-height:17.0667px">Maximum number of participants: 45</span></td>
+</span><span>Maximum number of participants: 45</span></td>
 </tr>
 <tr>
-<td><span style="font-size:13.3333px;line-height:17.0667px">Dec 5, 2014</span></td>
-<td><span style="font-size:13.3333px;line-height:17.0667px">9:00am - 12:00pm</span></td>
+<td><span>Dec 5, 2014</span></td>
+<td><span>9:00am - 12:00pm</span></td>
 <td>Genomics Lecture Hall</td>
 <td>Thomas Girke</td>
 <td>UCR</td>
 <td>
-<div><span style="font-size:13.3333px;line-height:17.0667px"><b>Introduction to R</b></span></div>
-<div style="font-size:13.3333px;line-height:17.0667px"><u>Description:</u>&nbsp;R (<a href="http://www.r-project.org/" rel="nofollow">http://www.r-project.org</a>) is a versatile data analysis environment that has a broad application spectrum in all experimental and quantitative scientific areas. The associated&nbsp;<a href="http://www.bioconductor.org/" rel="nofollow">Bioconductor</a>&nbsp;project provides access to over 900 R extension packages for the analysis of modern biological and biomedical data sets, such as next generation sequences, comparative genomics, network modeling and statistical analysis. The R software is free and runs on all common operating systems. This workshop module provides an elementary-level introduction into the R environment to equip users with the knowledge required for the subsequent events of this R workshop series. The following topics will be covered: (1) command syntax, (2) basic functions, (3) data import/export, (4) data/object types, (5) graphical display, (6) usage of R packages/libraries (e.g. Bioconductor) and (7) using R for basic data analysis operations.</div>
-<div style="font-size:13.3333px;line-height:17.0667px"><a href="http://manuals.bioinformatics.ucr.edu/workshops/dec-5-8-2014" style="font-size:13.3333px;line-height:17.0667px">Schedule and Teaching Material</a></div>
-<div style="font-size:13.3333px;line-height:17.0667px">Maximum number of participants: 75&nbsp;</div>
+<div><span><b>Introduction to R</b></span></div>
+<div><u>Description:</u>&nbsp;R (<a href="http://www.r-project.org/" rel="nofollow">http://www.r-project.org</a>) is a versatile data analysis environment that has a broad application spectrum in all experimental and quantitative scientific areas. The associated&nbsp;<a href="http://www.bioconductor.org/" rel="nofollow">Bioconductor</a>&nbsp;project provides access to over 900 R extension packages for the analysis of modern biological and biomedical data sets, such as next generation sequences, comparative genomics, network modeling and statistical analysis. The R software is free and runs on all common operating systems. This workshop module provides an elementary-level introduction into the R environment to equip users with the knowledge required for the subsequent events of this R workshop series. The following topics will be covered: (1) command syntax, (2) basic functions, (3) data import/export, (4) data/object types, (5) graphical display, (6) usage of R packages/libraries (e.g. Bioconductor) and (7) using R for basic data analysis operations.</div>
+<div><a href="http://manuals.bioinformatics.ucr.edu/workshops/dec-5-8-2014" style="font-size:13.3333px;line-height:17.0667px">Schedule and Teaching Material</a></div>
+<div>Maximum number of participants: 75&nbsp;</div>
 </td>
 </tr>
 <tr>
