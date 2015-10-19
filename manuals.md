@@ -10,7 +10,7 @@ group: navigation
 * [NGS Analysis Workflows with systemPipeR](https://htmlpreview.github.io/?https://github.com/tgirke/systemPipeR/blob/master/vignettes/systemPipeR.html){:target="_blank"}
 * [NGS Analysis with R/Bioconductor](http://manuals.bioinformatics.ucr.edu/home/ht-seq){:target="_blank"}
 * [Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r){:target="_blank"}
-* [ChemmineR ](http://manuals.bioinformatics.ucr.edu/home/chemminer){:target="_blank"}
+* [ChemmineR](http://www.bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html){:target="_blank"}
 * [Vim-R-Tmux: Command-Line IDE for R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r){:target="_blank"}
 * [NGS Analysis with Galaxy and IGV](http://manuals.bioinformatics.ucr.edu/home/gui-ngs-analysis){:target="_blank"}
 * [EMBOSS](http://manuals.bioinformatics.ucr.edu/home/emboss){:target="_blank"}
