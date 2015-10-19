@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Girke Lab
-tagline:             'Research and Teaching'
+tagline:             'Research and Teaching Site'
 description:         'Thomas Girke'
 url:                 http://tgirke.github.io
 baseurl:             ''

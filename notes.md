@@ -99,7 +99,7 @@ project root
 |       |-- ...
 |
 |-- _posts
-|       |-- 2014-01-01-blog.md
+|       |-- 2015-01-01-blog.md
 |       |-- ...
 |
 |-- _site
