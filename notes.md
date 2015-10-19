@@ -42,6 +42,21 @@ Lanyon is a Jekyll Bootstrap theme that is based on Poole.
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
 * [kramdown](http://kramdown.gettalong.org/quickref.html){:target="_blank"}
 
+## Installation
+
+The install of Jekyll is straightforward with the RubyGems package manager.
+
+{% highlight bash %}
+gem install jekyll
+{% endhighlight %}
+
+If you want to keep your local Jekyll installation in sync with the version running on Github Pages, 
+then install the Github Pages gem instead of the Jekyll gem as follows.
+
+{% highlight bash %}
+gem install github-pages
+{% endhighlight %}
+
 ## Quickstart with Jekyll 
 
 Generate new Jekyll site directory from scratch
