@@ -119,11 +119,11 @@ $ jekyll serve --drafts
 
 ## Code chunks and syntax highlighting
 
-To create code boxes, use the code tags with syntax highlighting for your programming 
-language (here ruby): <br/> 
-<code>{% raw %} {% highlight ruby linenos %}...{% endhighlight %} {% endraw %}</code> <br/>
-Dropping `linenos` will eliminate the line numbering. Here is an example
-for some R code:
+To create code boxes with syntax highlighting support for your programming
+language, use the following code tags (here for ruby): <br/> <code>{% raw %} {%
+highlight ruby linenos %}...{% endhighlight %} {% endraw %}</code> <br/>
+Dropping `linenos` option will eliminate the line numbering. Here is an example for
+some R code:
 
 {% highlight s linenos %}
 ############################
@@ -158,7 +158,7 @@ corresponding identifier of the Gist entry in the Markdown source following this
 
 {% gist c26daac0f647f1732a58 %}
 
-More detailed information on this topic can be found here: 
+More detailed information on code highlighting can be found here: 
 
 * [Improve code highligthing in Jekyll pages](http://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html){:target="_blank"}
 
