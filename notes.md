@@ -21,7 +21,7 @@ group: navigation
 
 * [Steven Miller's academic site](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/){:target="_blank"}
 * [Lanyon sample by Anand Sankar](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages/){:target="_blank"}
-* [Trevor Bedford's academic site](https://github.com/blab/blotter){:target="_blank"}
+* [Trevor Bedford's academic site](http://bedford.io/misc/about/){:target="_blank"}
 * [Karl Broman's academic site](http://kbroman.org/pages/about.html){:target="_blank"}
 
 ### R Markdown and Jekyll
