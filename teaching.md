@@ -25,7 +25,7 @@ Introduction to the science of genomics and bioinformatics, including genome int
 
 ## Workshops
 
-* [Bioinformatics workshop page](http://manuals.bioinformatics.ucr.edu/workshops){:target="_blank"}
+* [Bioinformatics workshop page](http://tgirke.github.io/tutorials/){:target="_blank"}
 
 <br/>
 
