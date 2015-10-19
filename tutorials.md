@@ -40,7 +40,6 @@ Workshop and tutorial events are listed [here](http://manuals.bioinformatics.ucr
 <td valign="top">UCR</td>
 <td valign="top">
 <div><span><b>Automated NGS workflows with systemPipeR </b>&nbsp;(<a href="http://www.bioconductor.org/help/course-materials/2015/BioC2015/">Annual Bioconductor Conference 2015</a>)</span></div>
-<div><u>Title:</u>&nbsp;Automated NGS workflows with systemPipeR running on clusters or single machines, with a focus on VAR-seq</div>
 <div><u>Description:</u>&nbsp;<span>This tutorial introduces systemPipeR, an R package designed for building end-to-end analysis pipelines with automated report generation for next generation sequence (NGS) applications. The package also provides support for running command-line software, such as NGS aligners and variant callers, on both single machines and compute clusters. The first part of the tutorial introduces the basic design of the package, and the second part gives an overview of a typical VAR-Seq analysis workflow including read QC/preprocessing, variant aware read alignments, variant calling, and annotations of SNPs and indels with genomic context information.&nbsp;</span></div>
 <div>Teaching Material:&nbsp;<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/tgirke/systemPipeR/master/inst/extdata/slides/systemPipeRslides.html">Slides</a>&nbsp; &nbsp;<a href="https://htmlpreview.github.io/?https://github.com/tgirke/systemPipeR/blob/master/vignettes/systemPipeR.html">Manual</a></div>
 <div>Maximum number of participants: 35</span></div>
