@@ -8,8 +8,8 @@ group: navigation
 
 ## Degrees  
 
-Ph.D., University Hamburg, Germany  
-Postdoctorate, Michigan State University  
+Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
+Postdoctorate in Genomics and Bioinformatics, Michigan State University  
 
 <br/>
 
