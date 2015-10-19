@@ -125,7 +125,7 @@ language (here ruby): <br/>
 Dropping `linenos` will eliminate the line numbering. Here is an example
 for some R code:
 
-{% highlight r linenos %}
+{% highlight s linenos %}
 ############################
 ## appendCounter Function ##
 ############################
