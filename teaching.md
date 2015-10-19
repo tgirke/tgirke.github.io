@@ -31,6 +31,6 @@ Introduction to the science of genomics and bioinformatics, including genome int
 
 ## Manuals
 
-* [Bioinformatics manuals](http://manuals.bioinformatics.ucr.edu/){:target="_blank"}
+* [Bioinformatics manuals](http://tgirke.github.io/manuals/){:target="_blank"}
 
 
