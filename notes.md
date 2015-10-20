@@ -46,7 +46,7 @@ Lanyon is a Jekyll Bootstrap theme that is based on Poole.
 
 ### Markdown and Kramdown Syntax
 
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
+* [Markdown](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
 * [kramdown](http://kramdown.gettalong.org/quickref.html){:target="_blank"}
 
 ## Installation
