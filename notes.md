@@ -14,7 +14,13 @@ group: navigation
 * [Jekyll-Bootstrap quickstart](http://jekyllbootstrap.com/usage/jekyll-quick-start.html){:target="_blank"}
 * [Configure Jekyll for your project](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/){:target="_blank"}
 * [Tab icon design](http://modernweb.com/2013/10/28/building-a-blog-with-jekyll/){:target="_blank"}
-* [Configure CNAME](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider/){:target="_blank"}
+* [Configure custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/){:target="_blank"}
+{::comment}
+Note: to redirect your custom domain name from UCR to tgirke.github.io, you
+submitted a service request on this site http://comm.ucr.edu. The request
+should be addressed to Julie Slusser and classified as DNS service request.
+Subsequently, you followed the github instructions linked above.
+{:/comment}
 * [Check YAML formatting](http://www.yamllint.com/){:target="_blank"}
 
 ### Sample pages
@@ -67,7 +73,7 @@ $ jekyll new <directory>
 {% endhighlight %}
 
 ### Clone template, here Lanyon
-Make sure you create an empty tgirke.github.io repos on GitHub for this 
+Make sure you create an empty tgirke.github.io repos on GitHub first. 
 {% highlight bash %}
 $ git clone https://github.com/poole/lanyon.git tgirke.github.io
 $ cd tgirke.github.io
