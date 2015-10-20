@@ -8,15 +8,15 @@ group: navigation
 
 ## Current Members  
 
+* Tyler Backman (tyle[...](http://mailhide.recaptcha.net/d?k=01BB1WnQ7mvNNaTwuES7IxVQ==&c=rg0V9YY1TqgmFb4iDNawStgNjfumR2WnXaEvuJVORDY= "Reveal this e-mail address")@ucr.edu), graduate student, Bioengineering (BIG) [ [home page](http://girke.bioinformatics.ucr.edu/members/tyler-backman) ]  
+* Kevin Horan (kho[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=P_Y99wsBa41A99fbtFMP60hx2fUmjxg8LsbbAcE3jlY= "Reveal this e-mail address")@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
+* Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * Daniela Cassol (danicassol@gmail.com), Graduate Student, Molecular Plant Biology & Bioinformatics 
 * Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
 * Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
-* Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * John Sharifi (jshar004@ucr.edu), Undergraduate Student, Bioinformatics
-* Kevin Horan (kho[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=P_Y99wsBa41A99fbtFMP60hx2fUmjxg8LsbbAcE3jlY= "Reveal this e-mail address")@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
-* Tyler Backman (tyle[...](http://mailhide.recaptcha.net/d?k=01BB1WnQ7mvNNaTwuES7IxVQ==&c=rg0V9YY1TqgmFb4iDNawStgNjfumR2WnXaEvuJVORDY= "Reveal this e-mail address")@ucr.edu), graduate student, Bioengineering (BIG) [ [home page](http://girke.bioinformatics.ucr.edu/members/tyler-backman) ]  
-* Yan Wang (wangya@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/yan-wang) ]  
 * Ergude Bao (baoe@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
+* Yan Wang (wangya@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/yan-wang) ]  
 
 <br/>
 
