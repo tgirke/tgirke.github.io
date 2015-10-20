@@ -16,10 +16,10 @@ group: navigation
 * [Tab icon design](http://modernweb.com/2013/10/28/building-a-blog-with-jekyll/){:target="_blank"}
 * [Configure custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/){:target="_blank"}
 {::comment}
-Note: to redirect your custom domain name from UCR to tgirke.github.io, you
-submitted a service request on this site http://comm.ucr.edu. The request
+Note: to redirect your UCR custom domain name to tgirke.github.io, you
+submit a service request on this site http://comm.ucr.edu. The request
 should be addressed to Julie Slusser and classified as DNS service request.
-Subsequently, you followed the github instructions linked above.
+Subsequently, you follow the github instructions linked above.
 {:/comment}
 * [Check YAML formatting](http://www.yamllint.com/){:target="_blank"}
 
