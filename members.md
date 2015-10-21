@@ -8,7 +8,7 @@ group: navigation
 
 ## Current Members  
 
-* Tyler Backman (tyle[...](http://mailhide.recaptcha.net/d?k=01BB1WnQ7mvNNaTwuES7IxVQ==&c=rg0V9YY1TqgmFb4iDNawStgNjfumR2WnXaEvuJVORDY= "Reveal this e-mail address")@ucr.edu), graduate student, Bioengineering (BIG) [ [home page](http://girke.bioinformatics.ucr.edu/members/tyler-backman) ]  
+* Tyler Backman (tyle[...](http://www.google.com/recaptcha/mailhide/d?k=01O_efPvbFw22_yCCmBKf1Vw==&c=8fZu9Cp0gKUt3hiLGrlrjqauVvvE7t0jgUCq73pyvsk= "Reveal this e-mail address")@email.ucr.edu), PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
 * Kevin Horan (kho[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=P_Y99wsBa41A99fbtFMP60hx2fUmjxg8LsbbAcE3jlY= "Reveal this e-mail address")@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * Daniela Cassol (danicassol@gmail.com), Graduate Student, Molecular Plant Biology & Bioinformatics 
