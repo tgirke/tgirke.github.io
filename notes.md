@@ -39,7 +39,7 @@ Subsequently, you follow the github instructions linked above.
 * [Blog with Knitr and Jekyll](http://jfisher-usgs.github.io/){:target="_blank"}
 * [Jekyll/Lanyon R Shiny Integration](http://ragupappu.com/){:target="_blank"}
 
-#### Lanyon theme
+#### Lanyon theme (currently used by this site)
 
 * [Lanyon download](https://github.com/poole/lanyon){:target="_blank"}
 * [Lanyon usage](http://lanyon.getpoole.com/){:target="_blank"}
