@@ -5,9 +5,11 @@ header : Notes
 group: navigation
 ---
 
-## Jekyll and Jekyll Bootstrap Notes
+## Jekyll and Jekyll-Bootstrap Notes
 
-### General help 
+### Online Resources
+
+#### General help 
 
 * [Jekyll main page](http://jekyllrb.com/){:target="_blank"}
 * [Using Jekyll with Github pages](https://help.github.com/articles/using-jekyll-with-pages/){:target="_blank"}
@@ -23,7 +25,7 @@ Subsequently, you follow the github instructions linked above.
 {:/comment}
 * [Check YAML formatting](http://www.yamllint.com/){:target="_blank"}
 
-### Sample pages
+#### Sample pages
 
 * [Steven Miller's academic site](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/){:target="_blank"}
 * [Lanyon sample by Anand Sankar](http://anandmanisankar.com/posts/set-up-blog-jekyll-github-pages/){:target="_blank"}
@@ -31,24 +33,24 @@ Subsequently, you follow the github instructions linked above.
 * [Karl Broman's academic site](http://kbroman.org/pages/about.html){:target="_blank"}
 * [Josh Habdas's site](http://habd.as/){:target="_blank"}
 
-### R Markdown and Jekyll
+#### R Markdown and Jekyll
 
 * [Jekyll-Bootstrap for R blogging](http://lcolladotor.github.io/2013/11/09/new-Fellgernon-Bit-setup-in-Github/#.ViMHLmerSkD){:target="_blank"}
 * [Blog with Knitr and Jekyll](http://jfisher-usgs.github.io/){:target="_blank"}
 * [Jekyll/Lanyon R Shiny Integration](http://ragupappu.com/){:target="_blank"}
 
-### Lanyon theme
-
-Lanyon is a Jekyll Bootstrap theme that is based on Poole.
+#### Lanyon theme
 
 * [Lanyon download](https://github.com/poole/lanyon){:target="_blank"}
 * [Lanyon usage](http://lanyon.getpoole.com/){:target="_blank"}
 * [Lanyon layout setup](https://github.com/poole/lanyon){:target="_blank"}
 
-### Markdown and Kramdown Syntax
+#### Markdown and Kramdown Syntax
 
 * [Markdown](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
 * [kramdown](http://kramdown.gettalong.org/quickref.html){:target="_blank"}
+
+<br/>
 
 ## Installation
 
