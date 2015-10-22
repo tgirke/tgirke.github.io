@@ -7,7 +7,7 @@ group: navigation
 
 ## R/Bioconductor Packages
 
-* [systemPipeR](https://github.com/tgirke/systemPipeR){:target="_blank"}: NGS workflow and report generation environment
+* [systemPipeR](http://bioconductor.org/packages/devel/systemPipeR){:target="_blank"}: NGS workflow and report generation environment
 * [ChemmineR](http://www.bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html){:target="_blank"}: Cheminformatics Toolkit for R 
 * [ChemmineOB](http://master.bioconductor.org/packages/devel/bioc/html/ChemmineOB.html){:target="_blank"}: R interface to a subset of OpenBabel functionalities 
 * [fmcsR](http://www.bioconductor.org/packages/devel/bioc/html/fmcsR.html){:target="_blank"}: Flexible Maximum Common Substructure (FMCS) Searching (also see [MCS](http://bioweb.ucr.edu/ChemMineV2/help/mcs.html){:target="_blank"}) 
