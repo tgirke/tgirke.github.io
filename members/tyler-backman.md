@@ -7,6 +7,8 @@ group: members
 
 ![Tyler Image](/members/tyler-backman.jpg)
 
+Contact: [click to access e-mail address](http://www.physics.oregonstate.edu/)
+
 ## Status
 
 Bioengineering Doctoral Candidate
