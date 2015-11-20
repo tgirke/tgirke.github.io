@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Events
-header: Events
+title: Internal Events
+header: Internal Events
 group: navigation
 ---
 
