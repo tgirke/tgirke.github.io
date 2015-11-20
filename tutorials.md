@@ -5,7 +5,17 @@ header: Tutorials
 group: navigation
 ---
 
-Workshop and tutorial events are listed [here](http://manuals.bioinformatics.ucr.edu/workshops){:target="_blank"}.
+<br/>
+
+## Workshops and Tutorials 
+
+* Past events are listed below.
+
+<br/>
+
+## Manuals
+
+* [Bioinformatics manuals](http://tgirke.github.io/manuals/){:target="_blank"}
 
 <br/>
 
