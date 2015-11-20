@@ -15,7 +15,7 @@ group: navigation
 
 ## Manuals
 
-* [Bioinformatics manuals](http://tgirke.github.io/manuals/){:target="_blank"}
+* [Manuals](http://tgirke.github.io/manuals/){:target="_blank"}
 
 <br/>
 
