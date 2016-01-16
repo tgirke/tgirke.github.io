@@ -32,6 +32,7 @@ Subsequently, you follow the github instructions linked above.
 * [Trevor Bedford's academic site](http://bedford.io/misc/about/){:target="_blank"}
 * [Karl Broman's academic site](http://kbroman.org/pages/about.html){:target="_blank"}
 * [Josh Habdas's site](http://habd.as/){:target="_blank"}
+* [Documentation Theme for Jekyll](http://jekyllthemes.org/themes/documentation-theme-jekyll/){:target="_blank"}
 
 #### R Markdown and Jekyll
 
