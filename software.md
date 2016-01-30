@@ -19,8 +19,8 @@ group: navigation
 * [AlignGraph](https://github.com/baoe/AlignGraph){:target="_blank"}: algorithm for secondary de novo genome assembly guided by closely related references.
 * [BRANCH](https://github.com/baoe/BRANCH){:target="_blank"}<font size="2"><span style="line-height:1.6">: </span></font>boosting RNA-Seq assemblies with partial or related genomic sequences
 * [SEED](https://github.com/baoe/SEED){:target="_blank"}: Clustering next generation sequences
-* [EI Search](http://chemmine.ucr.edu/ei/){:target="_blank"}: ultra-fast compound similarity searching
 * [MCS](http://bioweb.ucr.edu/ChemMineV2/help/mcs.html){:target="_blank"}: A maximum common substructure-based algorithm for searching and predicting drug-like compounds
+* [EI Search](http://chemmine.ucr.edu/ei/){:target="_blank"}: ultra-fast compound similarity searching
 
 ## Web Applications
 
