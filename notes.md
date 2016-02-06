@@ -155,7 +155,7 @@ highlight ruby linenos %}...{% endhighlight %} {% endraw %}</code> <br/>
 Dropping the `linenos` option will eliminate the line numbering. Here is an example for
 some R code:
 
-{% highlight s linenos %}
+{% highlight s %}
 ############################
 ## appendCounter Function ##
 ############################
