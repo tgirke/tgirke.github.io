@@ -87,7 +87,7 @@ $ git push origin master
 Now you should see your web repos here: [https://github.com/tgirke/tgirke.github.io](https://github.com/tgirke/tgirke.github.io){:target="_blank"}.
 Your web site's URL is this: [http://tgirke.github.io](http://tgirke.github.io){:target="_blank"}. 
 
-### Add GitHub pages site to any repo
+### Add GitHub page to an existing project repo
 By adding a gh-pages branch to an existing GitHub project repo one can 
 generate a web site for any project. Here is [how](https://help.github.com/articles/creating-project-pages-manually/).
 
