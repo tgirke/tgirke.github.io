@@ -132,7 +132,7 @@ Then direct your browser to: `localhost:4000`
 
 ### Commit changes to github
 {% highlight bash%}
-$ git add -A .; git commit -am "some edits"; git push -u origin master
+$ git add -A :/; git commit -am "some edits"; git push -u origin master
 {% endhighlight %}
 
 ### Draft pages
