@@ -11,19 +11,18 @@ group: members
 
 Bioengineering Doctoral Candidate
 
-## Contact Details
+## Email 
 
-tyle[...](http://www.google.com/recaptcha/mailhide/d?k=01OTzzwquwIgTEYLhBZCboDQ==&c=4aCOP87fxcKLoRRpaTIyCE9LmhhJe4tf1F7nc4Ps3aM= "Reveal this e-mail address")@ucr.edu
+{first initial}{last name} at ucr
 
 ## Education
 
 PhD in Bioengineering (in progress), [University of California Riverside](http://www.ucr.edu/)  
 BS in Physics, [Oregon State University](http://www.physics.oregonstate.edu/)  
-AA, [Clackamas Community College](http://www.clackamas.cc.or.us/index.aspx)
 
 ## Research Interests
 
-My research interests include computational drug design and discovery, mathematical modeling of biological feedback systems, and inference from weak and noisy data. I am currently developing computational tools to identify new small molecule drugs and drug targets for the treatment of human disease.
+I am interested in computational drug discovery, mathematical modeling of biological feedback systems, and inference from weak and noisy data. I am currently developing computational tools to identify new small molecule drugs and drug targets for the treatment of human disease.
 
 ## Publications
 
