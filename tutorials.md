@@ -5,14 +5,24 @@ header: Tutorials
 group: navigation
 ---
 
-Workshop and tutorial events are listed [here](http://manuals.bioinformatics.ucr.edu/workshops){:target="_blank"}.
+<br/>
+
+## Workshops and Tutorials 
+
+* Upcoming events: new schedule will be posted soon
+* Past events are listed below
+
+## Manuals
+
+* [Manuals](http://tgirke.github.io/manuals/){:target="_blank"}
+
+## Course Teaching
+
+* [Courses](http://tgirke.github.io/teaching/){:target="_blank"}
 
 <br/>
 
 ## Archive of Past Events
-
-<br/>
-
 <table border="1" valign="top">
 <tbody>
 <tr style="background-color:rgb(11,83,148)">

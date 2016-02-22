@@ -32,6 +32,7 @@ Subsequently, you follow the github instructions linked above.
 * [Trevor Bedford's academic site](http://bedford.io/misc/about/){:target="_blank"}
 * [Karl Broman's academic site](http://kbroman.org/pages/about.html){:target="_blank"}
 * [Josh Habdas's site](http://habd.as/){:target="_blank"}
+* [Documentation Theme for Jekyll](http://jekyllthemes.org/themes/documentation-theme-jekyll/){:target="_blank"}
 
 #### R Markdown and Jekyll
 
@@ -86,6 +87,10 @@ $ git push origin master
 Now you should see your web repos here: [https://github.com/tgirke/tgirke.github.io](https://github.com/tgirke/tgirke.github.io){:target="_blank"}.
 Your web site's URL is this: [http://tgirke.github.io](http://tgirke.github.io){:target="_blank"}. 
 
+### Add GitHub page to an existing project repo
+By adding a gh-pages branch to an existing GitHub project repo one can 
+generate a web site for any project. Here is [how](https://help.github.com/articles/creating-project-pages-manually/).
+
 ### Basic structure of Jekyll site
 When the below directory structure is built using Jekyll, the output is a
 static web site generated under the `_site` folder. Since GitHub uses Jekyll
@@ -127,7 +132,7 @@ Then direct your browser to: `localhost:4000`
 
 ### Commit changes to github
 {% highlight bash%}
-$ git add -A .; git commit -am "some edits"; git push -u origin master
+$ git add -A :/; git commit -am "some edits"; git push -u origin master
 {% endhighlight %}
 
 ### Draft pages
@@ -150,7 +155,7 @@ highlight ruby linenos %}...{% endhighlight %} {% endraw %}</code> <br/>
 Dropping the `linenos` option will eliminate the line numbering. Here is an example for
 some R code:
 
-{% highlight s linenos %}
+{% highlight s %}
 ############################
 ## appendCounter Function ##
 ############################

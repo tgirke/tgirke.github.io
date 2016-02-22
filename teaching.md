@@ -8,18 +8,28 @@ group: navigation
 
 ## Courses
 
-### Advances in Bioinformatics and Genomics - GEN242 (former GEN240B)
+### Data Analysis in Genome Biology - GEN242 (former GEN240B)
 
-Introduces modern data analysis concepts and algorithms used in bioinformatics
-and cheminformatics. Covers biological databases, sequence/genome analysis,
-phylogenetics, microarray/deep-sequencing approaches, clustering techniques,
-network analysis, and drug discovery methods. 4 units, 4 hours lecture, 2 hours
-discussion. Prerequisites: GEN 240A, STAT 160B, STAT 161 (STAT 161 may be taken
-concurrently).  
+[[Syllabus Spring-2015](https://goo.gl/PyQDHg)]
+
+Introduction to algorithms, statistical methods and data analysis skills for
+genome biology. The lecture topics cover databases, sequence (NGS) analysis,
+phylogenetics, comparative genomics and network biology. The hands-on data
+analysis components include homework assignments and course projects focusing
+on data analysis programming of _next generation genome data_ using Linux
+command-line tools and the programming environment R. 4 units, 4 hours lecture,
+2 hours discussion. 
 
 ### Introduction to Genomics and Bioinformatics - BIOL119
 
-Introduction to the science of genomics and bioinformatics, including genome integrated sequencing, database techniques, comparative and evolutionary genomics, and microarray analysis. 4 units, 3 hours lecture; 1 hour computer lab. Prerequisites: BIOL 005A, BIOL 05LA, BIOL 005B, BIOL 005C, BIOL 102, CHEM 001C or CHEM 01HC, CHEM 112C, MATH 009B or MATH 09HB, PHYS 002C, PHYS 02LC, BCH 100 or BCH 110A, one course in statistics.
+[[Syllabus Fall-2015](https://goo.gl/BXSyD8)]
+
+Introduction to the science of genomics and bioinformatics, including genome
+integrated sequencing, database techniques, comparative and evolutionary
+genomics, and microarray analysis. 4 units, 3 hours lecture; 1 hour computer
+lab. Prerequisites: BIOL 005A, BIOL 05LA, BIOL 005B, BIOL 005C, BIOL 102, CHEM
+001C or CHEM 01HC, CHEM 112C, MATH 009B or MATH 09HB, PHYS 002C, PHYS 02LC, BCH
+100 or BCH 110A, one course in statistics.
 
 <br/>
 
