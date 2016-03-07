@@ -10,7 +10,7 @@ group: navigation
 
 ### [Data Analysis in Genome Biology - GEN242](http://girke.bioinformatics.ucr.edu/GEN242)
 
-[[Syllabus Spring-2015](https://goo.gl/PyQDHg)]
+[[Syllabus Spring-2016](http://girke.bioinformatics.ucr.edu/GEN242/mydoc/mydoc_syllabus.html)]
 
 Introduction to algorithms, statistical methods and data analysis skills for
 genome biology. The lecture topics cover databases, sequence (NGS) analysis,
