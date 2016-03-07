@@ -10,6 +10,8 @@ group: navigation
 
 ### Data Analysis in Genome Biology - GEN242 (former GEN240B)
 
+[[Class of Spring-2016 on GitHub](http://girke.bioinformatics.ucr.edu/GEN242)]
+
 [[Syllabus Spring-2015](https://goo.gl/PyQDHg)]
 
 Introduction to algorithms, statistical methods and data analysis skills for
