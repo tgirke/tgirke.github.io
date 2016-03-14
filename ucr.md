@@ -42,7 +42,6 @@ group: navigation
 * [Create Wireless Guest Account](http://guestid.ucr.edu){:target="_blank"}
 * [Computer labs](http://scs.ucr.edu/){:target="_blank"}
 * [Software Site Licenses](http://sitelicense.ucr.edu/){:target="_blank"}
-* [Software Site Licenses](http://sitelicense.ucr.edu/){:target="_blank"}
 * [Book Seminar Rooms](https://frs.thec3tech.com/ucr/index.do?owner=32&institution=all){:target="_blank"}
 * [C&C Workorder (*e.g.* DNS change)](http://comm.ucr.edu){:target="_blank"} 
 
