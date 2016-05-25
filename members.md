@@ -9,7 +9,7 @@ group: navigation
 ## Current Members  
 
 * Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
-* Kevin Horan, Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
+* Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * Daniela Cassol (danicassol@gmail.com), Graduate Student, Molecular Plant Biology & Bioinformatics 
 * Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
@@ -22,7 +22,7 @@ group: navigation
 
 ## Former Members
 
-* Varun Khanna (varun.khanna[...](http://google.com)@mq.edu.au), Postdoc, Ph.D. Cheminformatics
+* Varun Khanna (varun.khanna@ahduni.edu.in), Postdoc, Ph.D. Cheminformatics [ [home page](http://ils.ahduni.edu.in/faculty/assistant-professors/dr-varun-khanna/) ]
 * Rebecca Sun (fire[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=wlXDMk1tqLvkVzzKAw8k42RYdsucQGtBX3_mBwJrEBQ= "Reveal this e-mail address")@gmail.com), bioinformatics data analyst, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/rebecca-sun) ]  
 * Chris Webber (christopher.webber@ucr.edu), Linux HPC Administrator, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/chris-webber) ]
 * Aleksandr Levchuk (alev[...](http://mailhide.recaptcha.net/d?k=01WtHu7ql6fBHYc-DYZBkHYw==&c=aDVvWB_tsaevNd7EGHpPOc6jRXdV_JikURtYCAkebho= "Reveal this e-mail address")@gmail.com), Systems and Databases Administrator, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/aleksandr-levchuk) ]
