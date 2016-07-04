@@ -26,6 +26,9 @@ I am interested in computational drug discovery, mathematical modeling of biolog
 
 ## Publications
 
+* [bioassayR: Cross-Target Analysis of Small Molecule Bioactivity.](http://www.ncbi.nlm.nih.gov/pubmed/27367556)  
+Backman TW, Girke T.  
+J Chem Inf Model. 2016 Jul 1.
 * [Cheminformatic analysis of high-throughput compound screens.](http://www.ncbi.nlm.nih.gov/pubmed/24306871)  
 Backman TW, Girke T.  
 Methods Mol Biol. 2014;1056:145-57.
