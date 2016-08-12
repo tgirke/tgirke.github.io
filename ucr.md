@@ -56,6 +56,11 @@ group: navigation
 * [R'Space](http://rspace.ucr.edu/){:target="_blank"} (iViews, [Grad SIS](https://gradsis.ucr.edu/gradsis/GSIS_MENU.Menu_NonStudent){:target="_blank"})
 * [TAship Application System](http://taonline.ucr.edu/){:target="_blank"}
 
+## GGB
+
+* [Website](http://ggb.ucr.edu/){:target="_blank"}
+* [SharePoint](https://ucrshare.ucr.edu/sites/cnas/BSGSAC/ggb/SitePages/Home.aspx){:target="_blank"}
+
 ## Recruitment
 
 * [AP Recruit](https://aprecruit.ucr.edu/){:target="_blank"}
