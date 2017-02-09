@@ -7,7 +7,7 @@ group: navigation
 
 [  [Google Scholar Profile](http://scholar.google.com/citations?user=QjoDLv4AAAAJ&hl=en&oi=ao){:target="_blank"}  ] &nbsp; &nbsp; &nbsp; [  [HubMed](http://git.macropus.org/hubmed/?term=girke+t){:target="_blank"}  ]  &nbsp; &nbsp; &nbsp; [  [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=girke+t){:target="_blank"}  ]  &nbsp; &nbsp; &nbsp; [  [ResearchGate](https://www.researchgate.net/profile/Thomas_Girke2/){:target="_blank"}  ]
 
-0. Backman T, Evans D, Girke T (2017) Large-scale Bioactivity Analysis of the Small-Molecule Assayed Proteome. PLoS ONE, in print. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/){:target="_blank"}
+0. Backman T, Evans D, Girke T (2017) Large-scale Bioactivity Analysis of the Small-Molecule Assayed Proteome. *PLoS ONE*, 12: e0171413. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/28178331){:target="_blank"}
 0. Arnold N, Girke T, Sureshchandra S, Messaoudi I (2016) Acute simian varicella infection causes robust and sustained changes in gene expression in the sensory ganglia. *J Virol*: ePub ahead of print. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27681124){:target="_blank"}
 0. Arnold N, Girke T, Sureshchandra S, Nguyen C, Rais M, Messaoudi I (2016) Genomic and functional analysis of the host response to acute simian varicella infection in the lung. *Sci Rep*: 6, ePub ahead of print. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27677639){:target="_blank"}
 0. Backman TW, Girke T (2016) systemPipeR: NGS workflow and report generation environment. *BMC Bioinformatics*: 17, 1-8. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27650223){:target="_blank"}
