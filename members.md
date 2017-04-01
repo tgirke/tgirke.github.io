@@ -8,6 +8,8 @@ group: navigation
 
 ## Current Members  
 
+* Yuzhu Duan, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](yuzhu-duan/) ]
+* Jianhai Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](jianhai-zhang/) ]
 * Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
 * Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
