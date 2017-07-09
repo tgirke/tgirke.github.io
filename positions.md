@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Positions
+header: Positions
+group: navigation
 ---
 <br/>
 
