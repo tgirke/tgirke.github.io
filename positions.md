@@ -8,7 +8,7 @@ group: navigation
 
 ## Open Positions
 
-### Postdoctoral position in genome data science - [ open ]
+### Postdoctoral position in genome data science
 
 This position is about the development of integrative analysis methods for
 multidimensional data sets from a variety of next generation sequencing (NGS)
@@ -29,7 +29,7 @@ to Thomas Girke (thomas.girke@ucr.edu).
 
 ## Filled Positions
 
-### Postdoctoral position in comparative genomics - [ filled ]
+### Postdoctoral position in comparative genomics
 
 This position requires several years of experience in computational biology,
 statistics, database design and data mining with strong publications records in
@@ -39,7 +39,7 @@ Java, Perl or R. Experience with web and database programming is also
 beneficial. To apply for this position, please email your CV and a statement of
 research interests to thomas.girke@ucr.edu.  
 
-### Postdoctoral position in cheminformatics - [ filled ]
+### Postdoctoral position in cheminformatics
 
 This position requires experience in computational chemistry, drug-informatics,
 QSAR/phramacophore modeling and data mining with strong publications records in
@@ -50,13 +50,13 @@ beneficial. To apply for this position, please email your CV and a statement of
 research interests to thomas.girke@ucr.edu.  
 
 
-### Graduate student positions - [ filled ]
+### Graduate student positions 
 
 New graduate student positions may become available depending on funding
 throughout the year. Interested students want to inquire by email about
 potential openings and rotation projects.
 
-### Undergraduate research positions - [ filled ] 
+### Undergraduate research positions
 
 Several postions are available for undergraduate students who are interested in
 participating in challenging genome data science projects in various research
