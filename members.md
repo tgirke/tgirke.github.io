@@ -10,20 +10,21 @@ group: navigation
 
 * Yuzhu Duan, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](yuzhu-duan/) ]
 * Jianhai Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](jianhai-zhang/) ]
+* Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
 * Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
 * Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
-* Daniela Cassol (danicassol@gmail.com), Graduate Student, Molecular Plant Biology & Bioinformatics 
-* Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
-* Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
-* John Sharifi (jshar004@ucr.edu), Undergraduate Student, Bioinformatics
 * Ergude Bao (baoe@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
-* Yan Wang (wangya@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/yan-wang) ]  
 
 <br/>
 
 ## Former Members
 
+* Daniela Cassol (danicassol@gmail.com), Graduate Student, Molecular Plant Biology & Bioinformatics 
+* Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
+* Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
+* John Sharifi (jshar004@ucr.edu), Undergraduate Student, Bioinformatics
+* Yan Wang (wangya@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/yan-wang) ]  
 * Varun Khanna (varun.khanna@ahduni.edu.in), Postdoc, Ph.D. Cheminformatics [ [home page](http://ils.ahduni.edu.in/faculty/assistant-professors/dr-varun-khanna/) ]
 * Rebecca Sun (fire[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=wlXDMk1tqLvkVzzKAw8k42RYdsucQGtBX3_mBwJrEBQ= "Reveal this e-mail address")@gmail.com), bioinformatics data analyst, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/rebecca-sun) ]  
 * Chris Webber (christopher.webber@ucr.edu), Linux HPC Administrator, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/chris-webber) ]
