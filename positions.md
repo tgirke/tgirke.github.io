@@ -25,6 +25,24 @@ service development is also a plus. To apply for this position, please email
 your CV, statement of research interests and names of at least three references
 to Thomas Girke (thomas.girke@ucr.edu).
 
+### Web Application Programmer
+
+Development of web services for data science research applications that will be
+deployed in the cloud using Amazon Web Services (AWS) and/or Google Cloud
+Platform (GCP). Includes design of relational databases, big data processing on
+Linux-based high-performance computing (HPC) systems and web development with
+Django/Python. Position is tightly integrated into a large team of researchers
+working in diverse areas. MINIMUM REQUIREMENTS: At least 3 years of
+professional experience in the following areas: (a) programming in Python,
+JavaScript and related technologies, such as HTML and CSS; (b) programming
+under Linux OSs including bash programming; (c) web service development under
+Django and/or similar web development platforms; (d) social coding and version
+control system such as GitHub. OTHER ESSENTIAL EXPERIENCE: Minimum of 2 years
+of professional experience with (a) open source SQL databases such as
+PostgreSQL; (b) cloud platforms including Amazon Web Services (AWS) and/or
+Google Cloud Platform (GCP); (c) configuration and administration of web
+servers using Apache or similar. To apply for this position, please follow
+the instructions on iRecruit [here](https://goo.gl/7LfHhW).
 
 
 ## Filled Positions
