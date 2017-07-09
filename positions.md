@@ -52,9 +52,9 @@ research interests to thomas.girke@ucr.edu.
 
 ### Graduate student positions - [ filled ]
 
-New graduate student positions may become available depending on funding.
-Interested students want to inquire by email about potential openings and rotation
-projects.
+New graduate student positions may become available depending on funding
+throughout the year. Interested students want to inquire by email about
+potential openings and rotation projects.
 
 ### Undergraduate research positions - [ filled ] 
 
