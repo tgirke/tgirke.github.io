@@ -45,6 +45,17 @@ servers using Apache or similar. To apply for this position, please follow
 the instructions on iRecruit [here](https://goo.gl/7LfHhW).
 
 
+### Additional information
+
+The University of California is an Equal Opportunity/Affirmative Action
+Employer with a strong institutional commitment to the achievement of
+excellence and diversity among its faculty and staff. All qualified applicants
+will receive consideration for employment without regard to race, color,
+religion, sex, sexual orientation, gender identity, national origin, age,
+disability, protected veteran status, or any other characteristic protected by
+law. 
+
+
 ## Filled Positions
 
 ### Postdoctoral position in comparative genomics
