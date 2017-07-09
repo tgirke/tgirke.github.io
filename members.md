@@ -62,7 +62,7 @@ including RNA-Seq, ChIP-Seq, Methyl-Seq, VAR-Seq, etc. (IV) Strong publication
 record. OTHER HANDS-ON EXPERIENCE: (i) Data analysis programming
 environments for reproducible research. (ii) Parallelization of data analysis
 tasks on computer clusters. (iii) Experience with Python, database and web
-service development are also a plus. To apply for this position, please email
+service development is also a plus. To apply for this position, please email
 your CV, statement of research interests and names of at least three references
 to Thomas Girke (thomas.girke@ucr.edu).
 
