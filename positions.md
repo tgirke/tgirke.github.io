@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Positions
-header: Positions
 ---
 <br/>
 
