@@ -7,7 +7,7 @@ header: Positions
 
 ## Open Positions
 
-#### Postdoctoral position in genome data science - [ open ]
+### Postdoctoral position in genome data science - [ open ]
 
 This position is about the development of integrative analysis methods for
 multidimensional data sets from a variety of next generation sequencing (NGS)
@@ -24,29 +24,7 @@ service development is also a plus. To apply for this position, please email
 your CV, statement of research interests and names of at least three references
 to Thomas Girke (thomas.girke@ucr.edu).
 
-## Filled Positions
-
-#### Postdoctoral position in comparative genomics - [ filled ]
-
-This position requires several years of experience in computational biology,
-statistics, database design and data mining with strong publications records in
-several of these areas. The candidate should be proficient in at least one of
-the common programming languages that are used in bioinformatics: C, Python,
-Java, Perl or R. Experience with web and database programming is also
-beneficial. To apply for this position, please email your CV and a statement of
-research interests to thomas.girke@ucr.edu.  
-
-#### Postdoctoral position in cheminformatics - [ filled ]
-
-This position requires experience in computational chemistry, drug-informatics,
-QSAR/phramacophore modeling and data mining with strong publications records in
-several of these areas. The candidate should be proficient in at least one of
-the common programming languages that are used in cheminformatics: C, Python,
-Java, Perl or R. Experience with web and database programming is also
-beneficial. To apply for this position, please email your CV and a statement of
-research interests to thomas.girke@ucr.edu.  
-
-#### Undergraduate research positions - [ filled ] 
+### Undergraduate research positions - [ open ] 
 
 Several postions are available for undergraduate students who are interested in
 participating in challenging database and software development projects for
@@ -57,5 +35,30 @@ commitment is 15-20h per week for a period of at least 18 months. Full-time
 employment during the summer break is possible. To apply for these positions,
 please email your CV with a detailed outline of your computational skills to
 thomas.girke@ucr.edu.  
+
+
+## Filled Positions
+
+### Postdoctoral position in comparative genomics - [ filled ]
+
+This position requires several years of experience in computational biology,
+statistics, database design and data mining with strong publications records in
+several of these areas. The candidate should be proficient in at least one of
+the common programming languages that are used in bioinformatics: C, Python,
+Java, Perl or R. Experience with web and database programming is also
+beneficial. To apply for this position, please email your CV and a statement of
+research interests to thomas.girke@ucr.edu.  
+
+### Postdoctoral position in cheminformatics - [ filled ]
+
+This position requires experience in computational chemistry, drug-informatics,
+QSAR/phramacophore modeling and data mining with strong publications records in
+several of these areas. The candidate should be proficient in at least one of
+the common programming languages that are used in cheminformatics: C, Python,
+Java, Perl or R. Experience with web and database programming is also
+beneficial. To apply for this position, please email your CV and a statement of
+research interests to thomas.girke@ucr.edu.  
+
+
 
 
