@@ -59,12 +59,12 @@ projects.
 ### Undergraduate research positions - [ filled ] 
 
 Several postions are available for undergraduate students who are interested in
-participating in challenging database and software development projects for
-various research projects in bioinformatics and cheminformatics. The required
-skills are experience with open-source databases (MySQL/PostgreSQL),
-application and web programming with Python, Perl and/or Java. The minimum time
-commitment is 15-20h per week for a period of at least 18 months. Full-time
-employment during the summer break is possible. To apply for these positions,
-please email your CV with a detailed outline of your computational skills to
-thomas.girke@ucr.edu.  
+participating in challenging genome data science projects in various research
+areas in biology and drug discovery. The required skills are experience with
+data analysis programming languages such as R, Python and C++. Experience with
+open-source databases (MySQL/PostgreSQL) and web programming is also a plus.
+The minimum time commitment is 15-20h per week for a period of at least 18
+months. Full-time employment during the summer break is possible. To apply for
+these positions, please email your CV with a detailed outline of your
+computational skills to thomas.girke@ucr.edu.  
 
