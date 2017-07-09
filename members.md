@@ -54,14 +54,14 @@ group: navigation
 This position is about the development of integrative analysis methods for
 multidimensional data sets from a variety of next generation sequencing (NGS)
 technologies and their implementation in form of R/Bioconductor packages.
-_Minimum requirements:_ (1.) Ph.D. and/or postdoctoral training in an area
-related  to computational biology, biostatistics and genome biology. (2).
+_Minimum requirements:_ (I) Ph.D. and/or postdoctoral training in an area
+related  to computational biology, biostatistics and genome biology. (II)
 Several years of experience with R/Bioconductor package development including
-programming in C/C++. (3.) High-level of proficiency in analyzing NGS data,
-including RNA-Seq, ChIP-Seq, Methyl-Seq, VAR-Seq, etc. (4.) Strong publication
-record. _Other hands-on experience:_ (1.) Data analysis programming
-environments for reproducible research. (2.) Parallelization of data analysis
-tasks on computer clusters. (3.) Experience with Python, database and web
+programming in C/C++. (III) High-level of proficiency in analyzing NGS data,
+including RNA-Seq, ChIP-Seq, Methyl-Seq, VAR-Seq, etc. (IV) Strong publication
+record. _Other hands-on experience:_ (i) Data analysis programming
+environments for reproducible research. (ii) Parallelization of data analysis
+tasks on computer clusters. (iii) Experience with Python, database and web
 service development are also a plus. To apply for this position, please email
 your CV, statement of research interests and names of at least three references
 to Thomas Girke (thomas.girke@ucr.edu).
