@@ -7,8 +7,8 @@ group: navigation
 
 [  [Google Scholar Profile](http://scholar.google.com/citations?user=QjoDLv4AAAAJ&hl=en&oi=ao){:target="_blank"}  ] &nbsp; &nbsp; &nbsp; [  [HubMed](http://git.macropus.org/hubmed/?term=girke+t){:target="_blank"}  ]  &nbsp; &nbsp; &nbsp; [  [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=girke+t){:target="_blank"}  ]  &nbsp; &nbsp; &nbsp; [  [ResearchGate](https://www.researchgate.net/profile/Thomas_Girke2/){:target="_blank"}  ]
 
-0. Zillikens _et al._ (2017) Large meta-analysis of genome wide association studies identifies five loci for lean body mass. *Nature Communications*: in press. PubMed
-0. Zhang X, Aksoy E, Girke T, Raikhel AS, Karginov FV (2017) Transcriptome-wide microRNA and target dynamics in the fat body during the gonadotrophic cycle of Aedes aegypti. *PNAS*: 114, E1895-E1903 . [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/28223504){:target="_blank"}
+0. Zillikens _et al._ (2017) Large meta-analysis of genome-wide association studies identifies five loci for lean body mass. *Nature Communications*: 8, 1-13. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/28724990){:target="_blank"}
+0. Zhang X, Aksoy E, Girke T, Raikhel AS, Karginov FV (2017) Transcriptome-wide microRNA and target dynamics in the fat body during the gonadotrophic cycle of Aedes aegypti. *PNAS*: 114, E1895-E1903. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/28223504){:target="_blank"}
 0. Backman T, Evans D, Girke T (2017) Large-scale Bioactivity Analysis of the Small-Molecule Assayed Proteome. *PLoS ONE*, 12: e0171413. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/28178331){:target="_blank"}
 0. Arnold N, Girke T, Sureshchandra S, Messaoudi I (2016) Acute simian varicella infection causes robust and sustained changes in gene expression in the sensory ganglia. *J Virol*: 90, 10823-10843. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27681124){:target="_blank"}
 0. Arnold N, Girke T, Sureshchandra S, Nguyen C, Rais M, Messaoudi I (2016) Genomic and functional analysis of the host response to acute simian varicella infection in the lung. *Sci Rep*: 6, 34164. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27677639){:target="_blank"}
