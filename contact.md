@@ -8,7 +8,7 @@ group: navigation
 
 **Thomas Girke**, Ph.D. <br/>
 Professor of Bioinformatics <br/>
-Director of HPC Center <br/>
+Director of HPC Center ([HPCC](http://hpcc.ucr.edu/))<br/>
 Institute for Integrative Genome Biology ([IIGB](http://genomics.ucr.edu/){:target="_blank"}) <br/>
 Department of Botany and Plant Sciences ([BPSC](http://plantbiology.ucr.edu/){:target="_blank"}) <br/>
 1207F Genomics Building <br/>
