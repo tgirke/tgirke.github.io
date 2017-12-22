@@ -36,6 +36,7 @@ group: navigation
 
 * [Home](http://www.ucr.edu/){:target="_blank"}
 * [UCR at Your Service](https://atyourserviceonline.ucop.edu/ayso){:target="_blank"}
+* [UCPath](http://ucpath.universityofcalifornia.edu/){:target="_blank"}
 * [Benefits](http://atyourservice.ucop.edu/){:target="_blank"}
 * [Maps](http://www.campusmap.ucr.edu/){:target="_blank"}
 * [Find People](http://enterprisedirectory.ucr.edu/phone/tel_search.show){:target="_blank"}
