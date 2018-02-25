@@ -6,12 +6,12 @@ group: navigation
 ---
 <br/>
 
-I enjoy teaching classes and advising students, postdocs and coworkers, and
+I enjoy teaching classes and mentoring students, postdocs and coworkers, and
 consider it to be one of the unique privileges of my profession. My greatest
 pleasure as a teacher comes at those moments in a class when students
 transition from simply listening and reading the material to actually
-understanding it, and thereby enabling them to become independent and creative 
-in solving research problems.
+understanding it, and thereby enabling them to become independent and creative
+in solving research and applications problems.
 
 ## Courses
 
