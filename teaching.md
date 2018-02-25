@@ -6,6 +6,14 @@ group: navigation
 ---
 <br/>
 
+I enjoy teaching classes and advising students, postdocs and coworkers. I
+consider it to be one of the fantastic privileges of my profession. My greatest
+pleasure as a teacher comes at those moments in a class when students
+transition from simply listening and reading the material to actually
+understanding it, and thereby enabling them to solve real application and research
+problems on their own.
+
+
 ## Courses
 
 ### [Data Analysis in Genome Biology - GEN242](http://girke.bioinformatics.ucr.edu/GEN242)
