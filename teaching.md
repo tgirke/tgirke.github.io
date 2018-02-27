@@ -6,13 +6,12 @@ group: navigation
 ---
 <br/>
 
-I enjoy teaching classes and mentoring students and postdocs, and
-consider it to be one of the unique privileges of my profession. My greatest
-pleasure as a teacher comes during those moments in a class when students
-transition from simply listening and reading the material to actually
-understanding it, and thereby advancing to independently solving problems
-relevant for their future research career. 
-
+> I enjoy teaching classes and mentoring students and postdocs, and consider it
+to be one of the unique privileges of my profession. My greatest pleasure as a
+teacher comes during those moments when students transition from simply
+listening and reading the material to actually understanding it, and thereby
+advancing to independently solving problems relevant for their future research
+career. 
 
 ## Courses
 
