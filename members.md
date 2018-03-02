@@ -14,6 +14,7 @@ group: navigation
 * Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
 * Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
 * Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
+* Anna Alber (anna.alber@ucr.edu), Programmer
 * Gordon David Mosher (gmosh001@ucr.edu), Undergraduate Student, Statistics
 * Cindy Nguyen (cnguy106@ucr.edu), Undergraduate Student, Statistics
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
