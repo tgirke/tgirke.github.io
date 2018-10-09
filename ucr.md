@@ -39,7 +39,7 @@ group: navigation
 * [UCPath](http://ucpath.universityofcalifornia.edu/){:target="_blank"}
 * [Benefits](http://atyourservice.ucop.edu/){:target="_blank"}
 * [Maps](http://www.campusmap.ucr.edu/){:target="_blank"}
-* [Find People](http://enterprisedirectory.ucr.edu/phone/tel_search.show){:target="_blank"}
+* Find People: [Profile Pages](https://profiles.ucr.edu){:target="_blank"} ([old UCR Directory](http://enterprisedirectory.ucr.edu/phone/tel_search.show){:target="_blank"})
 * [Create Wireless Guest Account](http://guestid.ucr.edu){:target="_blank"}
 * [Computer labs](http://scs.ucr.edu/){:target="_blank"}
 * [Software Site Licenses](http://sitelicense.ucr.edu/){:target="_blank"}
