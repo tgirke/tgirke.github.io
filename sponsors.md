@@ -12,6 +12,4 @@ group: navigation
 
 ## Companies
 
-<center>
-<img title="sponsor_zapier" src="/public/images/sponsor_zapier.png" width="150" <img/>
-</center>
+<img title="sponsor_zapier" src="/public/images/sponsor_zapier.png" width="150" class="center"> <img/>
