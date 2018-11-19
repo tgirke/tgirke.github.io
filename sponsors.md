@@ -15,4 +15,4 @@ group: navigation
 
 
 ## Companies
-<center><img title="sponsor_zapier" src="/public/images/sponsor_zapier.png" width="150" class="center"> <img/></center>
+<center><a href="https://zapier.com"><img title="sponsor_zapier" src="/public/images/sponsor_zapier.png" width="150" class="center"> <img/></a></center>
