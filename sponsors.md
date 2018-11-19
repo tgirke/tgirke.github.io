@@ -12,5 +12,4 @@ group: navigation
 
 ## Companies
 
-![zapier](/public/images/sponsor_zapier.png | width=50){: .center-image }
 <img align="center" title="sponsor_zapier" src="/public/images/sponsor_zapier.png" width="100" height="100"><img/>
