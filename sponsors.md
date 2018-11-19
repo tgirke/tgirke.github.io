@@ -12,5 +12,5 @@ group: navigation
 
 ## Companies
 
-![zapier](/public/images/sponsor_zapier.png){: .center-image }
+![zapier](/public/images/sponsor_zapier.png | width=50){: .center-image }
 
