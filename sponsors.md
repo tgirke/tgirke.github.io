@@ -9,7 +9,8 @@ group: navigation
 
 ![nsf](/public/images/NSF_Logo.png){: .center-image }
 
+![nsf](/public/images/nih.png){: .center-image }
+
 
 ## Companies
-
-<img title="sponsor_zapier" src="/public/images/sponsor_zapier.png" width="150" class="center"> <img/>
+<center><img title="sponsor_zapier" src="/public/images/sponsor_zapier.png" width="150" class="center"> <img/></center>
