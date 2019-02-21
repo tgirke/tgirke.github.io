@@ -32,7 +32,7 @@ reproducible research. (ii) R/Bioconductor package development. (ii)
 Familiarity with parallelization strategies of data analysis tasks on computer
 clusters.
 
-APPLICATION: To apply for this position, please email your CV, statement of
+APPLICATION: To apply, please email your CV, statement of
 research interests and names of at least three references to Thomas Girke
 (thomas.girke@ucr.edu).
 
