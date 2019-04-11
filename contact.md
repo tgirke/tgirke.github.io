@@ -19,4 +19,4 @@ CA 92521 <br/>
 Email: thomas.girke@ucr.edu <br/>
 URL: http://girke.bioinformatics.ucr.edu <br/>
 Phone/Cell/Text: (951) 732-7072
-
+Fax: 951-827-4437
