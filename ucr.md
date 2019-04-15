@@ -68,5 +68,9 @@ group: navigation
 
 * [AP Recruit](https://aprecruit.ucr.edu/){:target="_blank"}
 
+## Ordering
+
+* [eBuy](http://ebuy.ucr.edu/ebuy){:target="_blank"}
+
 
 
