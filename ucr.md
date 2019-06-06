@@ -62,10 +62,15 @@ group: navigation
 
 * [Website](http://ggb.ucr.edu/){:target="_blank"}
 * [SharePoint](https://ucrshare.ucr.edu/sites/cnas/BSGSAC/ggb/SitePages/Home.aspx){:target="_blank"}
+* [R'GRAD Forms](https://rgrad.ucr.edu/app/home){:target="_blank"}
 
 ## Recruitment
 
 * [AP Recruit](https://aprecruit.ucr.edu/){:target="_blank"}
+
+## Ordering
+
+* [eBuy](http://ebuy.ucr.edu/ebuy){:target="_blank"}
 
 
 
