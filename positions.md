@@ -92,6 +92,47 @@ research interests to thomas.girke@ucr.edu.
 ### Postdoctoral position in genome data science
 
 This position is about the development of integrative analysis methods for
+multidimensional data sets from a variety of high-throughput technologies and
+their implementation in form of R/Bioconductor packages.  MINIMUM REQUIREMENTS:
+(I) Ph.D. and/or postdoctoral training in an area related to computational
+biology, biostatistics and genome biology. (II) Several years of experience
+with R/Bioconductor package development including programming in C/C++. (III)
+High-level of proficiency in analyzing multi-omics data, including
+transcriptomics, bioassay and comparative genomics data. (IV) Strong
+publication record. OTHER HANDS-ON EXPERIENCE: (i) Data analysis programming
+environments for reproducible research. (ii) Parallelization of data analysis
+tasks on computer clusters. (iii) Experience with Python, database and web
+service development is also a plus. To apply for this position, please email
+your CV, statement of research interests and names of at least three references
+to Thomas Girke (thomas.girke@ucr.edu).
+
+### Postdoctoral position in cheminformatics
+
+This position requires experience in computational chemistry, drug discovery,
+QSAR/phramacophore modeling and data mining with strong publications records in
+several of these areas. The candidate should be proficient in at least one of
+the common programming languages that are used in cheminformatics: C, Python,
+Java, Perl or R. Experience with web and database programming is also
+beneficial. To apply for this position, please email your CV and a statement of
+research interests to thomas.girke@ucr.edu.  
+
+
+### Additional information
+
+The University of California is an Equal Opportunity/Affirmative Action
+Employer with a strong institutional commitment to the achievement of
+excellence and diversity among its faculty and staff. All qualified applicants
+will receive consideration for employment without regard to race, color,
+religion, sex, sexual orientation, gender identity, national origin, age,
+disability, protected veteran status, or any other characteristic protected by
+law. 
+
+
+## Filled Positions
+
+### Postdoctoral position in genome data science
+
+This position is about the development of integrative analysis methods for
 multidimensional data sets from a variety of next generation sequencing (NGS)
 technologies and their implementation in form of R/Bioconductor packages.
 MINIMUM REQUIREMENTS: (I) Ph.D. and/or postdoctoral training in an area
