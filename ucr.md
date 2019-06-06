@@ -40,6 +40,7 @@ group: navigation
 * [Benefits](http://atyourservice.ucop.edu/){:target="_blank"}
 * [PI Web Reporting System (PIWRS)](http://piwrs.ucr.edu){:target="_blank"}
 * [Maps](http://www.campusmap.ucr.edu/){:target="_blank"}
+* [Alternative Parking for Bikers](https://transportation.ucr.edu/bike-walk/bike-walk-program){:target="_blank"}
 * Find People: [Profile Pages](https://profiles.ucr.edu){:target="_blank"} ([old UCR Directory](http://enterprisedirectory.ucr.edu/phone/tel_search.show){:target="_blank"})
 * [Create Wireless Guest Account](http://guestid.ucr.edu){:target="_blank"}
 * [Computer labs](http://scs.ucr.edu/){:target="_blank"}
