@@ -22,7 +22,7 @@ group: navigation
 
 ## Graduate Programs
 
-* [List of available graduate programs at UCR](http://www.graddiv.ucr.edu/GradPrograms.html){:target="_blank"}
+* [List of available graduate programs at UCR](https://graduate.ucr.edu/programs){:target="_blank"}
 * [Botany and Plant Sciences](http://www.plantbiology.ucr.edu/grad.html){:target="_blank"}  
 * [Graduate Program in Genetics, Genomics and Bioinformatics (GGB)](http://ggb.ucr.edu/){:target="_blank"}
 * [Graduate Program in Cell, Molecular and Developmental Biology (CMDB)](http://www.cell.ucr.edu/){:target="_blank"}
