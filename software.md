@@ -30,8 +30,8 @@ group: navigation
 
 ## Databases
 
-* [ChemMine](http://bioweb.ucr.edu/ChemMineV2){:target="_blank"}   ([Old Chemical Genetics Page](http://www.faculty.ucr.edu/%7Etgirke/Chemgen/index.html){:target="_blank"})
-* [Genome Cluster Database (GCD)](http://bioweb.ucr.edu/databaseWeb/index.jsp){:target="_blank"}  ([BLAST](http://138.23.191.152/blast/blastSearch.cgi){:target="_blank"})
+* [ChemMine](http://chemminedb.ucr.edu/){:target="_blank"}   ([Old Chemical Genetics Page](http://www.faculty.ucr.edu/%7Etgirke/Chemgen/index.html){:target="_blank"})
+* [Genome Cluster Database (GCD)](http://gcd.bioinfo.ucr.edu/databaseWeb/){:target="_blank"}  ([BLAST](http://138.23.191.152/blast/blastSearch.cgi){:target="_blank"})
 * [Plant Expression Database (PED)](http://pond.bioinfo.ucr.edu/express.html){:target="_blank"}
 * [Plant Unknown-eome Database (POND)](http://bioweb.ucr.edu/scripts/unknownsDisplay.pl){:target="_blank"}
 * [Cell Wall Navigator (CWN)](http://bioweb.ucr.edu/Cellwall/index.pl){:target="_blank"}   ([Old Site](http://www.faculty.ucr.edu/%7Etgirke/Cellwall/index.html){:target="_blank"})
