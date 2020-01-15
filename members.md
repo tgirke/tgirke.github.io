@@ -23,7 +23,7 @@ group: navigation
 * Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
 * Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
 * Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
-
+* Shiyuan Guo (sguo039@ucr.edu), Graduate Student, GGB (rotation)
 
 <br/>
 
