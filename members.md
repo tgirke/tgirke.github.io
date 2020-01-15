@@ -18,7 +18,12 @@ group: navigation
 * Gordon David Mosher (gmosh001@ucr.edu), Undergraduate Student, Statistics
 * Cindy Nguyen (cnguy106@ucr.edu), Undergraduate Student, Statistics
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
-* Ergude Bao (baoe@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
+* Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
+* Ponmathi Ramasamy, Undergraduate Student, Bioengineering
+* Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
+* Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
+* Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
+
 
 <br/>
 
