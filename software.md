@@ -25,15 +25,15 @@ group: navigation
 ## Web Applications
 
 * [ChemMine Tools:](http://chemmine.ucr.edu/){:target="_blank"} online tool box for small molecule analysis
-* [Sub-HMM](http://subhmm.ucr.edu/scripts/displaySubHMM.pl){:target="_blank"}: identification of conserved protein regions
+* [Sub-HMM](https://subhmm.ucr.edu/){:target="_blank"}: identification of conserved protein regions
 * [EI Search](http://chemmine.ucr.edu/ei/){:target="_blank"}: ultra-fast compound similarity searching 
 
 ## Databases
 
 * [ChemMine](http://chemminedb.ucr.edu/){:target="_blank"}   ([Old Chemical Genetics Page](http://www.faculty.ucr.edu/%7Etgirke/Chemgen/index.html){:target="_blank"})
-* [Genome Cluster Database (GCD)](http://gcd.bioinfo.ucr.edu/databaseWeb/){:target="_blank"}  ([BLAST](http://138.23.191.152/blast/blastSearch.cgi){:target="_blank"})
+* [Genome Cluster Database (GCD)](https://gcd.ucr.edu/){:target="_blank"}  ([BLAST](http://138.23.191.152/blast/blastSearch.cgi){:target="_blank"})
 * [Plant Expression Database (PED)](http://pond.bioinfo.ucr.edu/express.html){:target="_blank"}
 * [Plant Unknown-eome Database (POND)](http://bioweb.ucr.edu/scripts/unknownsDisplay.pl){:target="_blank"}
 * [Cell Wall Navigator (CWN)](http://bioweb.ucr.edu/Cellwall/index.pl){:target="_blank"}   ([Old Site](http://www.faculty.ucr.edu/%7Etgirke/Cellwall/index.html){:target="_blank"})
-* [Cyber Sam](http://cybersam.ucr.edu/){:target="_blank"}
+* [Cyber Sam](https://cybersam.ucr.edu/){:target="_blank"}
 
