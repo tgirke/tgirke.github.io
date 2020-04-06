@@ -10,6 +10,7 @@ group: navigation
 
 * Yuzhu Duan, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](yuzhu-duan/) ]
 * Jianhai Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](jianhai-zhang/) ]
+* Le Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](le-zhang/) ]
 * Daniela Cassol (danicassol@gmail.com), Postdoc, Molecular Plant Biology & Bioinformatics 
 * Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
 * Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
@@ -24,6 +25,7 @@ group: navigation
 * Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
 * Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
 * Shiyuan Guo (sguo039@ucr.edu), Graduate Student, GGB (rotation)
+* Austin Leong (aleon008@ucr.edu), Programmer
 
 <br/>
 
