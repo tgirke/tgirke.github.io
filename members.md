@@ -25,12 +25,12 @@ group: navigation
 * Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
 * Shiyuan Guo (sguo039@ucr.edu), Graduate Student, GGB (rotation)
 * Austin Leong (aleon008@ucr.edu), Programmer
-* Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
 
 <br/>
 
 ## Former Members
 
+* Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
 * Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
 * Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
 * John Sharifi (jshar004@ucr.edu), Undergraduate Student, Bioinformatics
