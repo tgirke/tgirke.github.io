@@ -5,7 +5,7 @@ header : Publications
 group: navigation
 ---
 
-[  [Google Scholar Profile](http://scholar.google.com/citations?user=QjoDLv4AAAAJ&hl=en&oi=ao){:target="_blank"}  ] &nbsp; &nbsp; &nbsp; [  [HubMed](http://git.macropus.org/hubmed/?term=girke+t){:target="_blank"}  ]  &nbsp; &nbsp; &nbsp; [  [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=girke+t){:target="_blank"}  ]  &nbsp; &nbsp; &nbsp; [  [ResearchGate](https://www.researchgate.net/profile/Thomas_Girke2/){:target="_blank"}  ]
+[  [Google Scholar Profile](http://scholar.google.com/citations?user=QjoDLv4AAAAJ&hl=en&oi=ao){:target="_blank"}  ] &nbsp; &nbsp; &nbsp; [  [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=girke+t&sort=date){:target="_blank"}  ]  &nbsp; &nbsp; &nbsp; [  [ResearchGate](https://www.researchgate.net/profile/Thomas_Girke2/){:target="_blank"}  ]
 
 0. Hamilton MJ, Young M, Jang K, Sauer S, Neang VE, King AT, Girke T, Martinez E (2019) HOTAIRM1 lncRNA is downregulated in clear cell renal cell carcinoma and inhibits the hypoxia pathway. *Cancer Letters*: Epub ahead of print. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/31862408){:target="_blank"}
 0. Lombard DB, Kohler W, Guo AH, Gendron C, Han M, Ding W, Lyu Y, Li X, Shi X, Nikolovska-Coleska Z, Duan Y, Girke T, Hsu AL, Pletcher SD, Miller RA (2019) High throughput small molecule screening reveals NRF2-dependent and -independent pathways of cellular stress resistance. [bioRxiv 778548](https://www.biorxiv.org/content/10.1101/778548v1){:target="_blank"}
