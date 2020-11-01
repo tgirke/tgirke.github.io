@@ -6,9 +6,9 @@ group: navigation
 ---
 <br/>
 
-## PI
+## Principal Investigator (PI)
 
-* Thomas Girke, Ph.D., Professor of Bioinformatics [ [home page](thomas-girke/) ]
+* Thomas Girke, Ph.D. [ [home page](thomas-girke/) ]
 
 ## Current Members  
 
