@@ -14,13 +14,13 @@ group: navigation
 
 ## Current Members  
 
-* Daniela Cassol, Ph.D., Postdoc [ [about](daniela-cassol/) ]
-* Yuzhu Duan, Graduate Student in GGB [ [about](yuzhu-duan/) ]
-* Jianhai Zhang, Graduate Student in GGB [ [about](jianhai-zhang/) ]
-* Le Zhang, Graduate Student in GGB [ [about](le-zhang/) ]
-* Kevin Horan, Ph.D., Postdoc [ [about](kevin-horan/) ]
-* Austin Leong Programmer  [ [about](austin-leong/) ]
-* Gordon David Mosher, Undergraduate Student, Statistics [ [about](gordon-mosher/) ]
+* [Daniela Cassol, Ph.D., Postdocabout](daniela-cassol/)
+* [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
+* [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
+* [Le Zhang, Graduate Student in GGB](le-zhang/]
+* [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
+* [Austin Leong Programmer](austin-leong/)
+* [Gordon David Mosher, Undergraduate Student, Statistics](gordon-mosher/)
 * Ryan Gates (rgate003@ucr.edu), Undergraduate Student
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * Ponmathi Ramasamy, Undergraduate Student, Bioengineering
