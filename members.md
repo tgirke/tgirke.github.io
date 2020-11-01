@@ -10,6 +10,8 @@ group: navigation
 
 * Thomas Girke, Ph.D. [ [about](thomas-girke/) ]
 
+<br/>
+
 ## Current Members  
 
 * Daniela Cassol, Ph.D., Postdoc [ [about](daniela-cassol/) ]
