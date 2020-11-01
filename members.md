@@ -8,7 +8,7 @@ group: navigation
 
 ## Principal Investigator (PI)
 
-* Thomas Girke, Ph.D. [ [home page](thomas-girke/) ]
+* Thomas Girke, Ph.D. [ [about](thomas-girke/) ]
 
 ## Current Members  
 
