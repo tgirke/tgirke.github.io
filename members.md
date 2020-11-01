@@ -6,6 +6,10 @@ group: navigation
 ---
 <br/>
 
+## PI
+
+* Thomas Girke, Ph.D., Professor of Bioinformatics [ [home page](thomas-girke/) ]
+
 ## Current Members  
 
 * Yuzhu Duan, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](yuzhu-duan/) ]
