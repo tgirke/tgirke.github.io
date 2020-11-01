@@ -17,7 +17,7 @@ group: navigation
 * [Daniela Cassol, Ph.D., Postdocabout](daniela-cassol/)
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
 * [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
-* [Le Zhang, Graduate Student in GGB](le-zhang/]
+* [Le Zhang, Graduate Student in GGB](le-zhang/)
 * [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
 * [Austin Leong Programmer](austin-leong/)
 * [Gordon David Mosher, Undergraduate Student, Statistics](gordon-mosher/)
