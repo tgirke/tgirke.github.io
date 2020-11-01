@@ -18,7 +18,7 @@ group: navigation
 * Le Zhang, Graduate Student in GGB [ [about](le-zhang/) ]
 * Kevin Horan, Ph.D., Postdoc [ [about](kevin-horan/) ]
 * Austin Leong Programmer  [ [about](austin-leong/) ]
-* Gordon David Mosher (gmosh001@ucr.edu), Undergraduate Student, Statistics
+* Gordon David Mosher, Undergraduate Student, Statistics [ [about](gordon-mosher/) ]
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * Ponmathi Ramasamy, Undergraduate Student, Bioengineering
 
