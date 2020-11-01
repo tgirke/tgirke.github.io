@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Daniela Cassol 
+title: Daniela Cassol, Ph.D. 
 header: Daniela Cassol 
 group: members 
 ---
