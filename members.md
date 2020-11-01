@@ -13,7 +13,7 @@ group: navigation
 ## Current Members  
 
 * Daniela Cassol, Ph.D., Postdoc [ [about](daniela-cassol/) ]
-* Yuzhu Duan, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](yuzhu-duan/) ]
+* Yuzhu Duan, PhD Candidate in Genetics, Genomics and Bioinformatics (GGB) [ [about](yuzhu-duan/) ]
 * Jianhai Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](jianhai-zhang/) ]
 * Le Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](le-zhang/) ]
 * Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
