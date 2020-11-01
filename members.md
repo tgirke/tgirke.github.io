@@ -15,7 +15,7 @@ group: navigation
 * Yuzhu Duan, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](yuzhu-duan/) ]
 * Jianhai Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](jianhai-zhang/) ]
 * Le Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](le-zhang/) ]
-* Daniela Cassol (danicassol@gmail.com), Postdoc, Molecular Plant Biology & Bioinformatics 
+* Daniela Cassol, Ph.D., Postdoc [ [about](daniela-cassol/) ]
 * Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
 * Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
 * Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
