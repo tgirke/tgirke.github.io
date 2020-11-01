@@ -7,8 +7,8 @@ permalink:           pretty
 # Setup
 title:               Girke Lab
 tagline:             'Research and Teaching Site'
-description:         'Computational Biology Group'
-url:                 http://tgirke.github.io
+description:         'Thomas Girke'
+url:                 https://tgirke.github.io
 baseurl:             ''
 # The following line is required for Jekyll >=3 support
 gems:                [jekyll-paginate, jekyll-gist]
@@ -17,7 +17,7 @@ paginate:            5
 # About/contact
 author:
   name:              Thomas Girke
-  url:               http://girke.bioinformatics.ucr.edu
+  url:               https://girke.bioinformatics.ucr.edu
   email:             thomas.girke@ucr.edu
 
 # Custom vars
