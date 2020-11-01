@@ -14,8 +14,8 @@ group: navigation
 
 * Daniela Cassol, Ph.D., Postdoc [ [about](daniela-cassol/) ]
 * Yuzhu Duan, Graduate Student in GGB [ [about](yuzhu-duan/) ]
-* Jianhai Zhang, Graduate Student in GGB [ [home page](jianhai-zhang/) ]
-* Le Zhang, Graduate Student in GGB [ [home page](le-zhang/) ]
+* Jianhai Zhang, Graduate Student in GGB [ [about](jianhai-zhang/) ]
+* Le Zhang, Graduate Student in GGB [ [about](le-zhang/) ]
 * Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
 * Gordon David Mosher (gmosh001@ucr.edu), Undergraduate Student, Statistics
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
@@ -32,7 +32,7 @@ group: navigation
 * Cindy Nguyen (cnguy106@ucr.edu), Undergraduate Student, Statistics
 * Anna Alber (anna.alber@ucr.edu), Programmer
 * Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
-* Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
+* Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [about](tyler-backman/) ]  
 * Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
 * Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
 * Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
