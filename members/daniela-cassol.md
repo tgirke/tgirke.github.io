@@ -5,9 +5,9 @@ header: Daniela Cassol
 group: members 
 ---
 
-![Tyler Image](/members/daniela-cassol.jpeg)
+![Image](/members/daniela-cassol.jpeg)
 
-## Status
+## Postition
 
 Postdoctoral Researcher
 

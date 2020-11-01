@@ -7,7 +7,7 @@ group: members
 
 ![Image](/members/le-zhang.png)
 
-## Status
+## Postition
 
 Graduate Student in Genetics, Genomics and Bioinformatics (GGB)
 

@@ -5,9 +5,9 @@ header: Tyler Backman
 group: members 
 ---
 
-![Tyler Image](/members/tyler-backman.jpg)
+![Image](/members/tyler-backman.jpg)
 
-## Status
+## Postition
 
 Bioengineering Doctoral Candidate
 

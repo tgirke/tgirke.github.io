@@ -7,7 +7,7 @@ group: members
 
 ![Image](/members/kevin-horan.jpg)
 
-## Status
+## Postition
 
 Postdoctoral Researcher
 

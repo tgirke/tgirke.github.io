@@ -7,7 +7,7 @@ group: members
 
 ![Image](/members/austin-leong.png)
 
-## Status
+## Postition
 
 Programmer
 

@@ -7,7 +7,7 @@ group: members
 
 ![Image](/members/gordon-mosher.jpeg)
 
-## Status
+## Postition
 
 Undergraduate Student (Statistics)
 

@@ -7,7 +7,7 @@ group: members
 
 ![Image](/members/yuzhu-duan.jpeg)
 
-## Status
+## Postition
 
 Graduate Student in Genetics, Genomics and Bioinformatics (GGB)
 
