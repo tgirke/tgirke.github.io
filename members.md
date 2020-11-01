@@ -16,7 +16,7 @@ group: navigation
 * Yuzhu Duan, Graduate Student in GGB [ [about](yuzhu-duan/) ]
 * Jianhai Zhang, Graduate Student in GGB [ [about](jianhai-zhang/) ]
 * Le Zhang, Graduate Student in GGB [ [about](le-zhang/) ]
-* Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
+* Kevin Horan, Ph.D., Postdoc [ [about](kevin-horan/) ]
 * Gordon David Mosher (gmosh001@ucr.edu), Undergraduate Student, Statistics
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * Ponmathi Ramasamy, Undergraduate Student, Bioengineering
