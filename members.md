@@ -13,26 +13,26 @@ group: navigation
 ## Current Members  
 
 * Daniela Cassol, Ph.D., Postdoc [ [about](daniela-cassol/) ]
-* Yuzhu Duan, PhD Candidate in Genetics, Genomics and Bioinformatics (GGB) [ [about](yuzhu-duan/) ]
-* Jianhai Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](jianhai-zhang/) ]
-* Le Zhang, PhD Candidate, Genetics, Genomics and Bioinformatics (GGB) [ [home page](le-zhang/) ]
-* Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
-* Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
+* Yuzhu Duan, Graduate Student in GGB [ [about](yuzhu-duan/) ]
+* Jianhai Zhang, Graduate Student in GGB [ [home page](jianhai-zhang/) ]
+* Le Zhang, Graduate Student in GGB [ [home page](le-zhang/) ]
 * Kevin Horan (khoran@cs.ucr.edu), Postdoc, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/kevin-horan) ]  
-* Anna Alber (anna.alber@ucr.edu), Programmer
 * Gordon David Mosher (gmosh001@ucr.edu), Undergraduate Student, Statistics
-* Cindy Nguyen (cnguy106@ucr.edu), Undergraduate Student, Statistics
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 * Ponmathi Ramasamy, Undergraduate Student, Bioengineering
-* Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
-* Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
-* Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
-* Shiyuan Guo (sguo039@ucr.edu), Graduate Student, GGB (rotation)
 * Austin Leong (aleon008@ucr.edu), Programmer
 
 <br/>
 
 ## Former Members
+* Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
+* Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
+* Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
+* Shiyuan Guo (sguo039@ucr.edu), Graduate Student, GGB (rotation)
+* Cindy Nguyen (cnguy106@ucr.edu), Undergraduate Student, Statistics
+* Anna Alber (anna.alber@ucr.edu), Programmer
+* Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
+* Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [home page](tyler-backman/) ]  
 * Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
 * Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
 * Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
