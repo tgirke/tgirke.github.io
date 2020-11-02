@@ -16,7 +16,7 @@ le.zhang001@email.ucr.edu
 
 ## Education
 - B.S. Biochemistry/Molecular Bio & Biotech, Michigan State University, 2011 - 2015
-- Ph.D. candidate, Bioinformatics, University of California Riverside, 2017 - current
+- Ph.D. candidate, Bioinformatics, University of California Riverside, 2017 - present
 
 ## Research Interests
 
