@@ -31,4 +31,4 @@ Olga N. Sekurova, Jianhai Zhang, Kåre A. Kristiansen, Sergey B. Zotchev. Activa
 
 ## Software
 
-spatialHeatmap: <a href="http://bioconductor.org/packages/3.13/bioc/vignettes/spatialHeatmap/inst/doc/spatialHeatmap.html" target="_blank">Bioconductor package vignette</a>, <a href="https://www.plantsecretome.org/software/spatialheatmap" target="_blank">simplified demo</a>  
+spatialHeatmap: <a href="http://bioconductor.org/packages/release/bioc/vignettes/spatialHeatmap/inst/doc/spatialHeatmap.html" target="_blank">Bioconductor package vignette</a>, <a href="https://www.plantsecretome.org/software/spatialheatmap" target="_blank">simplified demo</a>  
