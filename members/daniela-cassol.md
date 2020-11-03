@@ -5,7 +5,7 @@ header: Daniela Cassol
 group: members 
 ---
 
-![Image](/members/daniela-cassol.jpeg)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 
