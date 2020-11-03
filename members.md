@@ -26,7 +26,9 @@ group: navigation
 * [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/kevin-horan/"><img src="/members/kevin-horan.jpg" alt="image" style="width:150px;"/></a></p>
 * [Austin Leong Programmer](austin-leong/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/austin-leong/"><img src="/members/austin-leong.png" alt="image" style="width:150px;"/></a></p>
 * [Gordon David Mosher, Undergraduate Student, Statistics](gordon-mosher/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/gordon-mosher/"><img src="/members/gordon-mosher.jpg" alt="image" style="width:150px;"/></a></p>
 * [Ponmathi Ramasamy, Undergraduate Student in Bioengineering](ponmathi-ramasamy/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ponmathi-ramasamy/"><img src="/members/ponmathi-ramasamy.jpeg" alt="image" style="width:150px;"/></a></p>
 * Ryan Gates (rgate003@ucr.edu), Undergraduate Student
@@ -35,6 +37,8 @@ group: navigation
 <br/>
 
 ## Former Members
+* [Tyler Backman, PhD Candidate, Bioengineering](tyler-backman/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/tyler-backman/"><img src="/members/tyler-backman.jpeg" alt="image" style="width:150px;"/></a></p>
 * Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
 * Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
 * Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
@@ -42,7 +46,6 @@ group: navigation
 * Cindy Nguyen (cnguy106@ucr.edu), Undergraduate Student, Statistics
 * Anna Alber (anna.alber@ucr.edu), Programmer
 * Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
-* Tyler Backman, PhD Candidate, Bioengineering (BIG) [ [about](tyler-backman/) ]  
 * Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
 * Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
 * Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
