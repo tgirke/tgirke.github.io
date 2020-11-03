@@ -14,8 +14,10 @@ group: navigation
 
 ## Current Members  
 
-* [Daniela Cassol, Ph.D., Postdocabout](daniela-cassol/)
+* [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
+![Image](/members/daniela-cassol.jpeg){: .center-image }
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
+![Image](/members/yuzhu-duan.jpeg)
 * [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
 * [Le Zhang, Graduate Student in GGB](le-zhang/)
 * [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
