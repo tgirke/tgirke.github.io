@@ -47,6 +47,7 @@ group: navigation
 * Anna Alber (anna.alber@ucr.edu), Programmer
 * Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
 * Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ergude-bao/"><img src="/members/ergude-bao.jpeg" alt="image" style="width:150px;"/></a></p>
 * Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
 * Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
 * John Sharifi (jshar004@ucr.edu), Undergraduate Student, Bioinformatics

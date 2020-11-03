@@ -1,7 +1,7 @@
 ---
 layout: subpage
-title: Yuzhu Duan 
-header: Yuzhu Duan
+title: Eddie Cao 
+header: Eddie Cao
 group: members 
 ---
 
