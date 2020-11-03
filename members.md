@@ -15,12 +15,9 @@ group: navigation
 ## Current Members  
 
 * [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
-![Image](/members/daniela-cassol.jpeg){: .center-image }
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="drawing" style="width:150px;"/></a></p>
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
-[![Image](/members/yuzhu-duan.jpeg =250x){: .center-image }](yuzhu-duan/)
-<p align="center">
-<a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="drawing" style="width:150px;"/></a>
-</p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="drawing" style="width:150px;"/></a></p>
 * [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
 * [Le Zhang, Graduate Student in GGB](le-zhang/)
 * [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
