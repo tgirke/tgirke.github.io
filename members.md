@@ -19,7 +19,7 @@ group: navigation
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
 ![Image](/members/yuzhu-duan.jpeg){: .center-image }
 <p align="center">
-[<img src="/members/yuzhu-duan.jpeg" alt="drawing" style="width:150px;"/>](yuzhu-duan/)
+<a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="drawing" style="width:150px;"/></a>
 </p>
 * [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
 * [Le Zhang, Graduate Student in GGB](le-zhang/)
