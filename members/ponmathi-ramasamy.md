@@ -5,7 +5,7 @@ header: Ponmathi Ramasamy
 group: members 
 ---
 
-![Image](/members/ponmathi-ramasamy.jpeg)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ponmathi-ramasamy/"><img src="/members/ponmathi-ramasamy.jpeg" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 

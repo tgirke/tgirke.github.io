@@ -5,7 +5,7 @@ header: Thomas Girke
 group: members 
 ---
 
-![Thomas Girke](/public/images/profile_small.png)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/thomas-girke/"><img src="/members/thomas-girke.jpg" alt="image" style="width:150px;"/></a></p>
 
 ## Contact
 

@@ -5,7 +5,7 @@ header: Gordon Mosher
 group: members 
 ---
 
-![Image](/members/gordon-mosher.jpeg)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/gordon-mosher/"><img src="/members/gordon-mosher.jpeg" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 

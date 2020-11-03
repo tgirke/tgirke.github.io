@@ -5,7 +5,7 @@ header: Tyler Backman
 group: members 
 ---
 
-![Image](/members/tyler-backman.jpg)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/tyler-backman/"><img src="/members/tyler-backman.jpg" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 

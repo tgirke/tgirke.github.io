@@ -5,7 +5,7 @@ header: Austin Leong
 group: members 
 ---
 
-![Image](/members/austin-leong.png)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/austin-leong/"><img src="/members/austin-leong.png" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 

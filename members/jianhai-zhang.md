@@ -5,7 +5,7 @@ header: Jianhai Zhang
 group: members 
 ---
 
-![Image](/members/jianhai-zhang.jpg)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/jianhai-zhang/"><img src="/members/jianhai-zhang.jpg" alt="image" style="width:150px;"/></a></p>
 
 ## Status
 

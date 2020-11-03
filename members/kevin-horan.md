@@ -5,7 +5,7 @@ header: Kevin Horan
 group: members 
 ---
 
-![Image](/members/kevin-horan.jpg)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/kevin-horan/"><img src="/members/kevin-horan.jpg" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 

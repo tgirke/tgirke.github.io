@@ -5,7 +5,7 @@ header: Le Zhang
 group: members 
 ---
 
-![Image](/members/le-zhang.jpg)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/le-zhang/"><img src="/members/le-zhang.jpg" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 
