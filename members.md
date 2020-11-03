@@ -17,7 +17,7 @@ group: navigation
 * [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
 ![Image](/members/daniela-cassol.jpeg){: .center-image }
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
-[![Image](/members/yuzhu-duan.jpeg){: .center-image }](yuzhu-duan/)
+[![Image](/members/yuzhu-duan.jpeg =250x){: .center-image }](yuzhu-duan/)
 <p align="center">
 <a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="drawing" style="width:150px;"/></a>
 </p>
