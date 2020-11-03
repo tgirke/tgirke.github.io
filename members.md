@@ -9,6 +9,7 @@ group: navigation
 ## Principal Investigator (PI)
 
 * [Thomas Girke, Ph.D.](thomas-girke/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/thomas-girke/"><img src="/members/thomas-girke.jpg" alt="drawing" style="width:150px;"/></a></p>
 
 <br/>
 
