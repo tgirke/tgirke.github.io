@@ -9,24 +9,28 @@ group: navigation
 ## Principal Investigator (PI)
 
 * [Thomas Girke, Ph.D.](thomas-girke/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/thomas-girke/"><img src="/members/thomas-girke.jpg" alt="drawing" style="width:150px;"/></a></p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/thomas-girke/"><img src="/members/thomas-girke.jpg" alt="image" style="width:150px;"/></a></p>
 
 <br/>
 
 ## Current Members  
 
 * [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="drawing" style="width:150px;"/></a></p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="drawing" style="width:150px;"/></a></p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/jianhai-zhang/"><img src="/members/jianhai-zhang.jpg" alt="image" style="width:150px;"/></a></p>
 * [Le Zhang, Graduate Student in GGB](le-zhang/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/le-zhang/"><img src="/members/le-zhang.jpg" alt="image" style="width:150px;"/></a></p>
 * [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/kevin-horan/"><img src="/members/kevin-horan.jpg" alt="image" style="width:150px;"/></a></p>
 * [Austin Leong Programmer](austin-leong/)
 * [Gordon David Mosher, Undergraduate Student, Statistics](gordon-mosher/)
+* [Ponmathi Ramasamy, Undergraduate Student in Bioengineering](ponmathi-ramasamy/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ponmathi-ramasamy/"><img src="/members/ponmathi-ramasamy.jpeg" alt="image" style="width:150px;"/></a></p>
 * Ryan Gates (rgate003@ucr.edu), Undergraduate Student
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
-* Ponmathi Ramasamy, Undergraduate Student, Bioengineering
 
 <br/>
 
