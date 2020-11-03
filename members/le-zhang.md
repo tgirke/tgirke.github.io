@@ -4,7 +4,8 @@ title: Le Zhang
 header: Le Zhang
 group: members 
 ---
- <img src=https://avatars2.githubusercontent.com/u/35240440 width=150 height=150>
+
+![Image](/members/le-zhang.jpg)
 
 ## Postition
 
