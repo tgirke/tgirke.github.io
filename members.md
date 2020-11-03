@@ -28,7 +28,7 @@ group: navigation
 * [Austin Leong Programmer](austin-leong/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/austin-leong/"><img src="/members/austin-leong.png" alt="image" style="width:150px;"/></a></p>
 * [Gordon David Mosher, Undergraduate Student, Statistics](gordon-mosher/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/gordon-mosher/"><img src="/members/gordon-mosher.jpg" alt="image" style="width:150px;"/></a></p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/gordon-mosher/"><img src="/members/gordon-mosher.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Ponmathi Ramasamy, Undergraduate Student in Bioengineering](ponmathi-ramasamy/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ponmathi-ramasamy/"><img src="/members/ponmathi-ramasamy.jpeg" alt="image" style="width:150px;"/></a></p>
 * Ryan Gates (rgate003@ucr.edu), Undergraduate Student
