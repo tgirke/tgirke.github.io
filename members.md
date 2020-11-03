@@ -17,7 +17,8 @@ group: navigation
 * [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
 ![Image](/members/daniela-cassol.jpeg){: .center-image }
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
-![Image](/members/yuzhu-duan.jpeg)
+![Image](/members/yuzhu-duan.jpeg){: .center-image }
+<img src="/members/yuzhu-duan.jpeg" alt="drawing" style="width:200px;"/>
 * [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
 * [Le Zhang, Graduate Student in GGB](le-zhang/)
 * [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
