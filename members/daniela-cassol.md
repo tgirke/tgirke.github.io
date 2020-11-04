@@ -13,20 +13,29 @@ Postdoctoral Researcher
 
 ## Email 
 
-danielac@ucr.edu 
+danielac@ucr.edu / danicassol@gmail.com
 
 ## Education
 
-...
+- Ph.D., Biological Sciences, Federal University of Rio de Janeiro, 2012–2016
+- M.Sc., Plant Physiology, Federal University of Viçosa, 2010–2012
+- B.S., Biological Sciences, Federal University of Pelotas, 2005-2010
 
 ## Research Interests
 
-...
+My research interests lie broadly in the development and evaluation of computational methods and tools for high-dimensional genomic data. I am currently developing computational tools to integrated high-throughput data analysis for R and Bioconductor open source software projects. 
 
 ## Publications
 
-...
+- [Google Scholar](https://scholar.google.com/citations?user=UwdJNNcAAAAJ&hl=en)
 
 ## Software
 
-...
+- [systemPipeR](http://www.bioconductor.org/packages/release/bioc/html/systemPipeR.html)
+- [systemPipeRdata](http://www.bioconductor.org/packages/release/data/experiment/html/systemPipeRdata.html)
+- [systemPipeShiny](https://www.bioconductor.org/packages/release/bioc/html/systemPipeShiny.html)
+
+## Personal Webpage
+
+- [Daniela’s personal webpage](https://www.dcassol.com/)
+
