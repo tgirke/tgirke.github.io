@@ -23,11 +23,12 @@ danielac@ucr.edu / danicassol@gmail.com
 
 ## Research Interests
 
-My research interests lie broadly in the development and evaluation of computational methods and tools for high-dimensional genomic data. I am currently developing computational tools to integrated high-throughput data analysis for R and Bioconductor open source software projects. 
+My research interests lie broadly in the development and evaluation of computational 
+methods and tools for high-dimensional genomic data. 
 
 ## Publications
 
-- [Google Scholar](https://scholar.google.com/citations?user=UwdJNNcAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=SJKCmboAAAAJ&hl=en)
 
 ## Software
 
