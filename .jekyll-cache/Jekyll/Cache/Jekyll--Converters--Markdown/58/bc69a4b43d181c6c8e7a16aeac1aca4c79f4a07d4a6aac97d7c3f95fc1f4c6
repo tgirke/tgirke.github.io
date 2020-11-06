@@ -1,0 +1,45 @@
+I"<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/tyler-backman/"><img src="/members/tyler-backman.jpg" alt="image" style="width:150px;" /></a></p>
+
+<h2 id="postition">Postition</h2>
+
+<p>Bioengineering Doctoral Candidate</p>
+
+<h2 id="email">Email</h2>
+
+<p>{first initial}{last name} at ucr</p>
+
+<h2 id="education">Education</h2>
+
+<p>PhD in Bioengineering (in progress), <a href="http://www.ucr.edu/">University of California Riverside</a><br />
+BS in Physics, <a href="http://www.physics.oregonstate.edu/">Oregon State University</a></p>
+
+<h2 id="research-interests">Research Interests</h2>
+
+<p>I am interested in computational drug discovery, mathematical modeling of biological feedback systems, and inference from weak and noisy data. I am currently developing computational tools to identify new small molecule drugs and drug targets for the treatment of human disease.</p>
+
+<h2 id="publications">Publications</h2>
+
+<ul>
+  <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27367556">bioassayR: Cross-Target Analysis of Small Molecule Bioactivity.</a><br />
+Backman TW, Girke T.<br />
+J Chem Inf Model. 2016 Jul 1.</li>
+  <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/24306871">Cheminformatic analysis of high-throughput compound screens.</a><br />
+Backman TW, Girke T.<br />
+Methods Mol Biol. 2014;1056:145-57.</li>
+  <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23962615">fmcsR: mismatch tolerant maximum common substructure searching in R.</a><br />
+Wang Y, Backman TW, Horan K, Girke T.<br />
+Bioinformatics. 2013 Nov 1;29(21):2792-4.</li>
+  <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23633570">Juvenile hormone and its receptor, methoprene-tolerant, control the dynamics of mosquito gene expression.</a><br />
+Zou Z, Saha TT, Roy S, Shin SW, Backman TW, Girke T, White KP, Raikhel AS.<br />
+Proc Natl Acad Sci U S A. 2013 Jun 11;110(24):E2173-81. doi: 10.1073/pnas.1305293110. Epub 2013 Apr 30.</li>
+  <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/21576229">ChemMine tools: an online service for analyzing and clustering small molecules.</a><br />
+Backman TW, Cao Y, Girke T.<br />
+Nucleic Acids Res. 2011 Jul;39(Web Server issue):W486-91.</li>
+  <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19307293">Computational and analytical framework for small RNA profiling by high-throughput sequencing.</a><br />
+Fahlgren N, Sullivan CM, Kasschau KD, Chapman EJ, Cumbie JS, Montgomery TA, Gilbert SD, Dasenko M, Backman TW, Givan SA, Carrington JC.<br />
+RNA. 2009 May;15(5):992-1002.</li>
+  <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17999994">Update of ASRP: the Arabidopsis Small RNA Project database.</a><br />
+Backman TW, Sullivan CM, Cumbie JS, Miller ZA, Chapman EJ, Fahlgren N, Givan SA, Carrington JC, Kasschau KD.<br />
+Nucleic Acids Res. 2008 Jan;36(Database issue):D982-5.</li>
+</ul>
+:ET
