@@ -32,6 +32,8 @@ group: navigation
 * [Ponmathi Ramasamy, Undergraduate Student in Bioengineering](ponmathi-ramasamy/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ponmathi-ramasamy/"><img src="/members/ponmathi-ramasamy.jpeg" alt="image" style="width:150px;"/></a></p>
 * Ryan Gates (rgate003@ucr.edu), Undergraduate Student
+* [Ryan Gates, Undergraduate Student](ryan-gates/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ryan-gates/"><img src="/members/ryan-gates.jpg" alt="image" style="width:150px;"/></a></p>
 * Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
 
 <br/>
