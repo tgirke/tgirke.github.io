@@ -17,8 +17,8 @@ jzhan067@ucr.edu
 
 ## Education
 
-PhD in Bioinformatics, University of California, Riverside, 09.2016-present  
-MSc in Biotechnoloy, Norwegian University of Science and Technology, 08.2012-06.2014
+PhD candidate, Bioinformatics, University of California, Riverside, 09.2016-present  
+MSc, Biotechnoloy, Norwegian University of Science and Technology, 08.2012-06.2014
 
 ## Research Interests
 
@@ -31,4 +31,4 @@ Olga N. Sekurova, Jianhai Zhang, Kåre A. Kristiansen, Sergey B. Zotchev. Activa
 
 ## Software
 
-spatialHeatmap: <a href="http://bioconductor.org/packages/release/bioc/vignettes/spatialHeatmap/inst/doc/spatialHeatmap.html" target="_blank">Bioconductor package vignette</a>, <a href="https://www.plantsecretome.org/software/spatialheatmap" target="_blank">simplified demo</a>  
+spatialHeatmap: <a href="http://bioconductor.org/packages/release/bioc/vignettes/spatialHeatmap/inst/doc/spatialHeatmap.html" target="_blank">Bioconductor package vignette</a>, <a href="https://tgirke.shinyapps.io/spatialHeatmap1/" target="_blank">simplified demo</a>  
