@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Girke Lab
 tagline:             'Research and Teaching Site'
-description:         'Thomas Girke'
+description:         'Girke Lab Site'
 url:                 https://tgirke.github.io
 baseurl:             ''
 # The following line is required for Jekyll >=3 support
@@ -16,7 +16,7 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Girke Lab Site
+  name:              Thomas Girke
   url:               https://girke.bioinformatics.ucr.edu
   email:             thomas.girke@ucr.edu
 
