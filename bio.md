@@ -6,6 +6,8 @@ group: navigation
 ---
 <br/>
 
+## Thomas Girke 
+
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/bio/"><img src="/members/thomas-girke.jpeg" alt="image" style="width:150px;"/></a></p>
 
 ## Research Interests
