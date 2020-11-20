@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thomas Girke
-header: Girke Biography
+title: Biography
+header: Thomas Girke
 group: navigation
 ---
 <br/>
