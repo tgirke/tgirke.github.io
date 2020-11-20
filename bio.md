@@ -12,7 +12,7 @@ group: navigation
 
 ## Research Interests
 
-See [here](https://girke.bioinformatics.ucr.edu/){:target="_blank"}.
+* See [here](https://girke.bioinformatics.ucr.edu/){:target="_blank"}.
 
 <br/>
 
@@ -25,7 +25,7 @@ See [here](https://girke.bioinformatics.ucr.edu/){:target="_blank"}.
 
 ## Contact
 
-See [here](https://girke.bioinformatics.ucr.edu/contact/){:target="_blank"}.
+* See [here](https://girke.bioinformatics.ucr.edu/contact/){:target="_blank"}.
 
 <br/>
 
@@ -38,6 +38,6 @@ See [here](https://girke.bioinformatics.ucr.edu/contact/){:target="_blank"}.
 
 ## Publications
 
-* See [Publication List]({{site.baseurl}}/pubs/){:target="_blank"}.
+* See [here]({{site.baseurl}}/pubs/){:target="_blank"}.
 
 
