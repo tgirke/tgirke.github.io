@@ -8,16 +8,16 @@ group: navigation
 
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/bio/"><img src="/members/thomas-girke.jpeg" alt="image" style="width:150px;"/></a></p>
 
+## Research Interests
+
+See [here](https://girke.bioinformatics.ucr.edu/){:target="_blank"}.
+
+<br/>
+
 ## Degrees  
 
 * Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
 * Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI  
-
-<br/>
-
-## Research Interests
-
-See [here](https://girke.bioinformatics.ucr.edu/){:target="_blank"}.
 
 <br/>
 
