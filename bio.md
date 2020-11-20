@@ -1,15 +1,29 @@
 ---
 layout: page
-title: Girke Biography
+title: Thomas Girke
 header: Girke Biography
 group: navigation
 ---
 <br/>
 
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/bio/"><img src="/members/thomas-girke.jpeg" alt="image" style="width:150px;"/></a></p>
+
 ## Degrees  
 
-Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
-Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI  
+* Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
+* Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI  
+
+<br/>
+
+## Research Interests
+
+See [here](https://girke.bioinformatics.ucr.edu/){:target="_blank"}.
+
+<br/>
+
+## Contact
+
+See [here](https://girke.bioinformatics.ucr.edu/contact/){:target="_blank"}.
 
 <br/>
 
@@ -22,5 +36,6 @@ Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI
 
 ## Publications
 
-* see [Publication List]({{site.baseurl}}/pubs/){:target="_blank"}
+* See [Publication List]({{site.baseurl}}/pubs/){:target="_blank"}.
+
 
