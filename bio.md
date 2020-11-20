@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Biography
-header: Biography
+title: Girke Biography
+header: Girke Biography
 group: navigation
 ---
 <br/>
