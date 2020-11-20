@@ -17,7 +17,7 @@ career.
 
 ### [Data Analysis in Genome Biology - GEN242](http://girke.bioinformatics.ucr.edu/GEN242)
 
-[[Syllabus Spring-2017](http://girke.bioinformatics.ucr.edu/GEN242/mydoc_syllabus.html)]
+[[Syllabus](http://girke.bioinformatics.ucr.edu/GEN242/mydoc_syllabus.html)]
 
 Introduction to algorithms, statistical methods and data analysis skills for
 genome biology. The lecture topics cover databases, sequence (NGS) analysis,
@@ -29,7 +29,7 @@ command-line tools and the programming environment R. 4 units, 4 hours lecture,
 
 ### Introduction to Genomics and Bioinformatics - BIOL119
 
-[[Syllabus Fall-2015](https://goo.gl/BXSyD8)]
+[[Syllabus](http://bit.ly/2Nw3WdA)]
 
 Introduction to the science of genomics and bioinformatics, including genome
 integrated sequencing, database techniques, comparative and evolutionary
