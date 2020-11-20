@@ -19,17 +19,18 @@ group: navigation
 * Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
 * Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI  
 
-## Contact
+## Publications
 
-* See [here](https://girke.bioinformatics.ucr.edu/contact/){:target="_blank"}.
+* See [here]({{site.baseurl}}/pubs/){:target="_blank"}.
 
 ## Biosketch in NSF/NIH Formats
 
 * [NIH](https://docs.google.com/document/d/1A3UwqyzVqVv_11cG0nQKDMUbZ-W2Qg0QLBITL66OuRM/edit?usp=sharing){:target="_blank"}
 * [NSF](https://docs.google.com/document/d/17EQxWPAVNkBwgAFqkefRmy_Y3XRlyUMeicPegRDXqeo/edit?usp=sharing){:target="_blank"}
 
-## Publications
+## Contact
 
-* See [here]({{site.baseurl}}/pubs/){:target="_blank"}.
+* See [here](https://girke.bioinformatics.ucr.edu/contact/){:target="_blank"}.
+
 
 
