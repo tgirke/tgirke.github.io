@@ -28,7 +28,4 @@ Postdoctoral Researcher
 
 - [pubmed bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1HaKgn1rc7a5v/bibliography/public/?sortby=pubDate&sdirection=descending)
 
-## Personal Webpage
-
-- ...
 
