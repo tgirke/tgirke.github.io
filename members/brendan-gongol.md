@@ -5,7 +5,7 @@ header: Brendan Gongol
 group: members 
 ---
 
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/brendan_gongol/"><img src="/members/brendan_gongol.jpeg" alt="image" style="width:150px;"/></a></p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/brendan_gongol/"><img src="/members/brendan-gongol.jpeg" alt="image" style="width:150px;"/></a></p>
 
 ## Postition
 

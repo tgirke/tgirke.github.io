@@ -18,7 +18,7 @@ group: navigation
 * [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Brendan Gongol, Ph.D., Postdoc](brendan-gongol/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/brendan-gongol/"><img src="/members/brendan_gongol.jpeg" alt="image" style="width:150px;"/></a></p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/brendan-gongol/"><img src="/members/brendan-gongol.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
