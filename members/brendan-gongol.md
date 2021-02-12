@@ -13,7 +13,7 @@ Postdoctoral Researcher
 
 ## Email 
 
-...@ucr.edu / brengong@gmail.com
+brendan.gongol@ucr.edu / brengong@gmail.com
 
 ## Education
 
