@@ -52,6 +52,7 @@ group: navigation
 
 * [Course Catalog](http://www.catalog.ucr.edu/){:target="_blank"}
 * [Search Course Catalog](http://classinfo.ucr.edu/){:target="_blank"}
+* [Course Request System (CRS)](https://registrar.ucr.edu/crs/support)
 * [iLearn](http://ilearn.ucr.edu/){:target="_blank"}
 * [iGrade](http://igrade.ucr.edu/){:target="_blank"}
 * [CRAMS](http://crams.ucr.edu/crams/crams_directory.main)
