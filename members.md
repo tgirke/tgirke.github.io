@@ -40,8 +40,7 @@ group: navigation
 <br/>
 
 ## Former Members
-* [Tyler Backman, PhD Candidate, Bioengineering](tyler-backman/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/tyler-backman/"><img src="/members/tyler-backman.jpg" alt="image" style="width:150px;"/></a></p>
+* Tyler Backman, Graduate Student, Bioengineering
 * Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
 * Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
 * Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
