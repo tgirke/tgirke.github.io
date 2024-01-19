@@ -13,7 +13,7 @@ Postdoctoral Researcher
 
 ## Email 
 
-danielac@ucr.edu / danicassol@gmail.com
+danielac@ucr.edu / dcassol@lbl.gov / danicassol@gmail.com
 
 ## Education
 
