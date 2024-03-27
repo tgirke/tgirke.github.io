@@ -16,7 +16,7 @@ group: navigation
 * [bioassayR](https://www.bioconductor.org/packages/release/bioc/vignettes/bioassayR/inst/doc/bioassayR.html){:target="_blank"}
 * [Vim-R-Tmux: Command-Line IDE for R](https://github.com/tgirke/Nvim-R_Tmux){:target="_blank"}
 * [NGS Analysis with Galaxy and IGV](http://manuals.bioinformatics.ucr.edu/home/gui-ngs-analysis){:target="_blank"}
-* [EMBOSS](http://manuals.bioinformatics.ucr.edu/home/emboss){:target="_blank"}
-* [Linux Essentials](http://manuals.bioinformatics.ucr.edu/home/linux-basics){:target="_blank"}
+* [EMBOSS](https://girke.bioinformatics.ucr.edu/tutorials/){:target="_blank"}
+* [Linux Essentials](https://girke.bioinformatics.ucr.edu/GEN242/tutorials/linux/linux/){:target="_blank"}
 * [HPCC Cluster](https://hpcc.ucr.edu/manuals/){:target="_blank"}
 
