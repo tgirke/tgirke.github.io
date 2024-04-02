@@ -40,7 +40,7 @@ group: navigation
         
 <th style="width:105px;height:16px">Institution</th>
         
-<th style="width:528px;height:16px">Title and Description</th>
+<th style="width:428px;height:16px">Title and Description</th>
     </tr>
 <tr>
 <td valign="top"><span>July 22, 2015</span></td>
