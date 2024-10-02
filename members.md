@@ -15,8 +15,6 @@ group: navigation
 
 ## Current Members  
 
-* [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Brendan Gongol, Ph.D., Postdoc](brendan-gongol/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/brendan-gongol/"><img src="/members/brendan-gongol.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
@@ -40,6 +38,8 @@ group: navigation
 <br/>
 
 ## Former Members
+* [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="image" style="width:150px;"/></a></p>
 * [Tyler Backman, PhD Candidate, Bioengineering](tyler-backman/)
 <p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/tyler-backman/"><img src="/members/tyler-backman.jpg" alt="image" style="width:150px;"/></a></p>
 * Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
