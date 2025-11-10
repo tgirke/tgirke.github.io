@@ -56,6 +56,7 @@ group: navigation
 * [iLearn](http://ilearn.ucr.edu/){:target="_blank"}
 * [Canvas (eLearn)](https://elearn.ucr.edu/){:target="_blank"}
 * [iGrade](http://igrade.ucr.edu/){:target="_blank"}
+* [Course Evals (Qualtrics)](https://ucrcourseevals.qualtrics.com/homepage/ui):target="_blank"}
 * [CRAMS](http://crams.ucr.edu/crams/crams_directory.main)
 * [Academic Calendar](http://registrar.ucr.edu/registrar/academic-calendar/default.aspx){:target="_blank"} ([Details](http://registrar.ucr.edu/registrar/academic-calendar/print-academic-calendar.html){:target="_blank"}; [old version](http://www.classes.ucr.edu/enrollment/calendar.htm){:target="_blank"}); [UCR Holiday Calendar](http://accounting.ucr.edu/payroll/pay_cal.html){:target="_blank"}
 * [R'Space](http://rspace.ucr.edu/){:target="_blank"} (iViews, [Grad SIS](https://gradsis.ucr.edu/gradsis/GSIS_MENU.Menu_NonStudent){:target="_blank"})
