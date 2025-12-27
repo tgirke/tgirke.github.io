@@ -24,6 +24,7 @@ should be addressed to Julie Slusser and classified as DNS service request.
 Subsequently, you follow the github instructions linked above.
 {:/comment}
 * [Check YAML formatting](http://www.yamllint.com/){:target="_blank"}
+* [YAML tools](https://yamline.com/){:target="_blank"}
 
 #### Sample pages
 
