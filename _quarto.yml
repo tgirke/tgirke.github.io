@@ -1,0 +1,98 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
+
+website:
+  title: "Girke Lab"
+  description: "Research and Teaching — University of California, Riverside"
+  site-url: "https://girke.bioinformatics.ucr.edu"
+  repo-url: "https://github.com/tgirke/girkelab"
+  repo-actions: [edit, issue]
+  favicon: assets/favicon.ico
+
+  # ── Top navigation bar ─────────────────────────────────────────────────────
+  navbar:
+    logo: assets/logo.png
+    logo-alt: "Girke Lab"
+    title: false
+    pinned: true
+    background: dark
+    foreground: light
+    left:
+      - text: "About"
+        href: about/index.qmd
+      - text: "People"
+        menu:
+          - text: "Thomas Girke"
+            href: people/thomas_girke.qmd
+          - text: "Members"
+            href: people/members.qmd
+          - text: "Contact"
+            href: people/contact.qmd
+      - text: "Research"
+        menu:
+          - text: "Publications"
+            href: research/publications/index.qmd
+          - text: "Projects"
+            href: research/projects/index.qmd
+          - text: "Repositories"
+            href: research/repositories/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Positions"
+        href: positions/index.qmd
+      - text: "Links"
+        menu:
+          - text: "Public Sites"
+            href: links/public.qmd
+          - text: "UCR Sites"
+            href: links/ucr.qmd
+    right:
+      - icon: github
+        href: https://github.com/tgirke
+        aria-label: GitHub
+
+  # ── Footer ─────────────────────────────────────────────────────────────────
+  page-footer:
+    left: "© 2026 Thomas Girke, UC Riverside"
+    right:
+      - text: "Girke Lab on GitHub"
+        href: https://github.com/tgirke
+
+  page-navigation: true
+  back-to-top-navigation: true
+
+  search:
+    location: navbar
+    type: overlay
+
+# ── Format defaults ────────────────────────────────────────────────────────
+format:
+  html:
+    theme:
+      light: [slate, assets/custom.scss]
+      dark:  [slate, assets/custom.scss]
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    number-sections: false
+    code-fold: false
+    code-tools: false
+    code-link: true
+    highlight-style: github
+    df-print: paged
+    fig-align: center
+    fig-responsive: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+
+# ── Execution defaults ─────────────────────────────────────────────────────
+execute:
+  freeze: auto
+  cache: true
+  warning: false
+  message: false

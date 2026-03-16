@@ -1,0 +1,35 @@
+---
+title: "Girke Lab"
+subtitle: "Research and Teaching — University of California, Riverside"
+page-layout: full
+toc: false
+---
+
+The Girke lab focuses on fundamental research questions at the intersection
+of genome biology and chemical genomics. We develop computational methods for
+analyzing large-scale omics and small molecule bioactivity data, and contribute
+to the open source R/Bioconductor ecosystem.
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3}
+### [About](about/index.qmd)
+Overview of the lab, mission, and location.
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### [People](people/members.qmd)
+Lab members, alumni, and how to get in touch.
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### [Research](research/projects/index.qmd)
+Publications, projects, and software repositories.
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### [Positions](positions/index.qmd)
+Open positions for students and postdocs.
+:::
+
+:::
