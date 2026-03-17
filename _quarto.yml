@@ -73,8 +73,8 @@ website:
 format:
   html:
     theme:
-      light: [slate, assets/custom.scss]
-      dark:  [slate, assets/custom.scss]
+      light: [cosmo, assets/custom.scss]
+      dark:  [darkly, assets/custom-dark.scss]
     toc: true
     toc-depth: 3
     toc-title: "On this page"
