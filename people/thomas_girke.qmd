@@ -4,11 +4,7 @@ image: images/thomas_girke.jpg
 page-layout: article
 ---
 
-<a href="https://girke.bioinformatics.ucr.edu/bio/">
-  <img src="images/thomas-girke.jpeg"
-       alt="Portrait of Thomas Girke" style="width:150px" 
-       class="profile-photo">
-</a>
+<img src="images/thomas-girke.jpeg" alt="Portrait of Thomas Girke" style="width:150px" class="profile-photo">
 
 Thomas Girke is a professor at the University of California, Riverside, working
 at the intersection of genome biology, chemical genomics, and bioinformatics.
