@@ -1,32 +1,61 @@
 ---
 title: "Thomas Girke"
 date: last-modified
+image: images/thomas_girke.jpg
 page-layout: article
 ---
 
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/people/"><img src="images/thomas-girke.jpeg" alt="image" style="width:150px;"/></a></p>
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/bio/"><img src="images/thomas-girke.jpeg" alt="image" style="width:150px;"/></a></p>
+
+Thomas Girke is a professor at the University of California, Riverside, working
+at the intersection of genome biology, chemical genomics, and bioinformatics.
+His research focuses on the development of computational methods and
+open-source software for the analysis of large-scale omics and small-molecule
+bioactivity data, with applications in both basic and translational research. A
+major emphasis of his work is the design of reproducible and scalable data
+analysis infrastructure for the R and Bioconductor ecosystems.
 
 ## Research Interests
 
-* See [here](https://girke.bioinformatics.ucr.edu/girkelab/research/projects/index.qmd)
+Research in the Girke lab focuses on genome biology, chemical genomics,
+computational biology, and data-driven approaches for studying complex
+biological systems. Current work includes method and software development for
+large-scale omics data, chemical genomics, reproducible workflow systems, and
+translational applications in agriculture and human health. Additional
+information and project summaries are available on the
+[Projects](../research/projects.html) page.
 
-## Degrees  
+## Education and Training
 
-* Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
-* Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI  
+- Ph.D. in Molecular Biology and Biochemistry, University of Hamburg, Germany
+- Postdoctoral training in Genomics and Bioinformatics, Michigan State University
+
+## Software and Resources
+
+A major component of Thomas Girke’s work is the development of open-source software and data analysis infrastructure, particularly in the R and Bioconductor communities. This includes contributions to workflow systems, bioinformatics tools, and teaching resources designed to support reproducible research and scalable data analysis.
 
 ## Publications
 
-* See [here]({{site.baseurl}}/pubs/)
+Selected publications and a full list of research articles are available on the [Publications](../research/publications.html) page.
 
-## Biosketch in NSF/NIH Formats
+## Biosketch
 
-* [NIH](https://docs.google.com/document/d/1A3UwqyzVqVv_11cG0nQKDMUbZ-W2Qg0QLBITL66OuRM/edit?usp=sharing)
-* [NSF](https://drive.google.com/file/d/10LJfym5cho_LLsfS7KkCsmXkZdkHj3g-/view?usp=sharing)
+- [NIH Biosketch](https://docs.google.com/document/d/1A3UwqyzVqVv_11cG0nQKDMUbZ-W2Qg0QLBITL66OuRM/edit?usp=sharing)
+- [NSF Biosketch](https://drive.google.com/file/d/10LJfym5cho_LLsfS7KkCsmXkZdkHj3g-/view?usp=sharing)
 
 ## Contact
 
-* See [here](https://girke.bioinformatics.ucr.edu/contact/)
-
-
+Thomas Girke
+Professor of Bioinformatics <br/>
+Director of High-Performance Computing Center ([HPCC](http://hpcc.ucr.edu/) </br>
+Institute for Integrative Genome Biology ([IIGB](http://genomics.ucr.edu/) </br>
+Department of Botany and Plant Sciences ([BPSC](http://plantbiology.ucr.edu/) </br>
+1207F Genomics Building </br>
+University of California, Riverside ([UCR](http://www.ucr.edu/) </br>
+CA 92521 <br/>
+[Map](https://www.google.com/maps/place/33%C2%B058'17.9%22N+117%C2%B019'35.1%22W/@33.972364,-117.325996,17z/data=!4m2!3m1!1s0x0:0x0?hl=en-US)
+</br></br> 
+Email: thomas.girke@ucr.edu <br/>
+URL: http://girke.bioinformatics.ucr.edu <br/>
+Phone/Cell/Text: (951) 732-7072 <br/>
 
