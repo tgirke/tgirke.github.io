@@ -4,7 +4,11 @@ image: images/thomas_girke.jpg
 page-layout: article
 ---
 
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/bio/"><img src="images/thomas-girke.jpeg" alt="image" style="width:150px;"/></a></p>
+<a href="https://girke.bioinformatics.ucr.edu/bio/">
+  <img src="images/thomas-girke.jpeg"
+       alt="Portrait of Thomas Girke" style="width:150px" 
+       class="profile-photo">
+</a>
 
 Thomas Girke is a professor at the University of California, Riverside, working
 at the intersection of genome biology, chemical genomics, and bioinformatics.
@@ -13,6 +17,8 @@ open-source software for the analysis of large-scale omics and small-molecule
 bioactivity data, with applications in both basic and translational research. A
 major emphasis of his work is the design of reproducible and scalable data
 analysis infrastructure for the R and Bioconductor ecosystems.
+
+<div style="clear: right;"></div>
 
 ## Research Interests
 
