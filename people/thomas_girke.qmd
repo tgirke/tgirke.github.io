@@ -1,6 +1,5 @@
 ---
 title: "Thomas Girke"
-date: last-modified
 image: images/thomas_girke.jpg
 page-layout: article
 ---
