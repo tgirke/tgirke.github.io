@@ -1,79 +1,221 @@
 ---
 title: "Members"
 page-layout: article
+toc: false
 ---
 
-## Principal Investigator (PI)
+<style>
+.member-feature {
+  display: flow-root;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+}
 
-* Thomas Girke, Ph.D.
-<img src="images/thomas-girke.jpeg" alt="Portrait of Thomas Girke" style="width:150px" class="profile-photo">
+.member-feature-photo {
+  float: left;
+  width: 170px;
+  max-width: 30%;
+  margin: 0.2rem 1.25rem 0.75rem 0;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
 
-## Current Members  
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
 
-* Brendan Gongol, Ph.D., Postdoc
-<img src="images/brendan-gongol.jpeg" alt="Portrait of Thomas Girke" style="width:150px" class="profile-photo">
-* [Yuzhu Duan, Graduate Student in GGB](yuzhu-duan/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/yuzhu-duan/"><img src="/members/yuzhu-duan.jpeg" alt="image" style="width:150px;"/></a></p>
-* [Jianhai Zhang, Graduate Student in GGB](jianhai-zhang/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/jianhai-zhang/"><img src="/members/jianhai-zhang.jpg" alt="image" style="width:150px;"/></a></p>
-* [Le Zhang, Graduate Student in GGB](le-zhang/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/le-zhang/"><img src="/members/le-zhang.jpg" alt="image" style="width:150px;"/></a></p>
-* [Kevin Horan, Ph.D., Postdoc](kevin-horan/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/kevin-horan/"><img src="/members/kevin-horan.jpg" alt="image" style="width:150px;"/></a></p>
-* [Austin Leong Programmer](austin-leong/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/austin-leong/"><img src="/members/austin-leong.jpg" alt="image" style="width:150px;"/></a></p>
-* [Gordon David Mosher, Undergraduate Student, Statistics](gordon-mosher/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/gordon-mosher/"><img src="/members/gordon-mosher.jpeg" alt="image" style="width:150px;"/></a></p>
-* [Ponmathi Ramasamy, Undergraduate Student in Bioengineering](ponmathi-ramasamy/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ponmathi-ramasamy/"><img src="/members/ponmathi-ramasamy.jpeg" alt="image" style="width:150px;"/></a></p>
-* [Ryan Gates, Undergraduate Student](ryan-gates/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ryan-gates/"><img src="/members/ryan-gates.jpg" alt="image" style="width:150px;"/></a></p>
-* Siddhartha Kanrar (siddhartha.kanrar@ucr.edu), Postdoc, Molecular Biology
+.member-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  background: #fff;
+  text-align: center;
+}
 
-<br/>
+.member-photo,
+.member-photo-placeholder {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto 0.75rem auto;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  display: block;
+}
 
-## Former Members
-* [Daniela Cassol, Ph.D., Postdoc](daniela-cassol/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/daniela-cassol/"><img src="/members/daniela-cassol.jpeg" alt="image" style="width:150px;"/></a></p>
-* [Tyler Backman, PhD Candidate, Bioengineering](tyler-backman/)
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/tyler-backman/"><img src="/members/tyler-backman.jpg" alt="image" style="width:150px;"/></a></p>
-* Xinyang Li (lixinyang9898@gmail.com), Undergraduate Student, CS Exchange Program with China
-* Siddharth Sai (ssai001@ucr.edu), Undergraduate Student, Bioengineering
-* Qiong Jia (qjia009@ucr.edu), Graduate Student, GGB (rotation)
-* Shiyuan Guo (sguo039@ucr.edu), Graduate Student, GGB (rotation)
-* Cindy Nguyen (cnguy106@ucr.edu), Undergraduate Student, Statistics
-* Anna Alber (anna.alber@ucr.edu), Programmer
-* Pedro Rodrigues (rodrigues.pap@gmail.com), Visiting Postdoc, University of São Paulo, São Paulo, Brazil
-* Ergude Bao (baoe@cs.ucr.edu), Graduate Student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/ergude-bao) ]
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/ergude-bao/"><img src="/members/ergude-bao.jpeg" alt="image" style="width:150px;"/></a></p>
-* Şeydanur Tıkır (seydatkr@gmail.com), Undergraduate Student, Bioinformatics
-* Patrick Tran (ptran021@ucr.edu), Undergraduate Student, Biochemistry
-* John Sharifi (jshar004@ucr.edu), Undergraduate Student, Bioinformatics
-* Yan Wang (wangya@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/yan-wang) ]  
-* Varun Khanna (varun.khanna@ahduni.edu.in), Postdoc, Ph.D. Cheminformatics [ [home page](http://ils.ahduni.edu.in/faculty/assistant-professors/dr-varun-khanna/) ]
-* Rebecca Sun (fire[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=wlXDMk1tqLvkVzzKAw8k42RYdsucQGtBX3_mBwJrEBQ= "Reveal this e-mail address")@gmail.com), bioinformatics data analyst, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/rebecca-sun) ]  
-* Chris Webber (christopher.webber@ucr.edu), Linux HPC Administrator, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/chris-webber) ]
-* Aleksandr Levchuk (alev[...](http://mailhide.recaptcha.net/d?k=01WtHu7ql6fBHYc-DYZBkHYw==&c=aDVvWB_tsaevNd7EGHpPOc6jRXdV_JikURtYCAkebho= "Reveal this e-mail address")@gmail.com), Systems and Databases Administrator, IIGB [ [home page](http://facility.bioinformatics.ucr.edu/people/aleksandr-levchuk) ]
-* Yiqun Eddie Cao (y[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=n0mdfhOhIv-u8XYTeVvvDw== "Reveal this e-mail address")@cs.ucr.edu), graduate student, CS [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/edie-cao) ]  
-<p align="center"><a href="https://girke.bioinformatics.ucr.edu/members/eddie-cao/"><img src="/members/eddie-cao.jpg" alt="image" style="width:150px;"/></a></p>
-* Jisu Ha (jisuha@ucr.edu), graduate student, GGB [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/jisu-ha) ]
-* Anna Charisi (acha[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=4pvyEvOuAXVrtrkRnhgKS1LU9FuHh9M3TO6MX22fahs= "Reveal this e-mail address")@cs.ucr.edu), graduate student, GGB [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/anna-charisi) ]  
-* Lei Wang (wang[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=omUogdyawAQvOxUzqtLyyXMWOqbJeaqK3YJS8p81D-M= "Reveal this e-mail address")@gmail.com), programmer, MA in Eng [ [home page](https://sites.google.com/a/bioinformatics.ucr.edu/girkelab/members/lei-wang) ]  
-* Junmei Liu (junm[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=NUTT5ER4sjsq1_yX8aJLfEL6Gq2NcYHpnqDgiFE5nbQ= "Reveal this e-mail address")@ucr.edu), data analyst, PhD in Statistics
-* Kei Iida (kiida[...](http://google.com)@gmail.com), Postdoc, Ph.D. Bioinformatics
-* Shawn Lesniak, systems and database admin, BS in CS
-* Julian Krause (krau[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=0hFiTDygwKmiOmDyIy-5SlQvVrX1Iu53BiaEIv0RhMg= "Reveal this e-mail address")@cs.ucr.edu), undergraduate student, CS
-* Josh Lauricha (laur[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=PkrCJ8Yl2hO3ASHFTGO93gwZY_mskhsMhGDethXTsn4= "Reveal this e-mail address")@google.com), linux cluster admin, Google, Mountain View, CA
-* Julian Krause (julian.krause@ucr.edu), Undergraduate Student, CS
-* Li-Chang Cheng (che[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=-2Sg9hQeVb3ne6gtjLejnU4DCPdq18ZffjWA1cKMXxk= "Reveal this e-mail address")@cs.ucr.edu), undergraduate student, CS, UC Irvine
-* Jorge Rodriguez (jorge.rodriguez@gmail.com), Graduate student from Chile
-* Christoph Sapper (christoph.sapper@...), Undergraduate student from Germany
-* Ronly Schlenk (ronlys@ucr.edu), Volunteer
-* Jack Cui (cui[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=qWiY06L5W242s04jUOZZdW6Hc9v877t9RuZkM45YQFk= "Reveal this e-mail address")@hotmail.com), systems admin, C&C, UCR
-* Hua Tran (hua_[...](http://mailhide.recaptcha.net/d?k=01NMmh2jOwMH4nSa8V6_9vvA==&c=I1J4Moyv8f-REjvMa7ISU74gC7ELCMStN1qX2AdZEY0= "Reveal this e-mail address")@uclink.berkeley.edu), graduate student, UC Berkeley
+.member-photo {
+  object-fit: cover;
+}
 
-<br/>
+.member-photo-placeholder {
+  background: #f3f3f3;
+}
 
-## Open Positions
+.member-card p {
+  margin-bottom: 0;
+}
 
-* see [here]({{site.baseurl}}/positions/){:target="_blank"}
+.member-list li {
+  margin-bottom: 0.35rem;
+}
+</style>
+
+## Principal Investigator
+
+::: {.member-feature}
+![](images/thomas-girke.jpeg){.member-feature-photo alt="Portrait of Thomas Girke"}
+
+### Thomas Girke
+
+**Professor**  
+Department of Botany and Plant Sciences  
+University of California, Riverside
+
+Research in the Girke lab focuses on genome biology, chemical genomics, bioinformatics, and the development of reproducible data analysis methods and software for large-scale omics research.
+:::
+
+## Current Members
+
+::: {.member-grid}
+
+::: {.member-card}
+![](images/brendan-gongol.jpeg){.member-photo alt="Portrait of Brendan Gongol"}
+**Brendan Gongol**  
+Postdoctoral Scholar
+:::
+
+::: {.member-card}
+![](images/yuzhu-duan.jpeg){.member-photo alt="Portrait of Yuzhu Duan"}
+**Yuzhu Duan**  
+Graduate Student, GGB
+:::
+
+::: {.member-card}
+![](images/jianhai-zhang.jpg){.member-photo alt="Portrait of Jianhai Zhang"}
+**Jianhai Zhang**  
+Graduate Student, GGB
+:::
+
+::: {.member-card}
+![](images/le-zhang.jpg){.member-photo alt="Portrait of Le Zhang"}
+**Le Zhang**  
+Graduate Student, GGB
+:::
+
+::: {.member-card}
+![](images/kevin-horan.jpg){.member-photo alt="Portrait of Kevin Horan"}
+**Kevin Horan**  
+Postdoctoral Scholar
+:::
+
+::: {.member-card}
+![](images/austin-leong.jpg){.member-photo alt="Portrait of Austin Leong"}
+**Austin Leong**  
+Programmer
+:::
+
+::: {.member-card}
+![](images/gordon-mosher.jpeg){.member-photo alt="Portrait of Gordon Mosher"}
+**Gordon David Mosher**  
+Undergraduate Student, Statistics
+:::
+
+::: {.member-card}
+![](images/ponmathi-ramasamy.jpeg){.member-photo alt="Portrait of Ponmathi Ramasamy"}
+**Ponmathi Ramasamy**  
+Undergraduate Student, Bioengineering
+:::
+
+::: {.member-card}
+![](images/ryan-gates.jpg){.member-photo alt="Portrait of Ryan Gates"}
+**Ryan Gates**  
+Undergraduate Student
+:::
+
+:::
+
+## Alumni
+
+### Former Postdoctoral Scholars
+
+::: {.member-grid}
+
+::: {.member-card}
+![](images/daniela-cassol.jpeg){.member-photo alt="Portrait of Daniela Cassol"}
+**Daniela Cassol**  
+Graduate Student
+:::
+
+::: {.member-card}
+**Siddhartha Kanrar**  
+Postdoctoral Scholar, Molecular Biology
+:::
+
+:::
+
+::: {.member-list}
+- **Pedro Rodrigues**
+- **Varun Khanna**
+- **Kei Iida**
+:::
+
+### Former Graduate Students
+
+::: {.member-grid}
+
+::: {.member-card}
+![](images/tyler-backman.jpg){.member-photo alt="Portrait of Tyler Backman"}
+**Tyler Backman**  
+Graduate Student
+:::
+
+::: {.member-card}
+![](images/eddie-cao.jpg){.member-photo alt="Portrait of Yiqun Eddie Cao"}
+**Yiqun Eddie Cao**  
+Graduate Student
+:::
+
+::: {.member-card}
+![](images/ergude-bao.jpeg){.member-photo alt="Portrait of Ergude Bao"}
+**Ergude Bao**  
+Graduate Student
+:::
+
+:::
+
+::: {.member-list}
+- **Qiong Jia**
+- **Shiyuan Guo**
+- **Yan Wang**
+- **Jisu Ha**
+- **Anna Charisi**
+- **Jorge Rodriguez**
+- **Hua Tran**
+:::
+
+### Former Undergraduate Researchers and Staff
+
+::: {.member-list}
+- **Xinyang Li**
+- **Siddharth Sai**
+- **Cindy Nguyen**
+- **Anna Alber**
+- **Şeydanur Tıkır**
+- **Patrick Tran**
+- **John Sharifi**
+- **Rebecca Sun**
+- **Chris Webber**
+- **Aleksandr Levchuk**
+- **Lei Wang**
+- **Junmei Liu**
+- **Shawn Lesniak**
+- **Julian Krause**
+- **Li-Chang Cheng**
+- **Christoph Sapper**
+- **Ronly Schlenk**
+- **Jack Cui**
+:::
