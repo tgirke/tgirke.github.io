@@ -19,8 +19,8 @@ website:
     logo-alt: "Girke Lab"
     title: false
     pinned: true
-    background: dark
-    foreground: light
+    background: light
+    foreground: dark  
     left:
       - text: "About"
         href: about/index.qmd

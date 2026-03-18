@@ -44,3 +44,41 @@ code.sourceCode .ln {
 .quarto-dark .navbar .quarto-navigation-tool:hover i.bi {
   color: #ffffff !important;
 }
+
+/* UCR blue navbar in light mode */
+.navbar {
+  background-color: #003da5 !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.navbar .nav-link:hover,
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* Fix navbar toggle icon */
+a.quarto-color-scheme-toggle.quarto-navigation-tool {
+  color: rgba(255, 255, 255, 0.85) !important;
+  filter: brightness(10) !important;
+}
+
+a.quarto-color-scheme-toggle.quarto-navigation-tool:hover {
+  color: #ffffff !important;
+}
+
+/* Fix search icon */
+div#quarto-search.type-overlay {
+  color: rgba(255, 255, 255, 0.85) !important;
+  filter: brightness(10) !important;
+}
+
+div#quarto-search.type-overlay:hover {
+  color: #ffffff !important;
+}
+
+
