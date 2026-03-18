@@ -1,0 +1,32 @@
+---
+title: "Thomas Girke"
+date: last-modified
+page-layout: article
+---
+
+<p align="center"><a href="https://girke.bioinformatics.ucr.edu/people/"><img src="images/thomas-girke.jpeg" alt="image" style="width:150px;"/></a></p>
+
+## Research Interests
+
+* See [here](https://girke.bioinformatics.ucr.edu/girkelab/research/projects/index.qmd)
+
+## Degrees  
+
+* Ph.D. in Molecular Biology and Biochemistry, University Hamburg, Germany  
+* Postdoctorate in Genomics and Bioinformatics, Michigan State University, MI  
+
+## Publications
+
+* See [here]({{site.baseurl}}/pubs/)
+
+## Biosketch in NSF/NIH Formats
+
+* [NIH](https://docs.google.com/document/d/1A3UwqyzVqVv_11cG0nQKDMUbZ-W2Qg0QLBITL66OuRM/edit?usp=sharing)
+* [NSF](https://drive.google.com/file/d/10LJfym5cho_LLsfS7KkCsmXkZdkHj3g-/view?usp=sharing)
+
+## Contact
+
+* See [here](https://girke.bioinformatics.ucr.edu/contact/)
+
+
+
