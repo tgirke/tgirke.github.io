@@ -4,6 +4,8 @@ date: last-modified
 page-layout: article
 ---
 
+<img src="images/visual.png" alt="Visual Abstract" style="width:200px; float:right; margin-left:15px;" class="profile-photo">
+
 The Girke lab investigates fundamental questions at the interface of genome
 biology and chemical genomics. Central questions include: Which features of
 genomes, proteomes, and metabolomes are functionally relevant and amenable to
