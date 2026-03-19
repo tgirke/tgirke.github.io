@@ -11,7 +11,7 @@ website:
   title: "Girke Lab"
   description: "Research and Teaching — University of California, Riverside"
   site-url: "https://girke.bioinformatics.ucr.edu"
-  repo-url: "https://github.com/tgirke/girkelab"
+  repo-url: "https://github.com/tgirke/tgirke.github.io"
   repo-actions: [edit, issue]
   favicon: assets/favicon.ico
 
