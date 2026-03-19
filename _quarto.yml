@@ -35,7 +35,7 @@ website:
       - text: "Research"
         menu:
           - text: "Publications"
-            href: research/publications/index.qmd
+            href: research/publications/publications.qmd
           - text: "Projects"
             href: research/projects/index.qmd
           - text: "Repositories"
