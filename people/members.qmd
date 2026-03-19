@@ -64,28 +64,39 @@ toc: false
 }
 </style>
 
-## Principal Investigator
-
-::: {.member-feature}
-![](images/thomas-girke.jpeg){.member-feature-photo alt="Portrait of Thomas Girke"}
-
-### Thomas Girke
-
-**Professor**  
-Department of Botany and Plant Sciences  
-University of California, Riverside
-
-Research in the Girke lab focuses on genome biology, chemical genomics, bioinformatics, and the development of reproducible data analysis methods and software for large-scale omics research.
-:::
 
 ## Current Members
 
 ::: {.member-grid}
 
 ::: {.member-card}
+![](images/thomas-girke.jpeg){.member-photo alt="Portrait of Thomas Girke"}
+**Thomas Girke**  
+Principal Investigator
+:::
+
+::: {.member-card}
 ![](images/brendan-gongol.jpeg){.member-photo alt="Portrait of Brendan Gongol"}
 **Brendan Gongol**  
 Postdoctoral Scholar
+:::
+
+::: {.member-card}
+![](images/desmond-cairo.jpeg){.member-photo alt="Portrait of Desmond Cairo"}
+**Desmond Cairo**  
+Graduate Student, GGB
+:::
+
+::: {.member-card}
+![](images/sydney-salem.jpeg){.member-photo alt="Portrait of Sydney Salem"}
+**Sydney Salem**  
+Graduate Student, GGB
+:::
+
+::: {.member-card}
+![](images/mohammad-afsharinia.jpeg){.member-photo alt="Portrait of Mohammad Afsharinia"}
+**Mohammad Afsharinia**  
+Graduate Student, GGB
 :::
 
 ::: {.member-card}
@@ -131,10 +142,30 @@ Undergraduate Student, Bioengineering
 :::
 
 ::: {.member-card}
+![](images/nathan-wang.jpg){.member-photo alt="Portrait of Nathan Wang"}
+**Nathan Wang**  
+Undergraduate Student, Neurosciences
+:::
+
+::: {.member-card}
+![](images/nina-phatek.jpg){.member-photo alt="Portrait of Nina Phatak"}
+**Nina Phatak**  
+Undergraduate Student, Bioengineering
+:::
+
+::: {.member-card}
 ![](images/ryan-gates.jpg){.member-photo alt="Portrait of Ryan Gates"}
 **Ryan Gates**  
 Undergraduate Student
 :::
+
+:::
+
+::: {.member-list}
+- **Eric Guisa**
+- **Maxwell Hom**
+- **Sidd Lokray**
+
 
 :::
 
@@ -147,7 +178,7 @@ Undergraduate Student
 ::: {.member-card}
 ![](images/daniela-cassol.jpeg){.member-photo alt="Portrait of Daniela Cassol"}
 **Daniela Cassol**  
-Graduate Student
+Postdoctoral Scholar, Bioinformatics
 :::
 
 ::: {.member-card}
@@ -155,12 +186,21 @@ Graduate Student
 Postdoctoral Scholar, Molecular Biology
 :::
 
+::: {.member-card}
+**Pedro Rodrigues**  
+Postdoctoral Scholar, Molecular Biology
 :::
 
-::: {.member-list}
-- **Pedro Rodrigues**
-- **Varun Khanna**
-- **Kei Iida**
+::: {.member-card}
+**Varun Khanna**  
+Postdoctoral Scholar, Cheminformatics
+:::
+
+::: {.member-card}
+**Kei Iida**  
+Postdoctoral Scholar, Bioinformatics
+:::
+
 :::
 
 ### Former Graduate Students
@@ -170,19 +210,30 @@ Postdoctoral Scholar, Molecular Biology
 ::: {.member-card}
 ![](images/tyler-backman.jpg){.member-photo alt="Portrait of Tyler Backman"}
 **Tyler Backman**  
-Graduate Student
+Graduate Student, Bioengineering
 :::
 
 ::: {.member-card}
 ![](images/eddie-cao.jpg){.member-photo alt="Portrait of Yiqun Eddie Cao"}
 **Yiqun Eddie Cao**  
-Graduate Student
+Graduate Student, Computer Sciences
 :::
 
 ::: {.member-card}
 ![](images/ergude-bao.jpeg){.member-photo alt="Portrait of Ergude Bao"}
 **Ergude Bao**  
-Graduate Student
+Graduate Student, Computer Sciences
+:::
+
+::: {.member-card}
+![](images/anna-charisi.jpg){.member-photo alt="Portrait of Anna Charisi"}
+**Anna Charisi**  
+Graduate Student, Genetics, Genomics and Bioinformatics
+:::
+
+::: {.member-card}
+**Yan Wang**  
+Master Student, Computer Sciences
 :::
 
 :::
@@ -190,7 +241,6 @@ Graduate Student
 ::: {.member-list}
 - **Qiong Jia**
 - **Shiyuan Guo**
-- **Yan Wang**
 - **Jisu Ha**
 - **Anna Charisi**
 - **Jorge Rodriguez**
