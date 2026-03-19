@@ -43,7 +43,7 @@ website:
       - text: "Teaching"
         href: teaching/teaching.qmd
       - text: "Positions"
-        href: positions/index.qmd
+        href: positions/positions.qmd
       - text: "Links"
         menu:
           - text: "Public Sites"
