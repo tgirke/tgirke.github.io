@@ -100,6 +100,12 @@ Graduate Student, GGB
 :::
 
 ::: {.member-card}
+![](images/bigy-ambat.jpeg){.member-photo alt="Portrait of Bigy Ambat"}
+**Bigy Ambat**  
+Graduate Student, GGB
+:::
+
+::: {.member-card}
 ![](images/yuzhu-duan.jpeg){.member-photo alt="Portrait of Yuzhu Duan"}
 **Yuzhu Duan**  
 Graduate Student, GGB

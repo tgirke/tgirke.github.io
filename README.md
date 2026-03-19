@@ -48,3 +48,22 @@ Every push to `main` triggers GitHub Actions which renders the site
 and deploys to GitHub Pages automatically.
 
 **One-time setup:** Go to Settings → Pages → Source → GitHub Actions.
+
+## Safest GitHub commit routine for this site 
+
+### 1. Check what git sees — review before committing
+git status
+
+### 2. Stage everything (new, modified, and deleted files)
+git add -A
+
+### 3. Review exactly what's staged before committing
+git diff --staged --stat
+
+### 4. If it looks right, commit
+git commit -m "Add lab site structure and members page"
+
+### 5. Push
+git push origin main
+
+
