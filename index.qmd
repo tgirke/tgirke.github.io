@@ -23,12 +23,12 @@ Lab members, alumni, and how to get in touch.
 :::
 
 ::: {.g-col-6 .g-col-md-3}
-### [Research](research/projects/index.qmd)
+### [Research](research/projects/projects.qmd)
 Publications, projects, and software repositories.
 :::
 
 ::: {.g-col-6 .g-col-md-3}
-### [Positions](positions/index.qmd)
+### [Positions](positions/positions.qmd)
 Open positions for students and postdocs.
 :::
 
