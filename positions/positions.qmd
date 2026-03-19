@@ -9,8 +9,8 @@ toc: false
 The Girke lab welcomes applications from highly motivated postdoctoral
 researchers interested in genome biology, chemical genomics, bioinformatics,
 and data-driven discovery in the life sciences. Postdoctoral scholars in the
-lab pursue interdisciplinary projects at the interface of computational and
-experimental biology, with opportunities to contribute both to biological
+lab pursue interdisciplinary projects at the interface of computational biology
+and chemical genomics, with opportunities to contribute both to biological
 discovery and to the development of new analytical methods and software. We are
 particularly interested in candidates who enjoy working across fields,
 collaborating with experimental scientists, and tackling challenging problems
