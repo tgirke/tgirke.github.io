@@ -54,7 +54,7 @@ website:
             href: links/ucr.qmd
     right:
       - icon: github
-        href: https://github.com/tgirke
+        href: https://github.com/tgirke/tgirke.github.io
         aria-label: GitHub
 
   # ── Footer ─────────────────────────────────────────────────────────────────
@@ -62,7 +62,7 @@ website:
     left: "© 2026 Thomas Girke, UC Riverside"
     right:
       - text: "Girke Lab on GitHub"
-        href: https://github.com/tgirke
+        href: https://github.com/tgirke/tgirke.github.io
 
   page-navigation: true
   back-to-top-navigation: true
