@@ -4,7 +4,50 @@ page-layout: article
 toc: false
 ---
 
-## Open Positions
+
+## Postdoctoral Researchers
+The Girke lab welcomes applications from highly motivated postdoctoral
+researchers interested in genome biology, chemical genomics, bioinformatics,
+and data-driven discovery in the life sciences. Postdoctoral scholars in the
+lab pursue interdisciplinary projects at the interface of computational and
+experimental biology, with opportunities to contribute both to biological
+discovery and to the development of new analytical methods and software. We are
+particularly interested in candidates who enjoy working across fields,
+collaborating with experimental scientists, and tackling challenging problems
+involving large-scale omics and bioactivity data with applications in
+agriculture and human health.
+
+## Graduate Students
+Graduate students in the Girke lab receive training in computational biology,
+bioinformatics, and integrative data analysis within a collaborative and
+interdisciplinary research environment. Projects span a broad range of topics,
+including omics data analysis, workflow and software development, chemical
+genomics, and translational applications in biology and biomedicine. Students
+joining the lab are encouraged to develop both strong quantitative skills and
+biological insight, while working on research questions that combine
+methodological innovation with real-world scientific impact.
+
+## Undergraduate Students
+The Girke lab offers undergraduate research opportunities for students who are
+excited to gain hands-on experience in modern computational biology and
+bioinformatics. Undergraduate researchers may contribute to projects involving
+data analysis, software tools, genomics, or related interdisciplinary topics,
+depending on their background and interests. We welcome students who are
+curious, motivated, and eager to learn, including those who are new to research
+but enthusiastic about developing practical skills in data science and
+biological research in a supportive lab environment.
+
+## Additional information
+
+The University of California is an Equal Opportunity/Affirmative Action
+Employer with a strong institutional commitment to the achievement of
+excellence and diversity among its faculty and staff. All qualified applicants
+will receive consideration for employment without regard to race, color,
+religion, sex, sexual orientation, gender identity, national origin, age,
+disability, protected veteran status, or any other characteristic protected by
+law. 
+
+<!-- 
 
 ### Postdoctoral position
 Positions are available in the Girke lab at
@@ -34,15 +77,6 @@ APPLICATION: To apply, please email your CV, statement of
 research interests and names of at least three references to Thomas Girke
 (thomas.girke@ucr.edu).
 
-### Additional information
-
-The University of California is an Equal Opportunity/Affirmative Action
-Employer with a strong institutional commitment to the achievement of
-excellence and diversity among its faculty and staff. All qualified applicants
-will receive consideration for employment without regard to race, color,
-religion, sex, sexual orientation, gender identity, national origin, age,
-disability, protected veteran status, or any other characteristic protected by
-law. 
 
 ### Graduate student positions 
 
@@ -62,7 +96,6 @@ months. Full-time employment during the summer break is possible. To apply for
 these positions, please email your CV with a detailed outline of your
 computational skills to thomas.girke@ucr.edu.  
 
-<!-- 
 
 ## Filled Positions
 
