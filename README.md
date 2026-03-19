@@ -51,19 +51,24 @@ and deploys to GitHub Pages automatically.
 
 ## Safest GitHub commit routine for this site 
 
-### 1. Check what git sees — review before committing
+```
+# 1. Check what git sees — review before committing
 git status
 
-### 2. Stage everything (new, modified, and deleted files)
+# 2. Stage everything (new, modified, and deleted files)
 git add -A
 
-### 3. Review exactly what's staged before committing
+# 3. Review exactly what's staged before committing
 git diff --staged --stat
 
-### 4. If it looks right, commit
+# 4. If it looks right, commit
 git commit -m "Add lab site structure and members page"
 
-### 5. Push
+# 5. Push
 git push origin main
 
+# Fast one liner
+git add -A; git commit -m "edits"; git push origin main
+
+```
 
