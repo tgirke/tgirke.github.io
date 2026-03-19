@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+page-layout: article
+toc: false
+---
+
+</br>
+Courses I frequently teach:
+
+## Data Analysis in Genome Biology - GEN242
+
+[  [Website](https://girke.bioinformatics.ucr.edu/GEN242)  ] &nbsp; &nbsp; &nbsp;  [  [Syllabus](https://girke.bioinformatics.ucr.edu/GEN242/about/syllabus/)  ]
+
+Introduction to algorithms, statistical methods and data analysis programming
+routines relevant for genome biology. The class consists of three main
+components: lectures, hands-on practicals and student course projects. The
+lecture topics cover databases, sequence (NGS) analysis, phylogenetics,
+comparative genomics, genome-wide profiling methods, network biology and more.
+The hands-on practicals include homework assignments and course projects
+focusing on data analysis programming of next generation genome data using
+command-line tools on a computer cluster and the programming environment R.
+Credit: 4 units (2x 1.5 hours lectures, 1 hour discussion)
+
+## Introduction to Genomics and Bioinformatics - BIOL119
+
+[[Syllabus](https://docs.google.com/document/d/1q4Rr3iYegTngTn0FaYlh10VHa8AilMAcUcWglH2kmMI/edit?usp=sharing)]
+
+Introduction to genomics and bioinformatics, emphasizing experimental and
+computational approaches to genomic data generation and analysis and their
+application to biological and biomedical problems. Focus areas vary by offering
+and may include evolutionary and comparative genomics, structural biology, or
+large-scale genome profiling technologies. 4 units, 3 hours lecture; 1 hour
+computer lab. Prerequisites: BIOL 005A, BIOL 05LA, BIOL 005B, BIOL 005C, BIOL
+102, CHEM 001C or CHEM 01HC, CHEM 112C, MATH 009B or MATH 09HB, PHYS 002C, PHYS
+02LC, BCH 100 or BCH 110A, one course in statistics.
+
+

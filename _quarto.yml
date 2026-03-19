@@ -41,7 +41,7 @@ website:
           - text: "Repositories"
             href: research/repositories/index.qmd
       - text: "Teaching"
-        href: teaching/index.qmd
+        href: teaching/teaching.qmd
       - text: "Positions"
         href: positions/index.qmd
       - text: "Links"
