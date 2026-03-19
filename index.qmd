@@ -13,7 +13,7 @@ to the open source R/Bioconductor ecosystem.
 ::: {.grid}
 
 ::: {.g-col-6 .g-col-md-3}
-### [About](about/index.qmd)
+### [About](about/about.qmd)
 Overview of the lab, mission, and location.
 :::
 
