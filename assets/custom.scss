@@ -81,4 +81,21 @@ div#quarto-search.type-overlay:hover {
   color: #ffffff !important;
 }
 
+/* Reverse numbered publication list */
+div.publications ol {
+  list-style: none;
+  counter-reset: pub-counter 87; /* set to your total number of pubs PLUS 1! */
+  padding-left: 2em;
+}
+
+div.publications ol li {
+  counter-increment: pub-counter -1;
+  margin-bottom: 0.5em;
+}
+
+div.publications ol li::before {
+  content: counter(pub-counter) ". ";
+  margin-left: -2em;
+  margin-right: 0.3em;
+}
 
