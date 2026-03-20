@@ -40,8 +40,8 @@ website:
             href: research/publications/publications.qmd
           - text: "Projects"
             href: research/projects/projects.qmd
-          - text: "Repositories"
-            href: research/repositories/repositories.qmd
+          - text: "Software"
+            href: research/software/software.qmd
       - text: "Teaching"
         href: teaching/teaching.qmd
       - text: "Positions"
