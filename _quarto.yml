@@ -39,9 +39,9 @@ website:
           - text: "Publications"
             href: research/publications/publications.qmd
           - text: "Projects"
-            href: research/projects/index.qmd
+            href: research/projects/projects.qmd
           - text: "Repositories"
-            href: research/repositories/index.qmd
+            href: research/repositories/repositories.qmd
       - text: "Teaching"
         href: teaching/teaching.qmd
       - text: "Positions"
