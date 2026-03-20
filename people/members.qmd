@@ -106,6 +106,24 @@ Graduate Student, GGB
 :::
 
 ::: {.member-card}
+![](images/kevin-horan.jpg){.member-photo alt="Portrait of Kevin Horan"}
+**Kevin Horan**  
+Postdoctoral Scholar
+:::
+
+::: {.member-card}
+![](images/nathan-wang.jpg){.member-photo alt="Portrait of nathan Wang"}
+**Nathan Wang**  
+Undergraduate Student, Neurosciences
+:::
+
+::: {.member-card}
+![](images/nina-phatek.jpg){.member-photo alt="Portrait of Nina Phatak"}
+**Nina Phatak**  
+Undergraduate Student, Bioengineering
+:::
+
+::: {.member-card}
 ![](images/yuzhu-duan.jpeg){.member-photo alt="Portrait of Yuzhu Duan"}
 **Yuzhu Duan**  
 Graduate Student, GGB
@@ -124,12 +142,6 @@ Graduate Student, GGB
 :::
 
 ::: {.member-card}
-![](images/kevin-horan.jpg){.member-photo alt="Portrait of Kevin Horan"}
-**Kevin Horan**  
-Postdoctoral Scholar
-:::
-
-::: {.member-card}
 ![](images/austin-leong.jpg){.member-photo alt="Portrait of Austin Leong"}
 **Austin Leong**  
 Programmer
@@ -144,18 +156,6 @@ Undergraduate Student, Statistics
 ::: {.member-card}
 ![](images/ponmathi-ramasamy.jpeg){.member-photo alt="Portrait of Ponmathi Ramasamy"}
 **Ponmathi Ramasamy**  
-Undergraduate Student, Bioengineering
-:::
-
-::: {.member-card}
-![](images/nathan-wang.jpg){.member-photo alt="Portrait of nathan Wang"}
-**Nathan Wang**  
-Undergraduate Student, Neurosciences
-:::
-
-::: {.member-card}
-![](images/nina-phatek.jpg){.member-photo alt="Portrait of Nina Phatak"}
-**Nina Phatak**  
 Undergraduate Student, Bioengineering
 :::
 
