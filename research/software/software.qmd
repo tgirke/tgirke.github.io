@@ -307,7 +307,7 @@ Collection of reusable workflow templates for common omics applications, designe
 :::
 
 ::: {.repo-links}
-[Overview](https://systempipe.org/about/project/#core-packages) [GitHub](https://github.com/systemPipeR)
+[Overview](https://systempipe.org/about/project/#core-packages) [GitHub](https://systempipe.org/about/project/#workflow-templates)
 :::
 :::
 
