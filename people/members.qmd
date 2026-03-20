@@ -88,19 +88,19 @@ Graduate Student, GGB
 :::
 
 ::: {.member-card}
-![](images/sydney-salem.jpeg){.member-photo alt="Portrait of Sydney Salem"}
-**Sydney Salem**  
+![](images/tandis-salem.jpg){.member-photo alt="Portrait of Tandis Salem"}
+**Tandis Salem**  
 Graduate Student, GGB
 :::
 
 ::: {.member-card}
-![](images/mohammad-afsharinia.jpeg){.member-photo alt="Portrait of Mohammad Afsharinia"}
+![](images/mohammad-afsharinia.jpg){.member-photo alt="Portrait of Mohammad Afsharinia"}
 **Mohammad Afsharinia**  
 Graduate Student, GGB
 :::
 
 ::: {.member-card}
-![](images/bigy-ambat.jpeg){.member-photo alt="Portrait of Bigy Ambat"}
+![](images/bigy-ambat.jpg){.member-photo alt="Portrait of Bigy Ambat"}
 **Bigy Ambat**  
 Graduate Student, GGB
 :::
@@ -148,7 +148,7 @@ Undergraduate Student, Bioengineering
 :::
 
 ::: {.member-card}
-![](images/nathan-wang.jpg){.member-photo alt="Portrait of Nathan Wang"}
+![](images/nathan-wang.jpg){.member-photo alt="Portrait of nathan Wang"}
 **Nathan Wang**  
 Undergraduate Student, Neurosciences
 :::
