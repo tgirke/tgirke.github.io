@@ -10,19 +10,18 @@ project:
 website:
   title: "Girke Lab"
   description: "Research and Teaching — University of California, Riverside"
-  site-url: "https://girke.bioinformatics.ucr.edu"
+  site-url: "https://girke.bioinformatics.ucr.edu/"
   repo-url: "https://github.com/tgirke/tgirke.github.io"
   repo-actions: [edit, issue]
   favicon: assets/favicon.ico
 
-  # ── Top navigation bar ─────────────────────────────────────────────────────
   navbar:
     logo: assets/logo.png
     logo-alt: "Girke Lab"
     title: false
     pinned: true
     background: light
-    foreground: dark  
+    foreground: dark
     left:
       - text: "About"
         href: about/about.qmd
@@ -59,7 +58,41 @@ website:
         href: https://github.com/tgirke/tgirke.github.io
         aria-label: GitHub
 
-  # ── Footer ─────────────────────────────────────────────────────────────────
+  sidebar:
+    - id: research
+      title: "Research"
+      style: "floating"
+      search: false
+      collapse-level: 1
+      contents:
+        - research/projects/projects.qmd
+        - research/publications/publications.qmd
+        - research/software/software.qmd
+        - research/funding/funding.qmd
+
+    - id: links
+      title: "Links"
+      style: "floating"
+      search: false
+      collapse-level: 1
+      contents:
+        - links/public.qmd
+        - links/ucr.qmd
+
+    - id: people
+      title: "People"
+      style: "floating"
+      search: false
+      collapse-level: 1
+      contents:
+        - people/members.qmd
+        - people/thomas_girke.qmd
+        - people/contact.qmd
+
+  search:
+    location: navbar
+    type: overlay
+
   page-footer:
     left: "© 2026 Thomas Girke, UC Riverside"
     right:
@@ -69,18 +102,13 @@ website:
   page-navigation: true
   back-to-top-navigation: true
 
-  search:
-    location: navbar
-    type: overlay
-
-# ── Format defaults ────────────────────────────────────────────────────────
 format:
   html:
     theme:
       light: [cosmo, assets/custom.scss]
-      dark:  [darkly, assets/custom-dark.scss]
+      dark: [darkly, assets/custom-dark.scss]
     toc: true
-    toc-location: left
+    toc-location: right
     toc-depth: 2
     toc-title: "On this page"
     number-sections: false
@@ -95,7 +123,6 @@ format:
     link-external-icon: true
     link-external-newwindow: true
 
-# ── Execution defaults ─────────────────────────────────────────────────────
 execute:
   freeze: auto
   cache: true
