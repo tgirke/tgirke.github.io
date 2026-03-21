@@ -118,7 +118,7 @@ Undergraduate Student, Neurosciences
 :::
 
 ::: {.member-card}
-![](images/nina-phatek.jpg){.member-photo alt="Portrait of Nina Phatak"}
+![](images/nina-phatak.jpg){.member-photo alt="Portrait of Nina Phatak"}
 **Nina Phatak**  
 Undergraduate Student, Bioengineering
 :::
