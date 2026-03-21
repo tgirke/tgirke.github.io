@@ -133,29 +133,21 @@ Overview of Longevity Consortium.
 
 ::: {.project-block}
 
+::: {.project-text}
+## spatialHeatmap: Visualizing Spatial Bulk and Single-Cell Assays in Anatomical Images
+
+The _spatialHeatmap_ package enables intuitive visualization of single-cell, spatial, and other tissue-resolved omics data by overlaying quantitative assay values onto anatomical images. It combines spatial heatmaps with complementary clustering and network-based views, and is available both as an R package and as an interactive Shiny application for exploratory analysis by computational and experimental users alike.
+
+::: {.project-links}
+[Software](https://spatialheatmap.org/) · [Related paper](https://pubmed.ncbi.nlm.nih.gov/38312938/)
+:::
+:::
+
 ::: {.project-figure}
 ![](images/spatialheatmap.png){alt="Spatial Data Visualization"}
 
 ::: {.project-caption}
-Spatial Data Visualization in Anatomical Images. 
-:::
-:::
-
-::: {.project-text}
-## spatialHeatmap: Visualizing Spatial bulk and Single-Cell Assays in Anatomical Images
-
-The _spatialHeatmap_ package enables intuitive visualization of single-cell,
-spatial, and other tissue-resolved omics data by overlaying quantitative assay
-values onto anatomical images. It combines spatial heatmaps with complementary
-clustering and network-based views, and is available both as an R package and
-as an interactive Shiny application for exploratory analysis by computational
-and experimental users alike.
-
-My preference for the Projects page is the second one, because it names the
-package directly and reads more naturally next to other project titles.
-
-::: {.project-links}
-[Software](https://spatialheatmap.org/) · [Related paper](https://pubmed.ncbi.nlm.nih.gov/38312938/)
+Spatial data visualization in anatomical images.
 :::
 :::
 
