@@ -42,6 +42,8 @@ website:
             href: research/projects/projects.qmd
           - text: "Software"
             href: research/software/software.qmd
+          - text: "Funding"
+            href: research/funding/funding.qmd
       - text: "Teaching"
         href: teaching/teaching.qmd
       - text: "Positions"
