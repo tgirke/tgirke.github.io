@@ -96,7 +96,7 @@ Visual overview of the systemPipeR workflow framework.
 
 :::
 
-::: {.project-block}
+::: {.project-block .reverse}
 
 ::: {.project-text}
 ## Interventions Promoting Healthy Aging and Longevity
@@ -134,33 +134,6 @@ Overview of Longevity Consortium.
 ::: {.project-block .reverse}
 
 ::: {.project-figure}
-![](images/assay-abstract.png){alt="Large-scale bioactivity analysis"}
-
-::: {.project-caption}
-Bioactivity data mining strategy.
-:::
-:::
-
-::: {.project-text}
-## Large-scale bioactivity analysis
-
-This project used large-scale bioactivity data to compare how approved drugs
-and other small molecules interact with many different protein targets. The
-study uncovered numerous promising new drug and target candidates while also
-helping distinguish compounds with selective activities from those with broad,
-less specific effects, providing a valuable resource for future drug discovery
-efforts.
-
-::: {.project-links}
-[Related paper](https://pubmed.ncbi.nlm.nih.gov/28178331/)
-:::
-:::
-
-:::
-
-::: {.project-block .reverse}
-
-::: {.project-figure}
 ![](images/spatialheatmap.png){alt="Spatial Data Visualization"}
 
 ::: {.project-caption}
@@ -183,4 +156,31 @@ package directly and reads more naturally next to other project titles.
 
 ::: {.project-links}
 [Software](https://spatialheatmap.org/) · [Related paper](https://pubmed.ncbi.nlm.nih.gov/38312938/)
+
+:::
+:::
+
+:::
+::: {.project-block}
+
+::: {.project-figure}
+![](images/assay-abstract.png){alt="Large-scale bioactivity analysis"}
+
+::: {.project-caption}
+Bioactivity data mining strategy.
+:::
+:::
+
+::: {.project-text}
+## Large-scale bioactivity analysis
+
+This project used large-scale bioactivity data to compare how approved drugs
+and other small molecules interact with many different protein targets. The
+study uncovered numerous promising new drug and target candidates while also
+helping distinguish compounds with selective activities from those with broad,
+less specific effects, providing a valuable resource for future drug discovery
+efforts.
+
+::: {.project-links}
+[Related paper](https://pubmed.ncbi.nlm.nih.gov/28178331/)
 
