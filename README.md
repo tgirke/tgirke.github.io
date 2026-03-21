@@ -13,7 +13,7 @@ cd girkelab
 quarto preview --no-browser
 ```
 
-Open <http://localhost:5675/> in your browser.
+Open link given at command prompt in your browser.
 
 ## Structure
 
