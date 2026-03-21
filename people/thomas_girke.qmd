@@ -44,5 +44,5 @@ Selected publications and a full list of research articles are available on the 
 
 ## Contact
 
-See [here](https://girke.bioinformatics.ucr.edu/girkelab/people/contact.html)
+See [here](https://girke.bioinformatics.ucr.edu/people/contact.html)
 
