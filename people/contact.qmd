@@ -1,22 +1,86 @@
 ---
-title: "Contact"
+title: "Contact Information"
 page-layout: article
 toc: false
 ---
 
-</br></br></br>
+<style>
+.contact-wrapper {
+  max-width: 760px;
+  margin-top: 1.5rem;
+}
 
-Thomas Girke, Ph.D. </br>
-Professor of Bioinformatics <br/>
-Director of High-Performance Computing Center ([HPCC](http://hpcc.ucr.edu/)) </br>
-Institute for Integrative Genome Biology ([IIGB](http://genomics.ucr.edu/)) </br>
-Department of Botany and Plant Sciences ([BPSC](http://plantbiology.ucr.edu/)) </br>
-1207F Genomics Building </br>
-University of California, Riverside ([UCR](http://www.ucr.edu/)) </br>
-Riverside, CA 92521 <br/>
-</br> 
-Email: thomas.girke@ucr.edu <br/>
-URL: http://girke.bioinformatics.ucr.edu <br/>
-Phone/Cell/Text: (951) 732-7072 <br/>
-</br>
-[Google Map](https://www.google.com/maps/place/33%C2%B058'17.9%22N+117%C2%B019'35.1%22W/@33.972364,-117.325996,17z/data=!4m2!3m1!1s0x0:0x0?hl=en-US)
+.contact-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1.1rem 1.2rem;
+  background: #fff;
+}
+
+.contact-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+}
+
+.contact-subtitle {
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.contact-section {
+  margin-top: 1rem;
+}
+
+.contact-section h3 {
+  margin-bottom: 0.35rem;
+  font-size: 1rem;
+}
+
+.contact-section p {
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.contact-section a {
+  text-decoration: none;
+}
+</style>
+
+::: {.contact-wrapper}
+
+::: {.contact-card}
+
+## Thomas Girke, Ph.D.
+
+::: {.contact-subtitle}
+Professor of Bioinformatics
+:::
+
+::: {.contact-section}
+### Affiliations
+Director of High-Performance Computing Center ([HPCC](http://hpcc.ucr.edu/))  
+Institute for Integrative Genome Biology ([IIGB](http://genomics.ucr.edu/))  
+Department of Botany and Plant Sciences ([BPSC](http://plantbiology.ucr.edu/))
+:::
+
+::: {.contact-section}
+### Address
+1207F Genomics Building  
+University of California, Riverside ([UCR](http://www.ucr.edu/))  
+Riverside, CA 92521
+:::
+
+::: {.contact-section}
+### Contact
+Email: [thomas.girke@ucr.edu](mailto:thomas.girke@ucr.edu)  
+Website: [girke.bioinformatics.ucr.edu](http://girke.bioinformatics.ucr.edu)  
+Phone / Cell / Text: (951) 732-7072
+:::
+
+::: {.contact-section}
+### Google Map
+[View location on Google Maps](https://www.google.com/maps/place/33%C2%B058'17.9%22N+117%C2%B019'35.1%22W/@33.972364,-117.325996,17z/data=!4m2!3m1!1s0x0:0x0?hl=en-US)
+:::
+
+:::
+:::
