@@ -40,6 +40,13 @@ format:
   height: 100%;
 }
 
+.repo-grid-single {
+  display: grid;
+  grid-template-columns: minmax(260px, 420px);
+  gap: 1.2rem;
+  justify-content: start;
+}
+
 .repo-card h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;
@@ -218,7 +225,7 @@ Software for structure-based compound similarity and search workflows using atom
 This software area focuses on interactive and publication-oriented visualization methods for spatially resolved omics datasets.
 :::
 
-::: {.repo-grid}
+::: {.repo-grid-single}
 
 ::: {.repo-card}
 ### spatialHeatmap
