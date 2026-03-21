@@ -160,6 +160,12 @@ Undergraduate Student, Bioengineering
 :::
 
 ::: {.member-card}
+![](images/maxwell-hom.jpg){.member-photo alt="Portrait of Maxwell Hom"}
+**Maxwell Hom**  
+Undergraduate Student
+:::
+
+::: {.member-card}
 ![](images/ryan-gates.jpg){.member-photo alt="Portrait of Ryan Gates"}
 **Ryan Gates**  
 Undergraduate Student
@@ -169,7 +175,6 @@ Undergraduate Student
 
 ::: {.member-list}
 - **Eric Guisa**
-- **Maxwell Hom**
 - **Sidd Lokray**
 
 
