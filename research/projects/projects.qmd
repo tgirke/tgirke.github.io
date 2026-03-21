@@ -1,5 +1,9 @@
 ---
 title: "Projects"
+sidebar: research
+toc: true
+toc-location: right
+page-layout: article
 ---
 
 <style>

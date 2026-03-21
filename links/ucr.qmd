@@ -1,7 +1,9 @@
 ---
 title: "UCR Links"
+sidebar: links
+toc: true
+toc-location: right
 page-layout: article
-toc: false
 ---
 
 <style>

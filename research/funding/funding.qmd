@@ -1,7 +1,9 @@
 ---
 title: "Funding"
+sidebar: research
+toc: true
+toc-location: right
 page-layout: article
-toc: false
 ---
 
 <style>

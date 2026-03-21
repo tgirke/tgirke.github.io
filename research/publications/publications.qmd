@@ -1,7 +1,9 @@
 ---
 title: "Publications"
+sidebar: research
+toc: true
+toc-location: right
 page-layout: article
-toc: false
 ---
 
 [  [Google Scholar Profile](https://scholar.google.com/citations?user=QjoDLv4AAAAJ&hl=en&oi=ao)  ] &nbsp; &nbsp; &nbsp; [  [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=girke+t&sort=date)  ]  &nbsp; &nbsp; &nbsp; [  [ResearchGate](https://www.researchgate.net/profile/Thomas_Girke2/)  ]

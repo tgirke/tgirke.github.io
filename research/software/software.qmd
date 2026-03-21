@@ -1,9 +1,9 @@
 ---
 title: "Software"
-toc: false
-format:
-  html:
-    page-layout: full
+sidebar: research
+toc: true
+toc-location: right
+page-layout: article
 ---
 
 <style>

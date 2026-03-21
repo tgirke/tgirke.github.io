@@ -1,7 +1,10 @@
 ---
 title: "Public Links"
+sidebar: links
+toc: true
+toc-depth: 2
+toc-location: right
 page-layout: article
-toc: false
 ---
 
 <style>

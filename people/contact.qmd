@@ -1,7 +1,9 @@
 ---
-title: "Contact"
+title: "Contact Information"
+sidebar: people
+toc: true
+toc-location: right
 page-layout: article
-toc: false
 ---
 
 <style>

@@ -1,7 +1,10 @@
 ---
 title: "Thomas Girke"
-image: images/thomas_girke.jpg
+sidebar: people
+toc: true
+toc-location: right
 page-layout: article
+image: images/thomas_girke.jpg
 ---
 
 <img src="images/thomas-girke.jpeg" alt="Portrait of Thomas Girke" style="width:150px" class="profile-photo">

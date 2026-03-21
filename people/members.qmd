@@ -1,7 +1,9 @@
 ---
 title: "Members"
+sidebar: people
+toc: true
+toc-location: right
 page-layout: article
-toc: false
 ---
 
 <style>
