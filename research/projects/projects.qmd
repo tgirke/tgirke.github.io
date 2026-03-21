@@ -131,7 +131,7 @@ Overview of Longevity Consortium.
 
 :::
 
-::: {.project-block .reverse}
+::: {.project-block}
 
 ::: {.project-figure}
 ![](images/spatialheatmap.png){alt="Spatial Data Visualization"}
@@ -156,20 +156,12 @@ package directly and reads more naturally next to other project titles.
 
 ::: {.project-links}
 [Software](https://spatialheatmap.org/) · [Related paper](https://pubmed.ncbi.nlm.nih.gov/38312938/)
-
 :::
 :::
 
 :::
-::: {.project-block}
 
-::: {.project-figure}
-![](images/assay-abstract.png){alt="Large-scale bioactivity analysis"}
-
-::: {.project-caption}
-Bioactivity data mining strategy.
-:::
-:::
+::: {.project-block .reverse}
 
 ::: {.project-text}
 ## Large-scale bioactivity analysis
@@ -183,4 +175,17 @@ efforts.
 
 ::: {.project-links}
 [Related paper](https://pubmed.ncbi.nlm.nih.gov/28178331/)
+:::
+:::
+
+::: {.project-figure}
+![](images/assay-abstract.png){alt="Large-scale bioactivity analysis"}
+
+::: {.project-caption}
+Bioactivity data mining strategy.
+:::
+:::
+
+:::
+
 
