@@ -96,37 +96,10 @@ Visual overview of the systemPipeR workflow framework.
 
 :::
 
-::: {.project-block .reverse}
-
-::: {.project-figure}
-![](images/assay-abstract.png){alt="Large-scale bioactivity analysis"}
-
-::: {.project-caption}
-Bioactivity data mining strategy.
-:::
-:::
-
-::: {.project-text}
-## Large-scale bioactivity analysis
-
-This project used large-scale bioactivity data to compare how approved drugs
-and other small molecules interact with many different protein targets. The
-study uncovered numerous promising new drug and target candidates while also
-helping distinguish compounds with selective activities from those with broad,
-less specific effects, providing a valuable resource for future drug discovery
-efforts.
-
-::: {.project-links}
-[Related paper](https://pubmed.ncbi.nlm.nih.gov/29596449/)
-:::
-:::
-
-:::
-
 ::: {.project-block}
 
 ::: {.project-text}
-## Interventions for Healthy Aging and Longevity
+## Interventions Promoting Healthy Aging and Longevity
 
 The Girke lab develops AI-based strategies to identify drugs, natural
 compounds, and combination therapies that promote healthy aging and delay
@@ -157,3 +130,57 @@ Overview of Longevity Consortium.
 :::
 
 :::
+
+::: {.project-block .reverse}
+
+::: {.project-figure}
+![](images/assay-abstract.png){alt="Large-scale bioactivity analysis"}
+
+::: {.project-caption}
+Bioactivity data mining strategy.
+:::
+:::
+
+::: {.project-text}
+## Large-scale bioactivity analysis
+
+This project used large-scale bioactivity data to compare how approved drugs
+and other small molecules interact with many different protein targets. The
+study uncovered numerous promising new drug and target candidates while also
+helping distinguish compounds with selective activities from those with broad,
+less specific effects, providing a valuable resource for future drug discovery
+efforts.
+
+::: {.project-links}
+[Related paper](https://pubmed.ncbi.nlm.nih.gov/28178331/)
+:::
+:::
+
+:::
+
+::: {.project-block .reverse}
+
+::: {.project-figure}
+![](images/spatialheatmap.png){alt="Spatial Data Visualization"}
+
+::: {.project-caption}
+Spatial Data Visualization in Anatomical Images. 
+:::
+:::
+
+::: {.project-text}
+## spatialHeatmap: Visualizing Spatial bulk and Single-Cell Assays in Anatomical Images
+
+The _spatialHeatmap_ package enables intuitive visualization of single-cell,
+spatial, and other tissue-resolved omics data by overlaying quantitative assay
+values onto anatomical images. It combines spatial heatmaps with complementary
+clustering and network-based views, and is available both as an R package and
+as an interactive Shiny application for exploratory analysis by computational
+and experimental users alike.
+
+My preference for the Projects page is the second one, because it names the
+package directly and reads more naturally next to other project titles.
+
+::: {.project-links}
+[Software](https://spatialheatmap.org/) · [Related paper](https://pubmed.ncbi.nlm.nih.gov/38312938/)
+
