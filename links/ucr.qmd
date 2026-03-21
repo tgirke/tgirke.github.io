@@ -1,0 +1,336 @@
+---
+title: "UCR Links"
+page-layout: article
+toc: false
+---
+
+<style>
+.link-section {
+  margin-top: 2rem;
+}
+
+.link-section h2 {
+  margin-bottom: 0.35rem;
+  font-size: 1.25rem;
+}
+
+.link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.8rem;
+  margin-top: 0.8rem;
+}
+
+.link-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.75rem 0.85rem;
+  background: #fff;
+  height: 100%;
+}
+
+.link-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  font-size: 0.98rem;
+  line-height: 1.25;
+}
+
+.link-card p {
+  margin-bottom: 0;
+  color: #555;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.link-card a {
+  text-decoration: none;
+}
+
+.link-card a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+  .link-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+## Centers and Institutes {#centers-institutes .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [Center for Plant Cell Biology (CEPCEB)](http://www.cepceb.ucr.edu/)
+Research center focused on plant cell biology.
+:::
+
+::: {.link-card}
+### [Institute for Integrative Genome Biology](http://www.genomics.ucr.edu/)
+Interdisciplinary institute for genomics and systems biology research.
+:::
+
+::: {.link-card}
+### [Department of Botany and Plant Sciences](http://plantbiology.ucr.edu/)
+Departmental website for research, faculty, and academic programs.
+:::
+
+::: {.link-card}
+### [Department of Cell Biology and Neurosciences](http://cbns.ucr.edu/)
+Departmental site for cell biology and neuroscience research and teaching.
+:::
+
+::: {.link-card}
+### [Biological Sciences Graduate Student Affairs Center (BSGSAC)](http://www.bioscigrad.ucr.edu/)
+Graduate student administration and academic support resources.
+:::
+
+::: {.link-card}
+### [Computer Science and Engineering Department](http://www.cs.ucr.edu/)
+Departmental site for computing research, faculty, and programs.
+:::
+
+::: {.link-card}
+### [Engineering Departments](http://www.engr.ucr.edu/academics/faculty.shtml)
+Overview of engineering departments and faculty at UCR.
+:::
+
+:::
+
+## Bioinformatics Sites {#bioinformatics-sites .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [Bioinformatics Labs](http://labs.bioinformatics.ucr.edu/)
+Directory of bioinformatics-related labs and research groups.
+:::
+
+::: {.link-card}
+### [Bioinformatics Facility Site](http://facility.bioinformatics.ucr.edu/)
+Information on the bioinformatics facility and related resources.
+:::
+
+:::
+
+## Graduate Programs {#graduate-programs .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [List of Available Graduate Programs at UCR](https://graduate.ucr.edu/programs)
+Central directory of graduate degree programs at UCR.
+:::
+
+::: {.link-card}
+### [Botany and Plant Sciences](http://www.plantbiology.ucr.edu/grad.html)
+Graduate program information for Botany and Plant Sciences.
+:::
+
+::: {.link-card}
+### [Graduate Program in Genetics, Genomics and Bioinformatics (GGB)](http://ggb.ucr.edu/)
+Interdisciplinary graduate program in genetics, genomics, and bioinformatics.
+:::
+
+::: {.link-card}
+### [Graduate Program in Cell, Molecular and Developmental Biology (CMDB)](http://www.cell.ucr.edu/)
+Graduate program in cell, molecular, and developmental biology.
+:::
+
+:::
+
+## Undergraduate Programs {#undergraduate-programs .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [Undergraduate Research at UCR](http://www.ora.ucr.edu/vc/UndergradResearch/Default.asp)
+Campus information and opportunities for undergraduate research.
+:::
+
+::: {.link-card}
+### [Research Experiences for Undergraduates (REU Program)](http://www.cepceb.ucr.edu/about/REUAd2005.htm)
+Undergraduate summer research and training opportunities.
+:::
+
+:::
+
+## UCR General {#ucr-general .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [Home](http://www.ucr.edu/)
+Main University of California, Riverside website.
+:::
+
+::: {.link-card}
+### [UCR at Your Service](https://atyourserviceonline.ucop.edu/ayso)
+Employee self-service portal and administrative resources.
+:::
+
+::: {.link-card}
+### [UCPath](http://ucpath.universityofcalifornia.edu/)
+Systemwide payroll, benefits, and HR platform.
+:::
+
+::: {.link-card}
+### [Benefits](http://atyourservice.ucop.edu/)
+UC benefits information and support resources.
+:::
+
+::: {.link-card}
+### [PI Web Reporting System (PIWRS)](http://piwrs.ucr.edu)
+Principal investigator reporting and research administration system.
+:::
+
+::: {.link-card}
+### [Maps](http://www.campusmap.ucr.edu/)
+Campus maps and location resources.
+:::
+
+::: {.link-card}
+### [Alternative Parking for Bikers](https://transportation.ucr.edu/bike-walk/bike-walk-program)
+Bike and pedestrian transportation resources.
+:::
+
+::: {.link-card}
+### [Profile Pages](https://profiles.ucr.edu/)
+UCR people directory and academic profile pages.  
+[Old UCR Directory](http://enterprisedirectory.ucr.edu/phone/tel_search.show)
+:::
+
+::: {.link-card}
+### [Create Wireless Guest Account](http://guestid.ucr.edu)
+Guest wireless account creation portal.
+:::
+
+::: {.link-card}
+### [Computer Labs](http://scs.ucr.edu/)
+Campus computing labs and instructional technology resources.
+:::
+
+::: {.link-card}
+### [Software Site Licenses](http://sitelicense.ucr.edu/)
+Campus-licensed software and installation information.
+:::
+
+::: {.link-card}
+### [Book Seminar Rooms](http://frs.ucr.edu)
+Seminar room reservation system.
+:::
+
+::: {.link-card}
+### [C&amp;C Workorder](http://comm.ucr.edu)
+Communications and campus IT workorder requests.
+:::
+
+:::
+
+## UCR Teaching Resources {#teaching-resources .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [Course Catalog](http://www.catalog.ucr.edu/)
+Official course catalog and program descriptions.
+:::
+
+::: {.link-card}
+### [Search Course Catalog](http://classinfo.ucr.edu/)
+Searchable schedule of classes and course offerings.
+:::
+
+::: {.link-card}
+### [Course Request System (CRS)](https://registrar.ucr.edu/crs/support)
+Support site for course scheduling and request workflows.
+:::
+
+::: {.link-card}
+### [iLearn](http://ilearn.ucr.edu/)
+Legacy course management system.
+:::
+
+::: {.link-card}
+### [Canvas (eLearn)](https://elearn.ucr.edu/)
+Current online learning platform for courses and teaching.
+:::
+
+::: {.link-card}
+### [iGrade](http://igrade.ucr.edu/)
+Online grading and course record management system.
+:::
+
+::: {.link-card}
+### [Course Evals (Qualtrics)](https://ucrcourseevals.qualtrics.com/homepage/ui)
+Course evaluation platform for instructional feedback.
+:::
+
+::: {.link-card}
+### [CRAMS](http://crams.ucr.edu/crams/crams_directory.main)
+Classroom scheduling and room assignment system.
+:::
+
+::: {.link-card}
+### [Academic Calendar](http://registrar.ucr.edu/registrar/academic-calendar/default.aspx)
+Official academic calendar.  
+[Details](http://registrar.ucr.edu/registrar/academic-calendar/print-academic-calendar.html) · [Old version](http://www.classes.ucr.edu/enrollment/calendar.htm) · [UCR Holiday Calendar](http://accounting.ucr.edu/payroll/pay_cal.html)
+:::
+
+::: {.link-card}
+### [R'Space](http://rspace.ucr.edu/)
+Faculty and student administrative portal.  
+Includes [Grad SIS](https://gradsis.ucr.edu/gradsis/GSIS_MENU.Menu_NonStudent).
+:::
+
+::: {.link-card}
+### [TAship Application System](http://taonline.ucr.edu/)
+Teaching assistant application and appointment system.
+:::
+
+:::
+
+## GGB {#ggb .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [Website](http://ggb.ucr.edu/)
+Main site for the Genetics, Genomics and Bioinformatics program.
+:::
+
+::: {.link-card}
+### [SharePoint](https://ucrshare.ucr.edu/sites/cnas/BSGSAC/ggb/SitePages/Home.aspx)
+Internal SharePoint site for GGB-related information and documents.
+:::
+
+::: {.link-card}
+### [R'GRAD Forms](https://rgrad.ucr.edu/app/home)
+Graduate forms and workflow portal.
+:::
+
+:::
+
+## Recruitment {#recruitment .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [AP Recruit](https://aprecruit.ucr.edu/)
+Academic recruitment and faculty hiring portal.
+:::
+
+:::
+
+## Ordering {#ordering .link-section}
+
+::: {.link-grid}
+
+::: {.link-card}
+### [eBuy](http://ebuy.ucr.edu/ebuy)
+Campus purchasing and ordering system.
+:::
+
+:::
