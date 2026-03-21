@@ -99,24 +99,25 @@ Visual overview of the systemPipeR workflow framework.
 ::: {.project-block .reverse}
 
 ::: {.project-figure}
-![](images/projects/project2.jpg){alt="Visual summary for Project Title 2"}
+![](images/assay-abstract.png){alt="Large-scale bioactivity analysis"}
 
 ::: {.project-caption}
-Optional short figure caption or leave this out.
+Bioactivity data mining strategy.
 :::
 :::
 
 ::: {.project-text}
-## Project Title 2
+## Large-scale bioactivity analysis
 
-Text text text text text text
-Text text text text text text
-Text text text text text text
-Text text text text text text
-Text text text text text text
+This project used large-scale bioactivity data to compare how approved drugs
+and other small molecules interact with many different protein targets. The
+study uncovered numerous promising new drug and target candidates while also
+helping distinguish compounds with selective activities from those with broad,
+less specific effects, providing a valuable resource for future drug discovery
+efforts.
 
 ::: {.project-links}
-[Related paper](#)
+[Related paper](https://pubmed.ncbi.nlm.nih.gov/29596449/)
 :::
 :::
 
