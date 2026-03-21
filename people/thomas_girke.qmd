@@ -26,7 +26,7 @@ information and project summaries are available on the
 
 ## Education and Training
 
-- Ph.D. in Molecular Biology and Biochemistry, University of Hamburg, Germany
+- Ph.D. in Computational Molecular Biology and Biochemistry, University of Hamburg, Germany
 - Postdoctoral training in Genomics and Bioinformatics, Michigan State University
 
 ## Software and Resources
