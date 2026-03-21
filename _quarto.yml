@@ -80,7 +80,8 @@ format:
       light: [cosmo, assets/custom.scss]
       dark:  [darkly, assets/custom-dark.scss]
     toc: true
-    toc-depth: 3
+    toc-location: left
+    toc-depth: 2
     toc-title: "On this page"
     number-sections: false
     code-fold: false
