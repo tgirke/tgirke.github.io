@@ -126,13 +126,22 @@ efforts.
 ::: {.project-block}
 
 ::: {.project-text}
-## Project Title 3
+## Interventions for Healthy Aging and Longevity
 
-Text text text text text text
-Text text text text text text
-Text text text text text text
-Text text text text text text
-Text text text text text text
+The Girke lab develops AI-based strategies to identify drugs, natural
+compounds, and combination therapies that promote healthy aging and delay
+age-related disease. By integrating large-scale omics signatures, genetic and
+pharmacological perturbation data, and new methods for drug–target discovery,
+this work seeks to uncover more effective and sustainable interventions for
+extending health span.
+
+Experimental validation is performed in collaboration with consortium
+scientists using mouse models and human iPSC systems, including groups at the
+Salk Institute and the University of Michigan. These combined efforts aim to
+translate computational discoveries into more precise and personalized
+approaches for healthier aging in humans. This research is supported by a
+cooperative U19 grant from the National Institute on Aging at the National
+Institutes of Health.
 
 ::: {.project-links}
 [Related paper](#) · [Project page](#)
@@ -140,10 +149,10 @@ Text text text text text text
 :::
 
 ::: {.project-figure}
-![](images/projects/project3.jpg){alt="Visual summary for Project Title 3"}
+![](images/LC_Overview.png){alt="Visual summary LC"}
 
 ::: {.project-caption}
-Optional short figure caption or leave this out.
+Overview of Longevity Consortium.
 :::
 :::
 

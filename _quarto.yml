@@ -28,18 +28,18 @@ website:
         href: about/about.qmd
       - text: "People"
         menu:
-          - text: "Thomas Girke"
-            href: people/thomas_girke.qmd
           - text: "Members"
             href: people/members.qmd
+          - text: "Thomas Girke"
+            href: people/thomas_girke.qmd
           - text: "Contact"
             href: people/contact.qmd
       - text: "Research"
         menu:
-          - text: "Publications"
-            href: research/publications/publications.qmd
           - text: "Projects"
             href: research/projects/projects.qmd
+          - text: "Publications"
+            href: research/publications/publications.qmd
           - text: "Software"
             href: research/software/software.qmd
           - text: "Funding"
