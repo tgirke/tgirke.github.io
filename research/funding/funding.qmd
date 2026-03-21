@@ -1,17 +1,86 @@
 ---
-title: "Funding"
+title: "Current and Recent Support"
+page-layout: article
 toc: false
-format:
-  html:
-    page-layout: full
 ---
 
-## Agencies
+<style>
+.funding-intro {
+  margin-bottom: 1.5rem;
+  max-width: 900px;
+}
 
-![nsf](images/NSF_Logo.png)
+.funding-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.9rem;
+  margin-top: 1rem;
+}
 
-![nih](images/nih.png)
+.funding-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.9rem 1rem;
+  background: #fff;
+  height: 100%;
+}
 
-![nia](images/nia_logo80.jpg)
+.funding-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1rem;
+  line-height: 1.25;
+}
 
-![usda](images/USDA_logo.png)
+.funding-card p {
+  margin-bottom: 0;
+  color: #555;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.funding-card a {
+  text-decoration: none;
+}
+
+.funding-note {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  color: #555;
+  max-width: 900px;
+}
+</style>
+
+::: {.funding-intro}
+Research in the Girke lab has been supported by public funding agencies that advance computational biology, genome biology, chemical genomics, aging research, plant biology, and research cyberinfrastructure.
+:::
+
+## Funding Agencies
+
+::: {.funding-grid}
+
+::: {.funding-card}
+### [National Science Foundation](https://www.nsf.gov/)
+Support for research, training, and cyberinfrastructure in the biological, computational, and data sciences.
+:::
+
+::: {.funding-card}
+### [National Institutes of Health](https://www.nih.gov/)
+Support for biomedical research, data-intensive biology, and translational discovery.
+:::
+
+::: {.funding-card}
+### [National Institute on Aging](https://www.nia.nih.gov/)
+Support for aging research, geroscience, and computational approaches to longevity-related biology.
+:::
+
+::: {.funding-card}
+### [U.S. Department of Agriculture](https://www.usda.gov/)
+Support for agricultural research, plant biology, and data-driven discovery relevant to food and crop systems.
+:::
+
+:::
+
+::: {.funding-note}
+Specific projects and publications should acknowledge the relevant award numbers and agency support in accordance with sponsor guidance.
+:::
