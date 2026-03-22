@@ -71,16 +71,21 @@ page-layout: article
     order: -1;
   }
 }
+
+h2 + .project-block {
+  margin-top: 0.6rem;
+}
+
 </style>
 
 ::: {.projects-intro}
 The Girke lab develops computational methods and software at the interface of genome biology, chemical genomics, and bioinformatics. Below is a brief overview of selected research projects, with each project highlighting a representative theme of the lab’s work.
 :::
 
+## systemPipeR: Reproducible Workflow Management for Data-Intensive Life Science Research
 ::: {.project-block}
 
 ::: {.project-text}
-## systemPipeR: Reproducible Workflow Management for Data-Intensive Life Science Research
 
 Modern life science research increasingly relies on complex, multi-step computational analyses of large and heterogeneous datasets, creating major challenges for workflow organization, reproducibility, and transparency. systemPipeR is a workflow management environment that enables researchers to design, execute, monitor, and document sophisticated data analysis pipelines within a unified framework. It integrates statistical analysis in R with widely used bioinformatics software and supports execution on personal computers as well as high-performance computing environments. By combining workflow visualization, scalable execution, and automated analysis reporting, systemPipeR helps make modern data-driven research more efficient, reproducible, and standardized.
 
@@ -99,10 +104,10 @@ Visual overview of the systemPipeR workflow framework.
 
 :::
 
+## Interventions Promoting Healthy Aging and Longevity
 ::: {.project-block .reverse}
 
 ::: {.project-text}
-## Interventions Promoting Healthy Aging and Longevity
 
 The Girke lab develops AI-based strategies to identify drugs, natural
 compounds, and combination therapies that promote healthy aging and delay
@@ -134,10 +139,10 @@ Overview of Longevity Consortium.
 
 :::
 
+## spatialHeatmap: Visualizing Spatial Bulk and Single-Cell Assays in Anatomical Images
 ::: {.project-block}
 
 ::: {.project-text}
-## spatialHeatmap: Visualizing Spatial Bulk and Single-Cell Assays in Anatomical Images
 
 The _spatialHeatmap_ package enables intuitive visualization of single-cell, spatial, and other tissue-resolved omics data by overlaying quantitative assay values onto anatomical images. It combines spatial heatmaps with complementary clustering and network-based views, and is available both as an R package and as an interactive Shiny application for exploratory analysis by computational and experimental users alike.
 
@@ -156,10 +161,10 @@ Spatial data visualization in anatomical images.
 
 :::
 
+## Large-scale bioactivity analysis
 ::: {.project-block .reverse}
 
 ::: {.project-text}
-## Large-scale bioactivity analysis
 
 This project used large-scale bioactivity data to compare how approved drugs
 and other small molecules interact with many different protein targets. The
