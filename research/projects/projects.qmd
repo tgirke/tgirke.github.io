@@ -205,7 +205,7 @@ demonstrated superior virtual screening performance. Related software and
 resources include _ChemmineOB_ and _eiR_.
 
 ::: {.project-links}
-Related papers and software: ChemmineR ([PMID](https://pubmed.ncbi.nlm.nih.gov/18596077/), [Bioc](https://bioconductor.org/packages/release/bioc/html/ChemmineR.html)) · ChemmineOB ([Bioc](https://bioconductor.org/packages/release/bioc/html/ChemmineOB.html)) · fmcsR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/23962615/), [Bioc](https://bioconductor.org/packages/release/bioc/html/fmcsR.html)) · eiR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/20179075/), [Bioc](https://www.bioconductor.org/packages/release/bioc/html/eiR.html)) · Chemmine Tools ([Web](https://chemminetools.ucr.edu/), [PubMed](https://pubmed.ncbi.nlm.nih.gov/21576229/))
+Related papers and software: ChemmineR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/18596077/), [Bioc](https://bioconductor.org/packages/release/bioc/html/ChemmineR.html)) · ChemmineOB ([Bioc](https://bioconductor.org/packages/release/bioc/html/ChemmineOB.html)) · fmcsR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/23962615/), [Bioc](https://bioconductor.org/packages/release/bioc/html/fmcsR.html)) · eiR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/20179075/), [Bioc](https://www.bioconductor.org/packages/release/bioc/html/eiR.html)) · Chemmine Tools ([Web](https://chemminetools.ucr.edu/), [PubMed](https://pubmed.ncbi.nlm.nih.gov/21576229/))
 :::
 :::
 
