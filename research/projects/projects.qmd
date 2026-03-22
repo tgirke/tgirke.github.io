@@ -220,7 +220,7 @@ Chemical genomics.
 
 :::
 
-## Drug-targe interaction analysis
+## Drug-target interaction analysis
 ::: {.project-block .reverse}
 
 ::: {.project-text}
@@ -238,9 +238,10 @@ Software: [Bioc](https://www.bioconductor.org/packages/release/bioc/html/drugTar
 :::
 
 ::: {.project-figure}
+![](images/drug-target-interaction.png){alt="Chemical Genomics"}
 
 ::: {.project-caption}
-Add image.
+Drug-target interaction mining.
 :::
 :::
 
