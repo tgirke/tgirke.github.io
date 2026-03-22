@@ -161,6 +161,34 @@ Spatial data visualization in anatomical images.
 
 :::
 
+## Gene Expression Searching with _signatureSearch_
+::: {.project-block .reverse}
+
+::: {.project-text}
+
+The signatureSearch package provides an integrated R/Bioconductor environment
+for searching gene expression signatures across large reference databases
+derived from disease states, genetic backgrounds, chemical perturbations, and
+single-cell datasets. By combining signature matching with functional
+enrichment analysis and network-based visualization, it helps reveal related
+cellular responses, identify perturbed biological processes, and support
+discovery of novel drug, pathway, and cell-state connections.
+
+::: {.project-links}
+[Software](https://bioconductor.org/packages/devel/bioc/html/signatureSearch.html) · [Related paper](https://pubmed.ncbi.nlm.nih.gov/33068417/)
+:::
+:::
+
+::: {.project-figure}
+![](images/signatureSearch_vis_abstract.png){alt="Gene Expression Searching with signatureSearch"}
+
+::: {.project-caption}
+Bioactivity data mining strategy.
+:::
+:::
+
+:::
+
 ## Large-scale bioactivity analysis
 ::: {.project-block .reverse}
 
