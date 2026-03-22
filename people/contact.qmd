@@ -69,10 +69,6 @@ Botany and Plant Sciences Department ([BPSC](http://plantbiology.ucr.edu/))
 :::
 
 ::: {.contact-section}
-### Additional Affiliations
-:::
-
-::: {.contact-section}
 ### Address
 1207F Genomics Building  
 University of California, Riverside ([UCR](http://www.ucr.edu/))  
