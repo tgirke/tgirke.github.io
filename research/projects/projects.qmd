@@ -183,7 +183,7 @@ discovery of novel drug, pathway, and cell-state connections.
 ![](images/signatureSearch_vis_abstract.png){alt="Gene Expression Searching with signatureSearch"}
 
 ::: {.project-caption}
-Bioactivity data mining strategy.
+Signature searching.
 :::
 :::
 
@@ -214,7 +214,33 @@ Related papers and software: ChemmineR ([PMID](https://pubmed.ncbi.nlm.nih.gov/1
 ![](images/crosstarget.png){alt="Chemical Genomics"}
 
 ::: {.project-caption}
-Processing of druglike small molecules.
+Chemical genomics.
+:::
+:::
+
+:::
+
+## Drug-targe interaction analysis
+::: {.project-block .reverse}
+
+::: {.project-text}
+
+The _drugTargetInteractions_ package provides tools for identifying known and
+candidate interactions between small molecules and their gene or protein
+targets. By leveraging the extensive bioactivity information available in the
+public domain, including the ChEMBL database, it supports efficient mapping of
+drug–target relationships for applications in chemical biology, target
+discovery, and translational drug research.
+
+::: {.project-links}
+Software: [Bioc](https://www.bioconductor.org/packages/release/bioc/html/drugTargetInteractions.html)
+:::
+:::
+
+::: {.project-figure}
+
+::: {.project-caption}
+Add image.
 :::
 :::
 
