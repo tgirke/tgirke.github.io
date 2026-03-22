@@ -217,6 +217,22 @@ Software for structure-based compound similarity and search workflows using atom
 :::
 :::
 
+::: {.repo-card}
+### ChemMine Tools Web Service
+
+Cheminformatics online workbench for compound similarity analysis, clustering, visualization, and structure-based data mining.
+
+::: {.repo-tags}
+<span class="repo-tag">Cheminformatics</span>
+<span class="repo-tag">Web tool</span>
+<span class="repo-tag">Visualization</span>
+:::
+
+::: {.repo-links}
+[Website](https://chemminetools.ucr.edu/) 
+:::
+:::
+
 :::
 
 ## Spatial Omics Visualization {#spatial-omics .repo-section}
