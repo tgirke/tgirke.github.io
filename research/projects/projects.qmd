@@ -122,7 +122,7 @@ Salk Institute and the University of Michigan. These combined efforts aim to
 translate computational discoveries into more precise and personalized
 approaches for healthier aging in humans. This research is supported by a
 cooperative U19 grant from the National Institute on Aging at the National
-Institutes of Health.
+Institutes of Health ([U19AG023122 ](https://reporter.nih.gov/search/VtfqPb0QikuyJA7-35r-5g/project-details/11195694)).
 
 ::: {.project-links}
 [Related papers](https://www.longevityconsortium.org/resources/publications/) · [Project page](https://www.longevityconsortium.org/)
@@ -184,6 +184,37 @@ discovery of novel drug, pathway, and cell-state connections.
 
 ::: {.project-caption}
 Bioactivity data mining strategy.
+:::
+:::
+
+:::
+
+## Software for Small Molecule Discovery and Chemical Genomics
+::: {.project-block .reverse}
+
+::: {.project-text}
+
+The _ChemmineR_ environment is a modular software infrastructure designed for
+modeling similarities among drug-like small molecules and high-throughput
+screening data in drug discovery and chemical genomics. It consists of five
+R/Bioconductor packages and the user-friendly ChemMine Tools web interface,
+providing utilities for molecule processing, property prediction, structural
+similarity searching, and clustering. A key component is the _fmcsR_ algorithm,
+which provides mismatch-tolerant maximum common substructure searches and has
+demonstrated superior virtual screening performance. Related software and
+resources include _ChemmineOB_ and _eiR_.
+
+::: {.project-links}
+Related papers and software: ChemmineR ([PMID](https://pubmed.ncbi.nlm.nih.gov/18596077/), [Bioc](https://bioconductor.org/packages/release/bioc/html/ChemmineR.html)) · ChemmineOB ([Bioc](https://bioconductor.org/packages/release/bioc/html/ChemmineOB.html)) · fmcsR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/23962615/), [Bioc](https://bioconductor.org/packages/release/bioc/html/fmcsR.html)) · eiR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/20179075/), [Bioc](https://www.bioconductor.org/packages/release/bioc/html/eiR.html)) · Chemmine Tools ([Web](https://chemminetools.ucr.edu/), [PubMed](https://pubmed.ncbi.nlm.nih.gov/21576229/))
+:::
+:::
+
+::: {.project-figure}
+![](images/ChemmineR.png){alt="Chemical Genomics"}
+![](images/crosstarget.png){alt="Chemical Genomics"}
+
+::: {.project-caption}
+Processing of druglike small molecules.
 :::
 :::
 
