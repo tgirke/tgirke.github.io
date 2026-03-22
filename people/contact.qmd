@@ -62,8 +62,14 @@ Professor of Bioinformatics
 ### Affiliations
 Director of High-Performance Computing Center ([HPCC](http://hpcc.ucr.edu/))  
 Institute for Integrative Genome Biology ([IIGB](http://genomics.ucr.edu/))  
-Center for Plant Cell Biology ([CEPCEB](https://cepceb.ucr.edu/))
-Department of Botany and Plant Sciences ([BPSC](http://plantbiology.ucr.edu/))
+Graduate Program in Genetics, Genomics and Bioinformatics ([GGB](https://genetics.ucr.edu/))   
+Center for Plant Cell Biology ([CEPCEB](https://cepceb.ucr.edu/))   
+Cooperating Faculty of Computer Science and Engineering Department ([CSE](https://www1.cs.ucr.edu/people/faculty))   
+Botany and Plant Sciences Department ([BPSC](http://plantbiology.ucr.edu/))  
+:::
+
+::: {.contact-section}
+### Additional Affiliations
 :::
 
 ::: {.contact-section}
