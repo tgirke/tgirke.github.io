@@ -31,7 +31,7 @@ and [GitHub](https://github.com/tgirke).
 Thomas Girke  
 Department of Botany and Plant Sciences  
 University of California, Riverside  
-<https://girke.bioinformatics.ucr.edu/contact/>
+<https://girke.bioinformatics.ucr.edu/people/contact/>
 
 ## Built With
 
