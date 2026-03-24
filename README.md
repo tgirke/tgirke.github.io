@@ -1,32 +1,43 @@
-# GEN242 — Data Analysis in Genome Biology
+# Girke Lab — Research and Teaching Site
 
-Graduate course website — University of California, Riverside  
-Live site: <https://girke.bioinformatics.ucr.edu/GEN242/>
+Lab website for the Girke Lab at the University of California, Riverside.  
+Live site: <https://girke.bioinformatics.ucr.edu/>
 
-## Course Description
+## Research
 
-This course covers the computational analysis of next-generation sequencing (NGS) data,
-including RNA-Seq, ChIP-Seq, and VAR-Seq experiments, using R/Bioconductor and
-workflow automation tools. Students develop practical skills in reproducible research,
-statistical analysis, and large-scale genomics.
+The Girke lab focuses on fundamental research questions at the intersection
+of genome biology and chemical genomics, including:
 
-## Contents
+- Computational methods for large-scale omics and small molecule bioactivity data
+- Gene expression signature searching and functional enrichment analysis
+- Workflow software for NGS data analysis
+- Cheminformatics and compound-target interaction analysis
+- Spatial transcriptomics and single-cell genomics
 
-- [Overview](https://girke.bioinformatics.ucr.edu/GEN242/overview/introduction.html) — Introduction, syllabus, and schedule
-- [Slides](https://girke.bioinformatics.ucr.edu/GEN242/slides/index.html) — Lecture slide decks
-- [Tutorials](https://girke.bioinformatics.ucr.edu/GEN242/tutorials/index.html) — Computational tutorials with executable R and Python code
-- [Assignments](https://girke.bioinformatics.ucr.edu/GEN242/assignments/index.html) — Homework and projects
+Software packages are distributed through [R/Bioconductor](https://bioconductor.org)
+and [GitHub](https://github.com/tgirke).
 
-## Instructor
+## Site Sections
 
-Thomas Girke, UC Riverside  
-<https://girke.bioinformatics.ucr.edu/>
+- [Biography](https://girke.bioinformatics.ucr.edu/bio/) — Research background and CV
+- [Members](https://girke.bioinformatics.ucr.edu/members/) — Current and former lab members
+- [Publications](https://girke.bioinformatics.ucr.edu/pubs/) — Publication list
+- [Software](https://girke.bioinformatics.ucr.edu/software/) — R/Bioconductor packages
+- [Teaching](https://girke.bioinformatics.ucr.edu/teaching/) — Courses and tutorials
+- [Positions](https://girke.bioinformatics.ucr.edu/positions/) — Open positions
 
-## License
+## Contact
 
-Course materials are available under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license unless otherwise noted.
+Thomas Girke  
+Department of Botany and Plant Sciences  
+University of California, Riverside  
+<https://girke.bioinformatics.ucr.edu/contact/>
+
+## Built With
+
+- [Quarto](https://quarto.org) — Scientific publishing system
+- [GitHub Pages](https://pages.github.com) — Hosting
 
 ---
 
-*Built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://pages.github.com).*  
 *For site administration instructions see [ADMIN.md](ADMIN.md).*
