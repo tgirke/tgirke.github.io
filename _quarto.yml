@@ -14,6 +14,9 @@ website:
   repo-url: "https://github.com/tgirke/tgirke.github.io"
   repo-actions: [edit, issue]
   favicon: assets/favicon.ico
+  open-graph: true
+  twitter-card: true
+  google-site-verification: "wv8Ml0hz_fMa6wysPlBI4tWyZb4s_43ZBsufyNe8dC0"  # google site verification using HTML tag
 
   navbar:
     logo: assets/logo.png
