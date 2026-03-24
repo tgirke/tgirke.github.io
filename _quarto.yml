@@ -16,7 +16,6 @@ website:
   favicon: assets/favicon.ico
   open-graph: true
   twitter-card: true
-  google-site-verification: "wv8Ml0hz_fMa6wysPlBI4tWyZb4s_43ZBsufyNe8dC0"  # google site verification using HTML tag
 
   navbar:
     logo: assets/logo.png
@@ -110,6 +109,9 @@ format:
     theme:
       light: [cosmo, assets/custom.scss]
       dark: [darkly, assets/custom-dark.scss]
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="wv8Ml0hz_fMa6wysPlBI4tWyZb4s_43ZBsufyNe8dC0">
     toc: true
     toc-location: right
     toc-depth: 2
